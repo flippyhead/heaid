@@ -1,0 +1,81 @@
+{\rtf1\ansi\ansicpg1252\cocoartf949\cocoasubrtf430
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+\margl1440\margr1440\vieww14860\viewh15660\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\qr\pardirnatural
+
+\f0\fs24 \cf0 z.glNav1 / z.glNav1b / z.glNav2 / z.glNav2b / z.glNav_quad / z.wii.glNav1 / z.wii.glNav2 / z.wii.glNav_quad\
+designed by Zachary Seldess\
+www.zacharyseldess.com\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\ql\qnatural\pardirnatural
+\cf0 \
+\
+- Place the z.glNav_patches folder somewhere in your Max search path (the patches folder is as good a place as any)\
+- Place the z.glNav_extras folder in your extras folder for easy access. Open 
+\b z.wiiremote.pat
+\b0  when using z.wii.glNav1 and glNav2, and open 
+\b z.wiiremote_quad.pat
+\b0  to sync the Wii Remote and send data.\
+- Please check out the help and html reference files for complete description of the abstractions' functionality\
+- Future updates will be available at www.zacharyseldess.com/z.glNav.html\
+\
+
+\b \
+OVERVIEW:
+\b0 \
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural\pardirnatural
+\cf0 These abstractions let you easily navigate 3D space in your openGL jitter patches using typical 3D game-like keyboard and mouse control (or the Wii remote with or without Wii Wheel). Readme files and example patches included for each version. \
+\
+\
+
+\b \ul z.glNav1 (walkingSim):
+\b0 \ulnone \
+In this version of the patch (z.glNav1), moving forward/backward/left/right = moving parallel to the x-z plane. Moving up/down = moving along the y axis. You can look up or down while "walking", but this will not affect your movement on the y axis. You can look around as you move up/down, but this will not affect your movement along the x and z axes. The camera and lookat behavior can be seen as, perhaps, similar to a helicopter - with or without roll.\
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural\pardirnatural
+
+\b \cf0 \ul \ulc0 z.glNav1b (walkingSim2):
+\b0 \ulnone \
+This is the same as z.glNav1, except camera rotation is achieved by clicking and dragging in the Jitter window.\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural\pardirnatural
+\cf0 \
+
+\b \ul z.glNav2 (flyingSim):
+\b0 \ulnone \
+This version of the patch is a true flight simulator (i.e. with camera and lookat behavior similar to a plane - with or without roll). Forward/backward is in reference to wherever you are currently looking.\
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural\pardirnatural
+
+\b \cf0 \ul \ulc0 z.glNav2b (flyingSim2):
+\b0 \ulnone \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural\pardirnatural
+\cf0 This is the same as z.glNav2, except camera rotation is achieved by clicking and dragging in the Jitter window.\
+\
+
+\b \ul z.glNav_quad (quadFlyingSim):
+\b0 \ulnone \
+This is a surround-video port of z.glNav2 (without roll). This version renders four viewports into the same GL space as you fly around, so that you can see all areas of space around you as you fly. These are (from left to right as displayed on screen): frontview, rightview, backview, leftview \
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural\pardirnatural
+
+\i\b \cf0 The following abstractions all require Masayuki Akamatsu's aka.wiiremote external \
+(which you can find @ http://www.iamas.ac.jp/~aka/max/ )\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural\pardirnatural
+
+\i0\b0 \cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural\pardirnatural
+
+\b \cf0 \ul \ulc0 z.wii.glNav1 (walkingSim):
+\b0 \ulnone \
+same as z.glNav1, but controlled via wii remote or Wii remote with Wii Wheel.\
+\
+
+\b \ul z.wii.glNav2 (flyingSim):
+\b0 \ulnone \
+same as z.glNav2, but controlled via Wii remote or Wii remote with Wii Wheel.\
+\
+
+\b \ul z.wii.glNav_quad (quadFlyingSim):
+\b0 \ulnone \
+same as z.glNav_quad, but controlled via Wii remote or Wii remote with Wii Wheel.}

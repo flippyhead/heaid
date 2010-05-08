@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="yes"?>
+
+<pattrstorage name = "iGesture-ranges.xml">
+	<slot number = "1">
+		<patcher name = "ali.iGesture-one-finger">
+			<pattr name = "iGesture-ranges" value = "-1" />
+		</patcher>
+		<patcher name = "ali.iGesture-one-finger[10]">
+			<patcher name = "ali.auto-scale">
+				<pattr name = "max" value = "1.34675" />
+				<pattr name = "min" value = "-0.185" />
+			</patcher>
+			<patcher name = "ali.auto-scale[1]">
+				<pattr name = "max" value = "0.9745" />
+				<pattr name = "min" value = "-0.151" />
+			</patcher>
+			<patcher name = "ali.auto-scale[2]">
+				<pattr name = "max" value = "6.023749" />
+				<pattr name = "min" value = "-6.614999" />
+			</patcher>
+			<patcher name = "ali.auto-scale[3]">
+				<pattr name = "max" value = "4.79" />
+				<pattr name = "min" value = "-5.496249" />
+			</patcher>
+			<patcher name = "ali.auto-scale[4]">
+				<pattr name = "max" value = "0.024417" />
+				<pattr name = "min" value = "0." />
+			</patcher>
+			<patcher name = "ali.auto-scale[5]">
+				<pattr name = "max" value = "165." />
+				<pattr name = "min" value = "0." />
+			</patcher>
+			<patcher name = "ali.auto-scale[6]">
+				<pattr name = "max" value = "2.9" />
+				<pattr name = "min" value = "0." />
+			</patcher>
+		</patcher>
+		<patcher name = "ali.iGesture-one-finger[11]">
+			<patcher name = "ali.auto-scale">
+				<pattr name = "max" value = "1.34675" />
+				<pattr name = "min" value = "-0.185" />
+			</patcher>
+			<patcher name = "ali.auto-scale[1]">
+				<pattr name = "max" value = "0.9745" />
+				<pattr name = "min" value = "-0.151" />
+			</patcher>
+			<patcher name = "ali.auto-scale[2]">
+				<pattr name = "max" value = "6.023749" />
+				<pattr name = "min" value = "-6.614999" />
+			</patcher>
+			<patcher name = "ali.auto-scale[3]">
+				<pattr name = "max" value = "4.79" />
+				<pattr name = "min" value = "-5.496249" />
+			</patcher>
+			<patcher name = "ali.auto-scale[4]">
+				<pattr name = "max" value = "0.024417" />
+				<pattr name = "min" value = "0." />
+			</patcher>
+			<patcher name = "ali.auto-scale[5]">
+				<pattr name = "max" value = "165." />
+				<pattr name = "min" value = "0." />
+			</patcher>
+			<patcher name = "ali.auto-scale[6]">
+				<pattr name = "max" value = "2.9" />
+				<pattr name = "min" value = "0." />
+			</patcher>
+		</patcher>
+		<patcher name = "ali.iGesture-one-finger[12]">
+			<patcher name = "ali.auto-scale">
+				<pattr name = "max" value = "1.34675" />
+				<pattr name = "min" value = "-0.185" />
+			</patcher>
+			<patcher name = "ali.auto-scale[1]">
+				<pattr name = "max" value = "0.9745" />
+				<pattr name = "min" value = "-0.151" />
+			</patcher>
+			<patcher name = "ali.auto-scale[2]">
+				<pattr name = "max" value = "6.023749" />
+				<pattr name = "min" value = "-6.614999" />
+			</patcher>
+			<patcher name = "ali.auto-scale[3]">
+				<pattr name = "max" value = "4.79" />
+				<pattr name = "min" value = "-5.496249" />
+			</patcher>
+			<patcher name = "ali.auto-scale[4]">
+				<pattr name = "max" value = "0.024417" />
+				<pattr name = "min" value = "0." />
+			</patcher>
+			<patcher name = "ali.auto-scale[5]">
+				<pattr name = "max" value = "165." />
+				<pattr name = "min" value = "0." />
+			</patcher>
+			<patcher name = "ali.auto-scale[6]">
+				<pattr name = "max" value = "2.9" />
+				<pattr name = "min" value = "0." />
+			</patcher>
+		</patcher>
+		<patcher name = "ali.iGesture-one-finger[13]">
+			<patcher name = "ali.auto-scale">
+				<pattr name = "max" value = "1.34675" />
+				<pattr name = "min" value = "-0.185" />
+			</patcher>
+			<patcher name = "ali.auto-scale[1]">
+				<pattr name = "max" value = "0.9745" />
+				<pattr name = "min" value = "-0.151" />
+			</patcher>
+			<patcher name = "ali.auto-scale[2]">
+				<pattr name = "max" value = "6.023749" />
+				<pattr name = "min" value = "-6.614999" />
+			</patcher>
+			<patcher name = "ali.auto-scale[3]">
+				<pattr name = "max" value = "4.79" />
+				<pattr name = "min" value = "-5.496249" />
+			</patcher>
+			<patcher name = "ali.auto-scale[4]">
+				<pattr name = "max" value = "0.024417" />
+				<pattr name = "min" value = "0." />
+			</patcher>
+			<patcher name = "ali.auto-scale[5]">
+				<pattr name = "max" value = "165." />
+				<pattr name = "min" value = "0." />
+			</patcher>
+			<patcher name = "ali.auto-scale[6]">
+				<pattr name = "max" value = "2.9" />
+				<pattr name = "min" value = "0." />
+			</patcher>
+		</patcher>
+		<patcher name = "ali.iGesture-one-finger[14]">
+			<patcher name = "ali.auto-scale">
+				<pattr name = "max" value = "1.34675" />
+				<pattr name = "min" value = "-0.185" />
+			</patcher>
+			<patcher name = "ali.auto-scale[1]">
+				<pattr name = "max" value = "0.9745" />
+				<pattr name = "min" value = "-0.151" />
+			</patcher>
+			<patcher name = "ali.auto-scale[2]">
+				<pattr name = "max" value = "6.023749" />
+				<pattr name = "min" value = "-6.614999" />
+			</patcher>
+			<patcher name = "ali.auto-scale[3]">
+				<pattr name = "max" value = "4.79" />
+				<pattr name = "min" value = "-5.496249" />
+			</patcher>
+			<patcher name = "ali.auto-scale[4]">
+				<pattr name = "max" value = "0.024417" />
+				<pattr name = "min" value = "0." />
+			</patcher>
+			<patcher name = "ali.auto-scale[5]">
+				<pattr name = "max" value = "165." />
+				<pattr name = "min" value = "0." />
+			</patcher>
+			<patcher name = "ali.auto-scale[6]">
+				<pattr name = "max" value = "2.9" />
+				<pattr name = "min" value = "0." />
+			</patcher>
+		</patcher>
+		<patcher name = "ali.iGesture-one-finger[15]">
+			<patcher name = "ali.auto-scale">
+				<pattr name = "max" value = "1.34675" />
+				<pattr name = "min" value = "-0.185" />
+			</patcher>
+			<patcher name = "ali.auto-scale[1]">
+				<pattr name = "max" value = "0.9745" />
+				<pattr name = "min" value = "-0.151" />
+			</patcher>
+			<patcher name = "ali.auto-scale[2]">
+				<pattr name = "max" value = "6.023749" />
+				<pattr name = "min" value = "-6.614999" />
+			</patcher>
+			<patcher name = "ali.auto-scale[3]">
+				<pattr name = "max" value = "4.79" />
+				<pattr name = "min" value = "-5.496249" />
+			</patcher>
+			<patcher name = "ali.auto-scale[4]">
+				<pattr name = "max" value = "0.024417" />
+				<pattr name = "min" value = "0." />
+			</patcher>
+			<patcher name = "ali.auto-scale[5]">
+				<pattr name = "max" value = "165." />
+				<pattr name = "min" value = "0." />
+			</patcher>
+			<patcher name = "ali.auto-scale[6]">
+				<pattr name = "max" value = "2.9" />
+				<pattr name = "min" value = "0." />
+			</patcher>
+		</patcher>
+		<patcher name = "ali.iGesture-one-finger[16]">
+			<patcher name = "ali.auto-scale">
+				<pattr name = "max" value = "1.34675" />
+				<pattr name = "min" value = "-0.185" />
+			</patcher>
+			<patcher name = "ali.auto-scale[1]">
+				<pattr name = "max" value = "0.9745" />
+				<pattr name = "min" value = "-0.151" />
+			</patcher>
+			<patcher name = "ali.auto-scale[2]">
+				<pattr name = "max" value = "6.023749" />
+				<pattr name = "min" value = "-6.614999" />
+			</patcher>
+			<patcher name = "ali.auto-scale[3]">
+				<pattr name = "max" value = "4.79" />
+				<pattr name = "min" value = "-5.496249" />
+			</patcher>
+			<patcher name = "ali.auto-scale[4]">
+				<pattr name = "max" value = "0.024417" />
+				<pattr name = "min" value = "0." />
+			</patcher>
+			<patcher name = "ali.auto-scale[5]">
+				<pattr name = "max" value = "165." />
+				<pattr name = "min" value = "0." />
+			</patcher>
+			<patcher name = "ali.auto-scale[6]">
+				<pattr name = "max" value = "2.9" />
+				<pattr name = "min" value = "0." />
+			</patcher>
+		</patcher>
+		<patcher name = "ali.iGesture-one-finger[17]">
+			<patcher name = "ali.auto-scale">
+				<pattr name = "max" value = "1.34675" />
+				<pattr name = "min" value = "-0.185" />
+			</patcher>
+			<patcher name = "ali.auto-scale[1]">
+				<pattr name = "max" value = "0.9745" />
+				<pattr name = "min" value = "-0.151" />
+			</patcher>
+			<patcher name = "ali.auto-scale[2]">
+				<pattr name = "max" value = "6.023749" />
+				<pattr name = "min" value = "-6.614999" />
+			</patcher>
+			<patcher name = "ali.auto-scale[3]">
+				<pattr name = "max" value = "4.79" />
+				<pattr name = "min" value = "-5.496249" />
+			</patcher>
+			<patcher name = "ali.auto-scale[4]">
+				<pattr name = "max" value = "0.024417" />
+				<pattr name = "min" value = "0." />
+			</patcher>
+			<patcher name = "ali.auto-scale[5]">
+				<pattr name = "max" value = "165." />
+				<pattr name = "min" value = "0." />
+			</patcher>
+			<patcher name = "ali.auto-scale[6]">
+				<pattr name = "max" value = "2.9" />
+				<pattr name = "min" value = "0." />
+			</patcher>
+		</patcher>
+		<patcher name = "ali.iGesture-one-finger[18]">
+			<patcher name = "ali.auto-scale">
+				<pattr name = "max" value = "1.34675" />
+				<pattr name = "min" value = "-0.185" />
+			</patcher>
+			<patcher name = "ali.auto-scale[1]">
+				<pattr name = "max" value = "0.9745" />
+				<pattr name = "min" value = "-0.151" />
+			</patcher>
+			<patcher name = "ali.auto-scale[2]">
+				<pattr name = "max" value = "6.023749" />
+				<pattr name = "min" value = "-6.614999" />
+			</patcher>
+			<patcher name = "ali.auto-scale[3]">
+				<pattr name = "max" value = "4.79" />
+				<pattr name = "min" value = "-5.496249" />
+			</patcher>
+			<patcher name = "ali.auto-scale[4]">
+				<pattr name = "max" value = "0.024417" />
+				<pattr name = "min" value = "0." />
+			</patcher>
+			<patcher name = "ali.auto-scale[5]">
+				<pattr name = "max" value = "165." />
+				<pattr name = "min" value = "0." />
+			</patcher>
+			<patcher name = "ali.auto-scale[6]">
+				<pattr name = "max" value = "2.9" />
+				<pattr name = "min" value = "0." />
+			</patcher>
+		</patcher>
+		<patcher name = "ali.iGesture-one-finger[1]">
+			<patcher name = "ali.auto-scale">
+				<pattr name = "max" value = "1.34675" />
+				<pattr name = "min" value = "-0.185" />
+			</patcher>
+			<patcher name = "ali.auto-scale[1]">
+				<pattr name = "max" value = "0.9745" />
+				<pattr name = "min" value = "-0.151" />
+			</patcher>
+			<patcher name = "ali.auto-scale[2]">
+				<pattr name = "max" value = "6.023749" />
+				<pattr name = "min" value = "-6.614999" />
+			</patcher>
+			<patcher name = "ali.auto-scale[3]">
+				<pattr name = "max" value = "4.79" />
+				<pattr name = "min" value = "-5.496249" />
+			</patcher>
+			<patcher name = "ali.auto-scale[4]">
+				<pattr name = "max" value = "0.024417" />
+				<pattr name = "min" value = "0." />
+			</patcher>
+			<patcher name = "ali.auto-scale[5]">
+				<pattr name = "max" value = "165." />
+				<pattr name = "min" value = "0." />
+			</patcher>
+			<patcher name = "ali.auto-scale[6]">
+				<pattr name = "max" value = "2.9" />
+				<pattr name = "min" value = "0." />
+			</patcher>
+		</patcher>
+	</slot>
+</pattrstorage>
+

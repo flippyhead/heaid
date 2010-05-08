@@ -1,0 +1,1 @@
+open thispatcherinclude "Shabash:/Users/ali/Documents/_for-MaxMSP/ali's microchism/controllers/wacom/ali.wacom_X-simple"include "Shabash:/Users/ali/Documents/_for-MaxMSP/XMax-Lib(OSX)_ali/Jean-Michel Couturier/wacom Folder/wacom"

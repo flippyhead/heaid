@@ -1,0 +1,3 @@
+max objectfile . dot;
+max objectfile pi pi_constant;
+max objectfile e euler_constant;

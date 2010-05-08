@@ -1,0 +1,1 @@
+G, pitch 1568.;F, pitch 686.;Dd, pitch 1097.599976;C, pitch 1045.199951;67, pitch 1568.;53, pitch 686.;61, pitch 1097.599976;60, pitch 1045.199951;74, pitch 2352.;63, pitch 1254.4;59, pitch 980.0;57, pitch 882.0;56, pitch 735.0;

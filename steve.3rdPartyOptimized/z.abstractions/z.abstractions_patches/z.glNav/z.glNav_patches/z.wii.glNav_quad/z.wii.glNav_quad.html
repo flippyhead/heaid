@@ -1,0 +1,52 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <title></title>
+  <meta name="Generator" content="Cocoa HTML Writer">
+  <meta name="CocoaVersion" content="949.27">
+  <style type="text/css">
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: right; font: 12.0px Helvetica}
+    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; min-height: 14.0px}
+    p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica}
+    span.Apple-tab-span {white-space:pre}
+  </style>
+</head>
+<body>
+<p class="p1">z.wii.glNav_quad</p>
+<p class="p1">designed by Zachary Seldess</p>
+<p class="p1">www.zacharyseldess.com</p>
+<p class="p2"><br></p>
+<p class="p2"><br></p>
+<p class="p3">This version of the patch (z.wii.glNav_quad) is a surround video flight simulator controlled via the Wii remote or the Wii remote with Wii Wheel.</p>
+<p class="p3">You'll need to open <b>z.wiiremote_quad.pat</b> to sync Wii and send data to z.wii.glNav_quad.pat.</p>
+<p class="p3">Masayuki Akamatsu's aka.wiiremote external is required - you can find it @ http://www.iamas.ac.jp/~aka/max/<span class="Apple-converted-space"> </span></p>
+<p class="p2"><br></p>
+<p class="p3">Viewports into the 3D space are positioned as follows from left to right: front view, right view, back view, left view</p>
+<p class="p2"><br></p>
+<p class="p2"><br></p>
+<p class="p3">MESSAGES:</p>
+<p class="p3"><span class="Apple-tab-span">	</span>-speed $1 ---&gt; sets speed along the x-z plane (default 1 world unit / second)</p>
+<p class="p3"><span class="Apple-tab-span">	</span>-rotate_speed $1 ---&gt; sets left/right speed of rotation in the range of 0. to 1.( 0=slow, 1=fast - default 0.5)</p>
+<p class="p3"><span class="Apple-tab-span">	</span>-camera $1 $2 $3 ---&gt; set camera (list: camera x y z - default 0. 0. 2.)</p>
+<p class="p3"><span class="Apple-tab-span">	</span>-easing $1 ---&gt; sets easing value (0=no easing, 100=lots of easing - default 30.)</p>
+<p class="p3"><span class="Apple-tab-span">	</span>-lens_angle1 $1 ---&gt; sets normal lens_angle (default 45.)</p>
+<p class="p3"><span class="Apple-tab-span">	</span>-lens_angle2 $1 ---&gt; sets zoom lens_angle (default 10.)</p>
+<p class="p3"><span class="Apple-tab-span">	</span>-mode $1 ---&gt; sets wii mode (default -&gt; mode 1 = normal Wii remote / mode 2 = Wii remote with Wii Wheel)</p>
+<p class="p2"><br></p>
+<p class="p3">PLEASE SEE THE EXAMPLE PATCH FOR MORE INSTRUCTIONS ON MESSAGE FORMAT AND OTHER CRUCIAL DETAILS.</p>
+<p class="p3"> </p>
+<p class="p3">MOVEMENT CONTROLS:</p>
+<p class="p3"> </p>
+<p class="p3">Tilt the Wii left/right/up/down to look around and steer your movement</p>
+<p class="p3">Use the Wii's 'd-pad' to move forward/backward/left/right (combine the arrows for diagonal movement)</p>
+<p class="p2"><br></p>
+<p class="p3"> </p>
+<p class="p3">OTHER CONTROLS:</p>
+<p class="p3"> </p>
+<p class="p3">'HOME' button toggles navigation mode on/off (off by default)</p>
+<p class="p3"><span class="Apple-tab-span">	</span>-movement and zooming can only be changed while navigation mode is on</p>
+<p class="p3">'B' button zooms the camera view in</p>
+</body>
+</html>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<pattrstorage name = "quadObj2Clo">
+	<slot number = "1">
+		<pattr name = "flonum" value = "0.5" />
+		<pattr name = "flonum[1]" value = "0." />
+		<pattr name = "flonum[2]" value = "6." />
+		<pattr name = "flonum[3]" value = "1." />
+		<pattr name = "flonum[4]" value = "0.1" />
+		<pattr name = "flonum[5]" value = "1." />
+		<pattr name = "flonum[6]" value = "6." />
+		<pattr name = "flonum[7]" value = "0." />
+		<pattr name = "flonum[8]" value = "0.5" />
+		<patcher name = "z.quadObj2_clo">
+			<patcher name = "reverb">
+				<pattr name = "revdiffuse" value = "52." />
+				<pattr name = "revfreqdamp" value = "75." />
+				<pattr name = "revdecay" value = "31." />
+				<pattr name = "revsize" value = "49." />
+			</patcher>
+		</patcher>
+		<pattr name = "reverb_size[1]" value = "20" />
+	</slot>
+	<slot number = "2">
+		<pattr name = "flonum" value = "1.8" />
+		<pattr name = "flonum[1]" value = "0." />
+		<pattr name = "flonum[2]" value = "3." />
+		<pattr name = "flonum[3]" value = "1." />
+		<pattr name = "flonum[4]" value = "0.1" />
+		<pattr name = "flonum[5]" value = "1." />
+		<pattr name = "flonum[6]" value = "6." />
+		<pattr name = "flonum[7]" value = "0." />
+		<pattr name = "flonum[8]" value = "0.43" />
+		<patcher name = "z.quadObj2_clo">
+			<patcher name = "reverb">
+				<pattr name = "revdiffuse" value = "80." />
+				<pattr name = "revfreqdamp" value = "85." />
+				<pattr name = "revdecay" value = "74." />
+				<pattr name = "revsize" value = "76." />
+			</patcher>
+		</patcher>
+		<pattr name = "reverb_size[1]" value = "20" />
+	</slot>
+	<slot number = "3">
+		<pattr name = "flonum" value = "1.202" />
+		<pattr name = "flonum[1]" value = "0." />
+		<pattr name = "flonum[2]" value = "4.38" />
+		<pattr name = "flonum[3]" value = "1." />
+		<pattr name = "flonum[4]" value = "0.1" />
+		<pattr name = "flonum[5]" value = "1." />
+		<pattr name = "flonum[6]" value = "6." />
+		<pattr name = "flonum[7]" value = "0." />
+		<pattr name = "flonum[8]" value = "0.4622" />
+		<patcher name = "z.quadObj2_clo">
+			<patcher name = "reverb">
+				<pattr name = "revdiffuse" value = "67.12" />
+				<pattr name = "revfreqdamp" value = "80.4" />
+				<pattr name = "revdecay" value = "54.22" />
+				<pattr name = "revsize" value = "63.58" />
+			</patcher>
+		</patcher>
+		<pattr name = "reverb_size[1]" value = "20." />
+	</slot>
+</pattrstorage>
+

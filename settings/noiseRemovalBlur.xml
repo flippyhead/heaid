@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<pattrstorage name = "noiseRemovalBlur">
+	<slot number = "1">
+		<pattr name = "center" value = "1." />
+		<pattr name = "mode" value = "4" />
+		<pattr name = "range" value = "3" />
+		<pattr name = "ring" value = "1." />
+		<pattr name = "ripple" value = "1." />
+		<pattr name = "threshold" value = "6" />
+	</slot>
+</pattrstorage>
+

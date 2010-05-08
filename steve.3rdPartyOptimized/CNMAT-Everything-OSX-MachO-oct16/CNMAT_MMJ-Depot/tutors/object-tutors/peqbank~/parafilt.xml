@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="yes"?>
+
+<pattrstorage name = "parafilt">
+	<slot number = "1">
+		<pattr name = "bandwidth" value = "0.5" />
+		<pattr name = "centerfreq" value = "500." />
+		<pattr name = "GO" value = "0." />
+		<pattr name = "Peak" value = "20." />
+		<pattr name = "GB" value = "0." />
+		<pattr name = "parafilt[1]" value = "" />
+	</slot>
+	<slot number = "2">
+		<pattr name = "bandwidth" value = "0.1" />
+		<pattr name = "centerfreq" value = "5000." />
+		<pattr name = "GO" value = "0." />
+		<pattr name = "Peak" value = "40." />
+		<pattr name = "GB" value = "0." />
+		<pattr name = "parafilt[1]" value = "" />
+	</slot>
+	<slot number = "3">
+		<pattr name = "bandwidth" value = "2." />
+		<pattr name = "centerfreq" value = "400." />
+		<pattr name = "GO" value = "0." />
+		<pattr name = "Peak" value = "-25." />
+		<pattr name = "GB" value = "0." />
+		<pattr name = "parafilt[1]" value = "" />
+	</slot>
+</pattrstorage>
+

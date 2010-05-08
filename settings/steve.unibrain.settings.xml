@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<pattrstorage name = "steve.unibrain.settings[1]">
+	<slot number = "1">
+		<pattr name = "capDImW" value = "640" />
+		<pattr name = "capDimH" value = "480" />
+		<pattr name = "captureRate(ms)" value = "33" />
+		<pattr name = "colormode" value = "1" />
+		<pattr name = "cropMethod-4testing" value = "passBW" />
+		<pattr name = "interp" value = "1" />
+		<pattr name = "srcRectBottom" value = "480" />
+		<pattr name = "srcRectLeft" value = "80" />
+		<pattr name = "srcRectRight" value = "560" />
+		<pattr name = "srcRectTop" value = "0" />
+	</slot>
+	<slot number = "2">
+		<pattr name = "capDImW" value = "640" />
+		<pattr name = "capDimH" value = "480" />
+		<pattr name = "captureRate(ms)" value = "32" />
+		<pattr name = "colormode" value = "0" />
+		<pattr name = "cropMethod-4testing" value = "&quot;jit.matrix crop&quot;" />
+		<pattr name = "interp" value = "0" />
+		<pattr name = "srcRectBottom" value = "480" />
+		<pattr name = "srcRectLeft" value = "80" />
+		<pattr name = "srcRectRight" value = "560" />
+		<pattr name = "srcRectTop" value = "0" />
+	</slot>
+	<slot number = "3">
+		<pattr name = "capDImW" value = "360" />
+		<pattr name = "capDimH" value = "480" />
+		<pattr name = "captureRate(ms)" value = "33" />
+		<pattr name = "colormode" value = "0" />
+		<pattr name = "cropMethod-4testing" value = "passBW" />
+		<pattr name = "interp" value = "0" />
+		<pattr name = "srcRectBottom" value = "480" />
+		<pattr name = "srcRectLeft" value = "80" />
+		<pattr name = "srcRectRight" value = "560" />
+		<pattr name = "srcRectTop" value = "0" />
+	</slot>
+</pattrstorage>
+

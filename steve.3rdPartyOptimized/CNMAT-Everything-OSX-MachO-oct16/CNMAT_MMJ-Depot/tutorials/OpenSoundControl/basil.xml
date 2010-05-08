@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="yes"?>
+
+<pattrstorage name = "basil">
+	<slot number = "1">
+		<pattr name = "cumin" value = "101" />
+		<patcher name = "spices">
+			<pattr name = "dill" value = "45" />
+			<pattr name = "paprika" value = "63" />
+		</patcher>
+		<patcher name = "otherspices">
+			<pattr name = "coriander" value = "71" />
+			<pattr name = "oregano" value = "77" />
+			<pattr name = "paprika" value = "95" />
+		</patcher>
+	</slot>
+	<slot number = "2">
+		<pattr name = "cumin" value = "23" />
+		<patcher name = "spices">
+			<pattr name = "dill" value = "117" />
+			<pattr name = "paprika" value = "112" />
+		</patcher>
+		<patcher name = "otherspices">
+			<pattr name = "coriander" value = "23" />
+			<pattr name = "oregano" value = "127" />
+			<pattr name = "paprika" value = "15" />
+		</patcher>
+	</slot>
+</pattrstorage>
+

@@ -1,0 +1,12 @@
+<jittershader name="flatten">
+	<param name="tex0" type="int" default="1" />
+	<param name="amt" type="float" default="5" />
+	<language name="glsl" version="1.0">
+		<bind param="tex0" program="fp" />
+		<bind param="texValue" program="vp" />
+		<bind param="texValue" program="fp" />
+		<bind param="amt" program="vp" />
+		<program name="vp" type="vertex" source="flatten.vp.glsl" />
+		<program name="fp" type="fragment" source="flatten.fp.glsl" />
+	</language>
+</jittershader> 

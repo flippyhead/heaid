@@ -1,0 +1,71 @@
+// !$*UTF8*$!
+{
+	079993230ADD6DA800DCFF66 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+		scmType = "";
+	};
+	079993240ADD6DA800DCFF66 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	079993280ADD6DB900DCFF66 /* fft4.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {612, 4690}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRect = "{{0, 0}, {612, 796}}";
+			sepNavWindowFrame = "{{15, 98}, {651, 925}}";
+		};
+	};
+	079993370ADD6DC100DCFF66 /* makewindows.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {612, 1932}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRect = "{{0, 612}, {612, 796}}";
+			sepNavWindowFrame = "{{38, 77}, {651, 925}}";
+		};
+	};
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeTarget = D2AAC045055464E500DB518D /* fftease */;
+		addToTargets = (
+			D2AAC045055464E500DB518D /* fftease */,
+		);
+		codeSenseManager = 079993240ADD6DA800DCFF66 /* Code sense */;
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					243,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 185571097;
+			PBXWorkspaceStateSaveDate = 185571097;
+		};
+		sourceControlManager = 079993230ADD6DA800DCFF66 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	D2AAC045055464E500DB518D /* fftease */ = {
+		activeExec = 0;
+	};
+}

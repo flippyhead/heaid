@@ -1,0 +1,45 @@
+{
+	"pattrstorage" : 	{
+		"name" : "noiseRemovalBlur",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"center" : [ 5.0 ],
+					"mode" : [ 4 ],
+					"range" : [ 62 ],
+					"ring" : [ 0.28 ],
+					"ripple" : [ 39.0 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"center" : [ 5.0 ],
+					"mode" : [ 3 ],
+					"range" : [ 62 ],
+					"ring" : [ 0.28 ],
+					"ripple" : [ 39.0 ]
+				}
+
+			}
+,
+			"3" : 			{
+				"id" : 3,
+				"data" : 				{
+					"center" : [ 106.0 ],
+					"mode" : [ 4 ],
+					"range" : [ 9 ],
+					"ring" : [ 0.49 ],
+					"ripple" : [ 21.0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

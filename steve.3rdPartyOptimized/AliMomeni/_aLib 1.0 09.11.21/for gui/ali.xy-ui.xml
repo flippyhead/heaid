@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="yes"?>
+
+<pattrstorage name = "ali.xy-ui.xml">
+	<slot number = "1">
+		<pattr name = "jsui" value = "-0.253126 0.437218 0.276138 0.16108 0.222444 -0.061364 -0.15341 -0.368184 -0.675003 -0.145739" />
+	</slot>
+	<slot number = "2">
+		<pattr name = "jsui" value = "0.483241 0.636651 -0.276138 0.513923 -0.659662 0.030682 -0.429547 -0.544605 0.77472 -0.506252 0.337502 -0.406536" />
+	</slot>
+</pattrstorage>
+

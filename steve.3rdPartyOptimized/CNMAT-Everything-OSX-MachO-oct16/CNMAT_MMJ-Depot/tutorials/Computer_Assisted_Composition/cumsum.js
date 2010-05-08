@@ -1,0 +1,1 @@
+var myVector = new Array();function list(){	myVector.length = 0;	lastVal = 0;	for (i=0; i<arguments.length;i++)	{	 	currentVal = arguments[i];		myVector[i] = currentVal + lastVal;		lastVal = myVector[i];	}	outlet(0,myVector);}

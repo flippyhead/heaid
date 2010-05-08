@@ -1,0 +1,1 @@
+anything.immediate = 1;function anything(a, b){var v = arrayfromargs(messagename,arguments);var a = v[0];var b = v[1];if (a==b) outlet(0, 1);else outlet(0, 0);}

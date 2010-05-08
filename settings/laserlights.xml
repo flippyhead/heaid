@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<pattrstorage name = "laserlights">
+	<slot number = "1">
+		<pattr name = "light1" value = "127" />
+		<pattr name = "light2" value = "0" />
+		<pattr name = "light3" value = "127" />
+		<pattr name = "light4" value = "127" />
+		<pattr name = "light5" value = "127" />
+	</slot>
+	<slot number = "2">
+		<pattr name = "light1" value = "0" />
+		<pattr name = "light2" value = "0" />
+		<pattr name = "light3" value = "0" />
+		<pattr name = "light4" value = "0" />
+		<pattr name = "light5" value = "0" />
+	</slot>
+	<slot number = "3">
+		<pattr name = "light1" value = "56" />
+		<pattr name = "light2" value = "44" />
+		<pattr name = "light3" value = "60" />
+		<pattr name = "light4" value = "77" />
+		<pattr name = "light5" value = "117" />
+	</slot>
+	<slot number = "4">
+		<pattr name = "light1" value = "101" />
+		<pattr name = "light2" value = "41" />
+		<pattr name = "light3" value = "49" />
+		<pattr name = "light4" value = "33" />
+		<pattr name = "light5" value = "19" />
+	</slot>
+	<slot number = "5">
+		<pattr name = "light1" value = "118" />
+		<pattr name = "light2" value = "94" />
+		<pattr name = "light3" value = "61" />
+		<pattr name = "light4" value = "33" />
+		<pattr name = "light5" value = "0" />
+	</slot>
+</pattrstorage>
+

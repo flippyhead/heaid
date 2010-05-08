@@ -1,0 +1,1 @@
+var name = this.patcher.name;var path = this.patcher.filepath;outlets = 2;function bang(){	outlet(0,name);	outlet(1,path);}function anything(){	outlet(0,name);	outlet(1,path);}

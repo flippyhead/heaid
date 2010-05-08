@@ -1,0 +1,51 @@
+{
+	"pattrstorage" : 	{
+		"name" : "steve.GLeyes2",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"flonum[2]" : [ 0.72 ],
+					"flonum[3]" : [ 0.51 ],
+					"flonum[4]" : [ 1.0 ],
+					"flonum[5]" : [ 0.21 ],
+					"number[4]" : [ 4 ],
+					"number[5]" : [ 2 ],
+					"toggle[2]" : [ 0 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"flonum[2]" : [  ],
+					"flonum[3]" : [  ],
+					"flonum[4]" : [  ],
+					"flonum[5]" : [  ],
+					"number[4]" : [  ],
+					"number[5]" : [  ],
+					"toggle[2]" : [  ]
+				}
+
+			}
+,
+			"5" : 			{
+				"id" : 5,
+				"data" : 				{
+					"flonum[2]" : [  ],
+					"flonum[3]" : [  ],
+					"flonum[4]" : [  ],
+					"flonum[5]" : [  ],
+					"number[4]" : [  ],
+					"number[5]" : [  ],
+					"toggle[2]" : [  ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

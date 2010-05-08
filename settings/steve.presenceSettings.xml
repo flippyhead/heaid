@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<pattrstorage name = "steve.presenceSettings">
+	<slot number = "1">
+		<pattr name = "BGAdapt_on/freeze" value = "1" />
+		<pattr name = "BGadaptType" value = "1" />
+		<pattr name = "Presence_Enable" value = "1" />
+		<pattr name = "adaptTime" value = "0.1" />
+		<pattr name = "deNoiseAmount" value = "0.033" />
+		<pattr name = "deNoiser2Amount" value = "0.001" />
+		<pattr name = "deNoiserType" value = "28" />
+		<pattr name = "deNoiserType[1]" value = "1" />
+		<pattr name = "noiseRemovalThreshold2" value = "14" />
+		<pattr name = "presencePlaneType" value = "0" />
+		<pattr name = "presencePostprocType" value = "1" />
+		<pattr name = "presenceType" value = "12" />
+		<patcher name = "noiseremoval">
+			<pattr name = "noiseRemovalBlur" value = "-1" />
+		</patcher>
+	</slot>
+	<slot number = "2">
+		<pattr name = "BGAdapt_on/freeze" value = "1" />
+		<pattr name = "BGadaptType" value = "1" />
+		<pattr name = "Presence_Enable" value = "1" />
+		<pattr name = "adaptTime" value = "0.0068" />
+		<pattr name = "deNoiseAmount" value = "0.093" />
+		<pattr name = "deNoiser2Amount" value = "0.017" />
+		<pattr name = "deNoiserType" value = "28" />
+		<pattr name = "deNoiserType[1]" value = "1" />
+		<pattr name = "noiseRemovalThreshold2" value = "13" />
+		<pattr name = "presencePlaneType" value = "0" />
+		<pattr name = "presencePostprocType" value = "1" />
+		<pattr name = "presenceType" value = "12" />
+		<patcher name = "noiseremoval">
+			<pattr name = "noiseRemovalBlur" value = "-1" />
+		</patcher>
+	</slot>
+	<slot number = "3">
+		<pattr name = "BGAdapt_on/freeze" value = "1" />
+		<pattr name = "BGadaptType" value = "1" />
+		<pattr name = "Presence_Enable" value = "1" />
+		<pattr name = "adaptTime" value = "0.0068" />
+		<pattr name = "deNoiseAmount" value = "0.097" />
+		<pattr name = "deNoiser2Amount" value = "0.041" />
+		<pattr name = "deNoiserType" value = "28" />
+		<pattr name = "deNoiserType[1]" value = "1" />
+		<pattr name = "noiseRemovalThreshold2" value = "15" />
+		<pattr name = "presencePlaneType" value = "0" />
+		<pattr name = "presencePostprocType" value = "4" />
+		<pattr name = "presenceType" value = "12" />
+		<patcher name = "noiseremoval">
+			<pattr name = "noiseRemovalBlur" value = "-1" />
+		</patcher>
+	</slot>
+	<slot number = "4">
+		<pattr name = "BGAdapt_on/freeze" value = "1" />
+		<pattr name = "BGadaptType" value = "1" />
+		<pattr name = "Presence_Enable" value = "1" />
+		<pattr name = "adaptTime" value = "0.1" />
+		<pattr name = "deNoiseAmount" value = "0.47" />
+		<pattr name = "deNoiser2Amount" value = "0.006" />
+		<pattr name = "deNoiserType" value = "34" />
+		<pattr name = "deNoiserType[1]" value = "1" />
+		<pattr name = "noiseRemovalThreshold2" value = "4" />
+		<pattr name = "presencePlaneType" value = "0" />
+		<pattr name = "presencePostprocType" value = "2" />
+		<pattr name = "presenceType" value = "18" />
+		<patcher name = "noiseremoval">
+			<pattr name = "noiseRemovalBlur" value = "-1" />
+		</patcher>
+	</slot>
+</pattrstorage>
+

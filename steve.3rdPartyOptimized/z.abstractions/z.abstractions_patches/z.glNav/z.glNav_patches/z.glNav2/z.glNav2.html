@@ -1,0 +1,68 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <title></title>
+  <meta name="Generator" content="Cocoa HTML Writer">
+  <meta name="CocoaVersion" content="949.27">
+  <style type="text/css">
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: right; font: 12.0px Helvetica}
+    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; min-height: 14.0px}
+    p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica}
+    p.p4 {margin: 0.0px 0.0px 0.0px 36.0px; text-indent: -36.0px; font: 12.0px Helvetica}
+    p.p5 {margin: 0.0px 0.0px 0.0px 35.0px; text-indent: -35.0px; font: 12.0px Helvetica}
+    span.Apple-tab-span {white-space:pre}
+  </style>
+</head>
+<body>
+<p class="p1">z.glNav2</p>
+<p class="p1">designed by Zachary Seldess</p>
+<p class="p1">www.zacharyseldess.com</p>
+<p class="p2"><br></p>
+<p class="p3">MOVEMENT:</p>
+<p class="p2"><br></p>
+<p class="p3">Use the mouse/trackpad to control your lookat point.<span class="Apple-converted-space"> </span></p>
+<p class="p3">Use the keyboard to move the camera</p>
+<p class="p2"><br></p>
+<p class="p3">MESSAGES:</p>
+<p class="p4"><span class="Apple-tab-span">	</span>-speed $1 ---&gt; sets speed along the x-z plane (default 1 world unit / second)</p>
+<p class="p4"><span class="Apple-tab-span">	</span>-camera $1 $2 $3 ---&gt; set camera (list: camera x y z - default 0. 0. 2.)</p>
+<p class="p4"><span class="Apple-tab-span">	</span>-lookat $1 $2 $3 ---&gt; set lookat point (list: lookat x y z - default 0. 0. 0.)</p>
+<p class="p4"><span class="Apple-tab-span">	</span>-easing $1 ---&gt; sets easing value (default 0.1)</p>
+<p class="p4"><span class="Apple-tab-span">	</span>-lens_angle1 $1 ---&gt; sets normal lens_angle (default 45.)</p>
+<p class="p4"><span class="Apple-tab-span">	</span>-lens_angle2 $1 ---&gt; sets zoom lens_angle (default 10.)</p>
+<p class="p4"><span class="Apple-tab-span">	</span>-roll $1 ---&gt; 0/1 turns roll on/off (default 0)</p>
+<p class="p4"><span class="Apple-tab-span">	</span>-roll_strength $1 ---&gt; sets strength of roll as you turn (0.=minimum roll, 1.=maximum roll - default 0.85)</p>
+<p class="p4"><span class="Apple-tab-span">	</span>-constrain_lookat $1 ---&gt; turn horizontal lookat constraining on/off (default off)</p>
+<p class="p4"><span class="Apple-tab-span">	</span>-lookat_angleh $1 ---&gt; change horizontal lookat angle (min 0., max 360. - default 360.)</p>
+<p class="p4"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>NOTE: only applicable when constrain_lookat is on</p>
+<p class="p4"><span class="Apple-tab-span">	</span>-lookat_center $1 ---&gt; change center of lookat rotation (0.=along negative z axis / 90.=along positive x axis / 180.=along pos z axis / 270.=along neg x axis / etc. - default 0.)</p>
+<p class="p4"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>NOTE: only applicable when constrain_lookat is on</p>
+<p class="p4"><span class="Apple-tab-span">	</span>-lookat_anglev $1 ---&gt; change vertical lookat angle (min 0., max 172. - default 172.)</p>
+<p class="p4"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>NOTE: THIS WORKS REGARDLESS OF CONSTRAIN_LOOKAT</p>
+<p class="p4"><span class="Apple-tab-span">	</span>-forward $1 ---&gt; turn keyboard control on/off for forward movement (default 1)</p>
+<p class="p4"><span class="Apple-tab-span">	</span>-backward $1 ---&gt; turn keyboard control on/off for backward movement (default 1)</p>
+<p class="p4"><span class="Apple-tab-span">	</span>-left $1 ---&gt; turn keyboard control on/off for left movement (default 1)</p>
+<p class="p4"><span class="Apple-tab-span">	</span>-right $1 ---&gt; turn keyboard control on/off for right movement (default 1)</p>
+<p class="p2"><br></p>
+<p class="p2"><br></p>
+<p class="p3">This version of the patch (z.glNav2) is similar to a true flight simulator.</p>
+<p class="p2"><br></p>
+<p class="p3">'w' moves camera forward in reference to where you are looking</p>
+<p class="p3">'s' moves camera backward in reference to where you are looking</p>
+<p class="p3">'a' moves camera left in reference to where you are looking</p>
+<p class="p3">'d' moves camera right in reference to where you are looking</p>
+<p class="p2"><br></p>
+<p class="p3">COMBINE THE ABOVE KEYS FOR DIAGONAL MOVEMENT</p>
+<p class="p2"><br></p>
+<p class="p2"><br></p>
+<p class="p3">OTHER CONTROLS:</p>
+<p class="p2"><br></p>
+<p class="p3">'k' toggles navigation mode on/off (off by default)</p>
+<p class="p5"><span class="Apple-tab-span">	</span>-movement, zooming, bullseye and coordinate display can only be changed while navigation mode is on</p>
+<p class="p3">'b' toggles bullseye on/off (off by default)</p>
+<p class="p3">'c' toggles camera coordinates on/off in the jitter window (off by default)</p>
+<p class="p3">'z' zooms the camera view in</p>
+</body>
+</html>

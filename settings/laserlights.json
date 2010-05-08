@@ -1,0 +1,33 @@
+{
+	"pattrstorage" : 	{
+		"name" : "laserlights",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"light1" : [ 127 ],
+					"light2" : [ 127 ],
+					"light3" : [ 127 ],
+					"light4" : [ 127 ],
+					"light5" : [ 127 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"light1" : [ 0 ],
+					"light2" : [ 0 ],
+					"light3" : [ 0 ],
+					"light4" : [ 0 ],
+					"light5" : [ 0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

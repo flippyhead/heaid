@@ -1,0 +1,7 @@
+0, THROUGH allows the entire signal to pass_you hear white noise;
+1, LOW_PASS attenuates the high frequency components of the noise gradually over the frequency spectrum;
+2, HIGH_PASS attenuates the low frequency components of the noise allowing high frequencies to pass;
+3, BRICK_WALL creates an absolute cut off point. This is a lowpass/brickwall. Compare with the normal Low pass filter;
+4, NOTCH creates a hole somewhere in the frequency band;
+5, BAND_PASS isolates a single band of frequencies which in this case is fairly close to a sine-wave;
+6, NO_PASS zeros out the energy over the entire spectrum. Its a blank slate for you to draw on;

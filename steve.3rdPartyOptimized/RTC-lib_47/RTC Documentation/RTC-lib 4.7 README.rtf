@@ -1,0 +1,132 @@
+{\rtf1\mac\ansicpg10000\cocoartf824\cocoasubrtf470
+{\fonttbl\f0\froman\fcharset77 Times-Roman;\f1\fswiss\fcharset77 Helvetica-Bold;\f2\froman\fcharset77 Times-Italic;
+\f3\froman\fcharset77 Times-Bold;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue255;\red255\green0\blue51;\red255\green0\blue0;
+}
+\paperw11900\paperh16840\margl1440\margr1440\vieww13400\viewh15460\viewkind0
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural
+
+\f0\fs32 \cf0 Karlheinz Essl \
+\
+
+\f1\b\fs64 RTC-lib
+\f0\b0\fs32  \
+
+\f1\b\fs48 Real Time Composition Library for Max/MSP/Jitter
+\f0\b0\fs32 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural
+
+\fs36 \cf0 Software library for algorithmic composition in Max/MSP/Jitter
+\fs32 \
+copyleft 1992-2008 by Karlheinz Essl and others \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural
+\cf2 http://www.essl.at/works/rtc.html\cf0 \
+\
+ \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural
+
+\f1\b\fs36 \cf0 Universal Binaries version for MaxMSP 4.6
+\f0\b0\fs32 \
+version 4.7 - released 2 April 2008\
+\
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural
+
+\f1\b\fs48 \cf0 Abstract
+\f0\b0\fs32  \
+\
+This software library - a collection of patches and externals for \cf3 Max/MSP/Jitter\cf0   - offers the possibility to experiment with a number of compositional techniques, such as serial procedures, permutations and controlled randomness. Most of these objects are geared towards straightforward processing of data. By using these specialized objects together in a patch, programming becomes much more clear and easy. Many functions that are often useful in algorithmic composition are provided with this library - therefore the composer could concentrate rather on the composition than the programming aspects.\
+\
+Originally, the 
+\f2\i Real Time Composition Library
+\f0\i0  (RTC-lib) was developed during my extensive work on 
+\f3\b \cf3 Lexikon-Sonate
+\f0\b0 \cf0  (1992 ff.), an interactive realtime composition for computer-controlled piano which I started at IRCAM, Paris in 1992.\
+\
+Regardless the fact that it was conceived for a specific project it became more and more obvious that its functionalities are open and generic enough to be used by other composers in different compositional contexts. Based on paradigms which have been extracted from serial thinking (cf. Gottfried Michael Koenig and Karlheinz Stockhausen) and its further development until nowadays it does not force towards a certain aesthetic, but provides a programming environment for testing and developing compositional strategies.\
+\
+The 
+\f2\i Real Time Composition Library
+\f0\i0  comes with a Hypertext-like on-line help which allows to have a perfect overview on the library objects and their multiple relationships.\
+Thanks to Peter Elsea (University of California, Santa Cruz), R. Albert Falesch (Chicago) and Serge Lemouton (IRCAM, Paris) who have compiled the RTC-lib's externals Universal Binaries.\
+\
+\
+
+\f1\b\fs48 System Requirements
+\f0\b0\fs32  \
+\
+\'a5 Apple Macintosh computer with PPC or Intel processor\
+\'a5 MaxMSP 4.6 or higher\
+\
+\
+
+\f1\b\fs48 Content
+\f0\b0\fs32  \
+\
+The library consists of "abstractions" (Max patches that appear as objects) and external objects. Most of them were written by myself, but there are also contributions from other authors like Gerhard Eckel (GMD, St. Augustin) and Serge Lemouton (IRCAM, Paris), James McCartney (namely his generic list objects), and Peter Elsea's (UCSC) selected list objects from his Lobjects library. Other contributions came from Gary Lee Nelson, Les Stuck, Timothy Place, Charles Baker, Trond Lossius and Chris Dobrian. Because the library objects are highly dependent on each other, it is recommended not to take them apart.\
+\
+\
+
+\f1\b\fs48 Installation
+\f0\b0\fs32  \
+\
+Copy the content of the folders inside the RTC-lib distribution into the specified locations of your MaxMSP folder. After starting MaxMSP, you should see a window "RTC-Overview.help" which serves a central navigation tool for the content of the library.\
+\
+\
+
+\f1\b\fs48 History
+\f0\b0\fs32  \
+\
+The development of the RTC-lib started in 1992 when I was working at IRCAM on a commission - 
+\f3\b \cf4 Entsagung
+\f0\b0 \cf0  for ensemble and live-electronics. Having worked with computer-aided composition algorithms before on an Atari using an experimental LOGO implementation I came across Max. I immediately felt in love with it for it offered the possibility of realtime processing and interactivity. (In LOGO, it took many hours to calculate a score list which I had to transcribe into of musical notation in order to analyze it - a very time-consuming procedure).\
+\
+At this time, Max appeared as programming environment mainly optimized for MIDI processing. List operations (which are crucial for my own compositional thinking which stems from serialism) have not been implemented yet. Higher-level compositional tools were not available, only customized solutions for specific problems which were not geneneric enough to be used in different contexts.\
+\
+In order to create an evironment which enables one to concentrate rather on  high-level compositional questions than on low-level technical problems, Gerhard Eckel and I started to develop a set of tools which became the corner stones of the RTC-lib. At the this time, Serge Lemouton (my musical assistant at IRCAM) wrote "nth" according to my indications, James McCartney released his "list objects", and a few years later Peter Elsea developed his "LObjects" (inspired by RTC-lib, as he told me). Some externals from these packages were included into the RTC-lib, and Peter Elsea was nice enough to port some of my abstractions (like trans-log) into C-externals.\
+\
+On this basis, I developed a large number of higher-level compositional algorithms written as "abstractions" (objects, coded in Max): rhythm generators, harmony generators, chance operations, ramp generators, MSP functions etc. which are often based on those primordial externals that have been implemented by other authors.\
+\
+Those externals (the low-level side of the RTC-lib) need to be re-compiled for each operation system. We had to make the shift from 68k processors to PPC, and now to OSX. Thanks to Peter Elsea and Thomas Grill most of the externals has been ported to Windows XP and I transformed some Macintosh specific externals back to abstractions. Thanks also to Frank Barknecht who made a version for Pd.\
+\
+Now the RTC-lib was updated in order to run on the new Intel processors. In order to ease the future maintenance, I reformulated most (but not all!) of the externals to abstractions.\
+\
+\
+
+\f1\b\fs48 Literature
+\f0\b0\fs32  \
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural
+
+\fs36 \cf0 Karlheinz Essl: 
+\f3\b \cf3 Lexikon-Sonate
+\f0\b0 \cf0 . An Interactive Realtime Composition for Computer-Controlled Piano. 
+\fs32 Proceedings of the "Second Brazilian Symposium on Computer Music" (Canela 1995)\
+http://www.essl.at/bibliogr/lexson-sbcm.html  \
+\
+
+\fs36 Karlheinz Essl: 
+\f3\b \cf3 Strukturgeneratoren
+\f0\b0 \cf0 . Algorithmische Komposition in Echtzeit.
+\fs32  Beitr\'8age zur Elektronischen Musik, ed. by R. H\'9aldrich und A. Weixler, Vol. 5 (Graz 1996)\
+http://www.essl.at/bibliogr/struktgen.html  \
+\
+
+\fs36 Karlheinz Essl & Bernhard G\'9fnther: 
+\f3\b \cf3 Realtime Composition
+\f0\b0 \cf0 . Musik diesseits der Schrift.
+\fs32  Positionen, ed. by G. Nauck, Vol. 36 (Berlin 1998)  \
+http://www.essl.at/bibliogr/realtime-comp.html\
+\
+ \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural
+
+\f1\b\fs48 \cf0 Feedback
+\f0\b0\fs32  \
+\
+Please report bugs and feature requests to:\
+\
+Dr. Karlheinz Essl\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural
+\cf2 http://www.essl.at\cf0 \
+}

@@ -1,0 +1,67 @@
+{\rtf1\ansi\ansicpg1252\cocoartf949\cocoasubrtf460
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+\margl1440\margr1440\vieww14980\viewh15300\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\ql\qnatural\pardirnatural
+
+\f0\b\fs24 \cf0 OVERVIEW:
+\b0 \
+\
+
+\b Max-related abstractions:
+\b0 \
+z.roundNum - rounds numbers up or down to nearest integer (for Max5 use round object)\
+z.dtor - degrees to radians\
+z.rtod - radians to degrees\
+z.fpstobpm - fps to bpm\
+z.bpmtofps - bps to fps\
+z.cartopol - cartesian to polar\
+z.poltocar - polar to cartesian\
+z.3Dcartopol - 3D cartesian to polar\
+z.3Dpoltocar - 3D polar to cartesian\
+z.distCalc - calculate distance between to points (2D or 3D)\
+z.vecMag - calculate magnitude of vector (2D or 3D)\
+z.vecNorm - calculate normalized vector (2D or 3D)\
+z.crossP - calculate cross product of two vectors (2D or 3D)\
+z.dotP - calculate dot product of two vectors (2D or 3D)\
+z.rand - random int/float number generator with ability to specify min and max range, among other things\
+z.urn - non-repeating random int/float number generator with ability to specify min and max range, among other things\
+z.metroUzi - like uzi object, but with control over output speed\
+z.dynaRoute - like route object, but with changeable argument (only accepts single arg)\
+z.grid - quantize incoming x/y coordinates into new x/y grids of variable size\
+z.mousegrid - quantize mouse x/y coordinates into new x/y grids of variable size\
+z.scale - like scale object, but with 5th argument that works (for expontential OR logarithmic curves)\
+z.zmap - like zmap object, but with 5th argument for exponential OR logarithmic curves\
+z.delta - calculate delta values, with the option to account for Modulo ranges (i.e. mod 12, mod 360, etc.)\
+z.l== - like l==, but list order doesn't matter\
+z.onemess - like onebang, but for all messages\
+\
+
+\b MSP-related abstractions:
+\b0 \
+z.vst - a useful combination of the vst~ object with pattrstorage\
+z.pan4S - quadraphonic panning\
+z.pan6S - hexaphonic panning\
+z.pan8S - octaphonic panning\
+z.distFader - computes distance to amplitude\
+z.quadObject1 - allows for easy manipulation of sound object in quad space\
+z.quadObject2 - same as z.quadObject1, but with controllable reverb (using mod of yafr2.pat - found in Max4.6/examples/effects/reverb)\
+z.EQ1 - abstraction of ffb-third-octave-eq.pat (found in Max4.6/examples/filters)\
+z.EQ2 - stereo version of z.EQ1\
+z.sfLoad - dynamically chooses between 'replace' or 'import' message - for use with buffer~\
+z.waveform - waveshape generator - for use with wave~, index~, etc.\
+\
+
+\b Jitter-related abstractions:
+\b0 \
+z.displays - find resolution size of primary display (for Max5 use screensize object)\
+z.glNavs - 3D OpenGL navigators, see here for description\
+z.cameraRot - rotates lookat coordinates in OpenGL 3D space by clicking and dragging in Jitter window\
+z.glPath & z.glPathRotate - draw and animate camera path in OpenGL 3D space (uses jasch's bspline object)\
+z.glRotate - use mouse to dynamically rotate around a lookat coordinate in OpenGL 3D space\
+z.jit.cartopol - cartesian to polar conversion, using Jitter matrices\
+z.jit.poltocar - polar to cartesian conversion, using Jitter matrices\
+z.jit.3Dcartopol - 3D cartesian to polar conversion, using Jitter matrices\
+z.jit.3Dpoltocar - 3D polar to cartesian conversion, using Jitter matrices\
+z.jit.framesub - frame subtraction (with changeable offset)\
+z.jit.delay - a convenient wrapper for jit.matrixset (Max5 only, for now)}

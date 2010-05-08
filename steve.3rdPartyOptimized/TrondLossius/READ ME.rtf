@@ -1,0 +1,237 @@
+{\rtf1\ansi\ansicpg10000\deff0{\fonttbl{\f0\fnil\fcharset77 Verdana-Bold;}{\f1\fnil\fcharset77 Verdana;}{\f2\fmodern\fcharset77 Courier;}{\f3\fnil\fcharset0 Verdana;}{\f4\fmodern\fcharset0 Courier;}{\f5\fmodern\fprq1\fcharset0 Courier;}{\f6\fnil\fcharset77 Verdana-Italic;}{\f7\fnil\fcharset77 LucidaGrande;}}
+{\colortbl ;\red0\green0\blue0;}
+{\*\generator Msftedit 5.41.15.1507;}\viewkind4\uc1\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\lang1033\b\f0\fs36 READ ME - tl.objects v. 2.2.0\b0\f1\fs28\par
+\fs22\par
+tl.objects is a library of MaxMSP/Jitter externals and abstractions mainly aimed at synthesis and sound processing, but also addressing other tasks depending on my whims and needs.\par
+\par
+tl.objects can be downloaded at\par
+http://www.bek.no/~lossius/download\par
+\par
+tl.objects \'a9Trond Lossius 1999-2005\par
+Licensed according to GNU Lesser General Public License\par
+\par
+If you for some reason need me to license the objects to you under a different license, please contact me and I'll see what I can do.\par
+\fs24\par
+\par
+\b\f0\fs28 Dependency on Max version, other libraries, etc.\b0\f1\fs24\par
+\fs22\par
+As of v. 2.1 tl.objects and the help files are depending on various externals etc. of MaxMSP 4.5. Most of the patches and externals probably still work on older versions of Max, including Classic, but it's no longer supported.\par
+\par
+tl.objects also depends on Lobjects by Peter Elsea being installed. Please check www.maxobjects.com for further information on other 3rd part libraries and where to get them.\par
+\par
+At the time being I'm unfortunately not able to compile the externals for Windows. The source is available in case someone else would be kind enough to do it. In the meantime I'll try to avoid coding new objects as externals, and instead use abstractions. More than half of the library should work on Windows. I'll try to create abstraction versions of compiled Mac externals when needed or requested. If you need an external to work for Windows, please contact me, and I'll see what I can do.\par
+\par
+\par
+\b\f0\fs28 Installation:\fs24\par
+\b0\f1\par
+\b\f0 Installation OSX:\b0\f1\par
+\fs22\par
+\pard\fi-720\li720\tx220\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640 "\f2 tl.objects abstractions"\f1  folder \lang1044\f3 should be\lang1033\f1  installed in Max search path\par
+(e.g. a subfolder of \f2 "\ul Library/Application Support/Cycling'74"\ulnone\f1 )\par
+\par
+"\f2 tl.objects utilities"\f1  folder \lang1044\f3 should be\lang1033\f1  installed in Max search path\par
+(e.g. a subfolder of \f2 "\ul Library/Application Support/Cycling'74"\ulnone\f1 )\par
+\par
+\f2 "tl.objects build-mac"\f1  folder \lang1044\f3 should be\lang1033\f1  installed in Max search path\par
+(e.g. a subfolder of \f2 "\ul Library/Application Support/Cycling'74"\ulnone\f1 )\par
+\par
+\f2 "tl.objects help"\f1  folder \lang1044\f3 should be\lang1033\f1  installed in \f2 max-help\f1  folder\par
+\par
+The patch \f2 tl.objects_overview\f1  might be installed in \ul\f2 patches/extras\ulnone\f1  folder\par
+\par
+Copy \f2 tl.objects-mappings.txt\f1  to \f2 "\ul Library/Application Support/Cycling'74/init"\ulnone\f1  folder\par
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\par
+\b\f0\fs24 Installation Windows:\b0\f1\par
+\fs22\par
+\pard\fi-720\li720\tx220\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640 "\f2 tl.objects abstractions"\f1  folder \lang1044\f3 should be \lang1033\f1 installed in Max search path\par
+(e.g. a subfolder of \f2 "\ul Cycling '74"\ulnone\f1 )\par
+\par
+"\f2 tl.objects utilities"\f1  folder\lang1044\f3  should be\lang1033\f1  installed in Max search path\par
+(e.g. a subfolder of \f2 "\ul Cycling '74"\ulnone\f1 )\par
+\par
+\f2 "tl.objects build-\lang1044\f4 win\lang1033\f2 "\f1  folder \lang1044\f3 should be\lang1033\f1  installed in Max search path\par
+(e.g. a subfolder of \f2 "\ul Cycling '74"\ulnone\f1 )\par
+\par
+\f2 "tl.objects help"\f1  folder \lang1044\f3 should be\lang1033\f1  installed in \lang1044\f4 m\lang1033\f2 ax-help\f1  folder\par
+\par
+The patch \f2 tl.objects_overview\f1  might be installed in \ul\f2 patches/extras\ulnone\f1  folder\par
+\par
+Copy \f2 tl.objects-mappings.txt\f1  to \f2 "\ul Cycling '74\lang1044\f4\\\lang1033\f2 init"\ulnone\f1  folder\par
+\par
+\lang1044\f3 Please ignore or delete the \cf1\f5 .DS_Store \cf0\f3 files, they are leftovers from the Mac OSX system.\lang1033\f1\par
+\par
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\b\f0\fs24 Installation OS9\b0\f1  \par
+\fs22\par
+(no longer supported, but still included for the record):\par
+\par
+- \i\f6 tl.objects abstractions\i0\f1  folder \lang1044\f3 should be\lang1033\f1  installed in Max search path\par
+- \i\f6 tl.objects build-classic\i0\f1  folder \lang1044\f3 should be\lang1033\f1  installed in Max search path\par
+- \i\f6 tl.objects help\i0\f1  folder \lang1044\f3 should be\lang1033\f1  installed in \i\f6 max-help\i0\f1  folder\par
+- The patch \i\f6 tl.objects_overview\i0\f1  might be installed in \ul\i\f6 patches>extras\ulnone\i0\f1  folder\fs24\par
+\par
+\par
+\b\f0\fs28 Obsolete objects\b0\f1\fs24\par
+\fs22\par
+Some objects have turned obsolete due to additions to standard MaxMSP. They've still included, but I recommend that you:\par
+\par
+- use \i\f6 spectroscope~\i0\f1  instead of \i\f6 tl.spectrum~.pfft\i0\f1\par
+- use \i\f6 !-\i0\f1  instead of \i\f6 tl.comp\i0\f7\par
+\f1\par
+\par
+\b\f0\fs28 Bug reports etc:\b0\f1\fs22\par
+\par
+Please report bugs to lossius@bek.no, and I'll see what I can do.\par
+\par
+\par
+\b\f0\fs32 Change log:\b0\f1\fs24\par
+\fs22\par
+\b\f0 2006-01-21: Version 2.2.0\b0\f1\par
+\par
+A big thank you to Fran\'8dois-Eudes Chanfrault for porting all externals to Windows:\par
+http://francois.eudes.free.fr/\par
+\f7\par
+\b\f0 2005-09-04: Version 2.1.2\b0\f1\par
+\par
+New javascript-based utility:\par
+\par
+- \f7 tl.movewindow: bring an off-screen window back on-screen\par
+\b\f0\par
+2005-09-02: Version 2.1.2\b0\f1\par
+\par
+New object:\par
+\par
+- tl.crossover4~: 4th order Linkwitz-Riley crossover filter. Only compiled for Mac OSX \par
+\par
+Windows:\par
+\par
+- tl.velocity: added abstraction of Mac external\par
+\par
+\par
+\b\f0 2005-08-21: Version 2.1.1\b0\f1\par
+\par
+Minor bug fixes:\par
+\par
+- fixed credits and license in a couple of help patches\par
+- fixed a bug in tl.midi.a~ that caused an error message\par
+- tl.midi.drift now use tl.list.1_div_f instead of tl.list.1/f\par
+- tl.freq.vibdrift now use tl.list.1_div_f instead of tl.list.1/f\par
+- tl.freq.drift now use tl.list.1_div_f instead of tl.list.1/f\par
+\par
+Renamed all folders to start of with "tl.objects ***".\par
+\par
+\b\f0\par
+2005-08-18: Version 2.1\b0\f1\par
+\par
+A bunch of new abstractions:\par
+\par
+Iterating up and down, and a metro:\par
+\par
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803 tl.n--\par
+tl.n++\par
+tl.uzi\par
+tl.metro\par
+\par
+Keyboard as toggles\par
+\par
+- tl.keytoggle\par
+\par
+Some utils for Jitter\par
+\par
+tl.jit.atodb\par
+tl.jit.dbtoa\par
+tl.jit.info\par
+tl.jit.interp3\par
+\par
+Tuning and detuning:\par
+\par
+tl.midi.a\par
+tl.midi.a~\par
+tl.detune\par
+\par
+Vibrato and 1/f drift  in MIDI, frequency and signal domain:\par
+\par
+tl.midi.vibrato~\par
+tl.midi.drift~\par
+tl.freq.vibrato~\par
+tl.freq.drift~\par
+tl.freq.vibdrift~\par
+tl.sig.vibrato~\par
+\par
+Tremolo and FM:\par
+\par
+tl.tremolo~\par
+tl.fm~\par
+\par
+FX\par
+\par
+tl.vst.helper\par
+tl.graphiqEQ~\par
+\par
+Display of sound signal:\par
+\par
+tl.viewsound~\par
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\par
+\par
+\b\f0 2004-04-28:\b0\f1\par
+\par
+- Fixed typo in this document.\par
+\par
+\b\f0 2004-01-03: tl.objects v.2.0 completed\b0\f1\par
+\par
+- All objects except for Nato (242.) externals are recompiled for OSX, thanks to jasch and Peter Castine.\par
+- All objects available for OS9 *and* OSX are collected into a library instead of being distributed as separate downloads.\par
+- All help files redone.\par
+- All externals and abstractions are updated.\par
+- All of the object names now share the "tl." prefix.\par
+- Added overview patch: \i\f6 tl.objects_overview\i0\f1 .\par
+\par
+- \i\f6 tl.balance~\i0\f1 :\par
+\tab Fixed initialization bug.\par
+\tab Fixed problem when used in up- or down-sampled \i\f6 poly~\i0\f1 .\par
+- \i\f6 tl.butterbp~\i0\f1 :\par
+\tab Fixed problem when used in up- or down-sampled \i\f6 poly~\i0\f1 .\par
+- \i\f6 tl.butterbr~\i0\f1 :\par
+\tab Fixed problem when used in up- or down-sampled \i\f6 poly~\i0\f1 .\par
+- \i\f6 tl.butterhp~\i0\f1 :\par
+\tab Fixed problem when used in up- or down-sampled \i\f6 poly~\i0\f1 .\par
+- \i\f6 tl.butterlp~\i0\f1 :\par
+\tab Fixed problem when used in up- or down-sampled \i\f6 poly~\i0\f1 .\par
+- \i\f6 tl.chebyshev\i0\f1 :\par
+\tab Former object \i\f6 chebyshev\i0\f1  has been renamed \i\f6 tl.chebyshev.\par
+\tab\i0\f1 Fixed a bug that prevented normalization of the function.\par
+- \i\f6 tl.delta\i0\f1 :\par
+- \i\f6 tl.delta2\i0\f1 :\par
+- \i\f6 tl.envExp\i0\f1 :\par
+\tab Former object \i\f6 envExp\i0\f1  has been renamed \i\f6 tl.envExp\i0\f1 . Fixed error in _new method.\par
+- \i\f6 tl.envfollow~\i0\f1 :\par
+- \i\f6 tl.frequency\i0\f1 :\par
+-\i\f6  tl.list.1_div_f\i0\f1 :\par
+\tab Former object \i\f6 tl.list.1/f\i0\f1  has been renamed \i\f6 tl.list.1_div_f\i0\f1 .\par
+- \i\f6 tl.list.gauss\i0\f1 :\par
+-\b\f0  \b0\i\f6 tl.list.line\i0\f1 :\par
+- \i\f6 tl.list.tanh\i0\f1 :\par
+- \i\f6 tl.pi\i0\f1 :\par
+\tab Former object \i\f6 pi\i0\f1  has been renamed \i\f6 tl.pi\i0\f1 .\par
+\tab Value of PI is now calculated in _new method instead of _bang method.\par
+- \i\f6 tl.s==\i0\f1 :\par
+- \i\f6 tl.spectrum~.pfft\b\i0\f0\par
+\tab\b0\f1 Former abstraction \i\f6 spectrum~\i0\f1  has been completely redone.\par
+\tab It's renamed \i\f6 tl.spectrum.pfft~\b\i0\f0  \b0\f1 and now needs to be loaded in \i\f6 pfft~\i0\f1 .\par
+\tab Added linear and logarithmic sonogram display.\par
+\tab Implemented Hamming window function and overlap.\par
+\tab There's no restrictions on signal vector size anymore.\par
+\tab No need for arguments to separate several instances anymore.\par
+\tab\i\f6 tl.spectrum~.pfft\i0\f1  now depends on Jitter being installed.\par
+- \i\f6 tl.velocity\i0\f1 :\par
+\tab Former object \i\f6 velocity\i0\f1  has been renamed \i\f6 tl.velocity\i0\f1 .\par
+\par
+Obsolete objects:\par
+\par
+- \i\f6 comp\i0\f1 : Standard Max external \i\f6 !-\i0\f1  does the same job.\par
+\par
+Possible problems:\par
+\par
+- all help files and abstractions has been updated using Max 4.3.b.13. There might be compatibility issues with Max 4.1 and Max 4.2.\par
+\pard - URLs won't load in browser unless Jitter is installed.\par
+}
+ 

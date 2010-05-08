@@ -1,0 +1,53 @@
+<?xml version="1.0"? encoding"UTF-8"?>
+<!DOCTYPE toxic SYSTEM "toxic.dtd">
+<toxic version="0.0d1">
+	<class name="cyan">
+		<toxine name="arsenic">1 0 6 1.000 0 0 96 196 75 1 1 1 1 </toxine>
+		<toxine name="dioxine">1</toxine>
+		<toxine name="uranium">2</toxine>
+		<toxine name="ddt">3</toxine>
+		<toxine name="desoyribonucleid">4</toxine>
+		<toxine name="ascorbic">5</toxine>
+		<toxine name="botulinum">6</toxine>
+		<toxine name="cypripedium">7</toxine>
+	</class>
+
+	<class name="yellow">
+	    <subclass name="alpha">
+	        <element name"radium">
+	            <isotope name="xyz3">100%</isotope>
+	        </element>
+	    </subclass>
+		<toxine name="dioxine">200</toxine>
+		<toxine name="uranium">48.9</toxine>
+		<toxine name="ddt">0.9</toxine>
+		<toxine name="desoyribonucleid">a b</toxine>
+		<toxine name="ascorbic">xtp-s 320 240 640 480</toxine>
+		<toxine name="botulinum">survivabilty 0.1</toxine>
+		<toxine name="cypripedium">0 0</toxine>
+	</class>
+	<class name="magenta1">
+	    <subclass name="beta">
+	        <element name"berillium">
+	            <isotope name="abc">70.707107%</isotope>
+	                <class name="pecentage">
+	                    <description>ppm</description>
+	                    <application>in situ</application>
+	                </class>
+	            <isotope name"nada">
+	                <class name="void">
+	                    <description>gravity</description>
+	                    <application>flight</application>
+	                </class>
+	            </isotope>            
+	        </element>
+	    </subclass>
+		<toxine name="dioxine">100</toxine>
+		<toxine name="uranium">45.5</toxine>
+		<toxine name="ddt">0.1</toxine>
+		<toxine name="desoyribonucleid">160 120</toxine>
+		<toxine name="ascorbic">xtp-q 0 100 234 500 200 300</toxine>
+		<toxine name="botulinum">lethal</toxine>
+		<toxine name="cypripedium">100 340</toxine>
+	</class>
+</toxic>

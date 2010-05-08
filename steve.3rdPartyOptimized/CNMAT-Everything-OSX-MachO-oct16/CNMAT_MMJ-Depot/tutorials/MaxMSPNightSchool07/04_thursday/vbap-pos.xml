@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="yes"?>
+
+<pattrstorage name = "vbap-pos.xml">
+	<slot number = "1">
+		<pattr name = "pictslider" value = "597 484" />
+		<pattr name = "pictslider[1]" value = "548 685" />
+		<pattr name = "pictslider[2]" value = "768 699" />
+	</slot>
+	<slot number = "2">
+		<pattr name = "pictslider" value = "607 108" />
+		<pattr name = "pictslider[1]" value = "82 1179" />
+		<pattr name = "pictslider[2]" value = "1170 1128" />
+	</slot>
+	<slot number = "3">
+		<pattr name = "pictslider" value = "634 574" />
+		<pattr name = "pictslider[1]" value = "76 602" />
+		<pattr name = "pictslider[2]" value = "1173 560" />
+	</slot>
+	<slot number = "4">
+		<pattr name = "pictslider" value = "180 0" />
+		<pattr name = "pictslider[1]" value = "58 37" />
+		<pattr name = "pictslider[2]" value = "76 46" />
+	</slot>
+	<slot number = "5">
+		<pattr name = "pictslider" value = "1224 1256" />
+		<pattr name = "pictslider[1]" value = "878 991" />
+		<pattr name = "pictslider[2]" value = "1107 1163" />
+	</slot>
+</pattrstorage>
+

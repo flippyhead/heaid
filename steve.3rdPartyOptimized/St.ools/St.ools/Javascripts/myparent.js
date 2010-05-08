@@ -1,0 +1,1 @@
+function bang(){    if(this.patcher.parentpatcher){        outlet(0, this.patcher.parentpatcher.box.varname);   }}

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<pattrstorage name = "anim1">
+	<slot number = "1">
+		<pattr name = "multislider" value = "62 132 135 108 54 42 69 200" />
+		<pattr name = "multislider[1]" value = "49 105 157 58 35 82 66 174" />
+		<pattr name = "multislider[2]" value = "0 50 100 150 200 250 300 350" />
+		<pattr name = "number" value = "8" />
+	</slot>
+	<slot number = "2">
+		<pattr name = "multislider" value = "0 200 23 120 192 71 0 200" />
+		<pattr name = "multislider[1]" value = "95 118 126 109 74 55 89 115" />
+		<pattr name = "multislider[2]" value = "0 50 100 150 200 250 64 0" />
+		<pattr name = "number" value = "8" />
+	</slot>
+	<slot number = "3">
+		<pattr name = "multislider" value = "105 174 72 200 142 55 20 102" />
+		<pattr name = "multislider[1]" value = "100 51 100 152 100 71 2 100" />
+		<pattr name = "multislider[2]" value = "0 47 100 150 200 250 39 0" />
+		<pattr name = "number" value = "8" />
+	</slot>
+	<slot number = "4">
+		<pattr name = "multislider" value = "77 100 126 100 82 63 82 100" />
+		<pattr name = "multislider[1]" value = "200 68 17 40 97 155 120 3" />
+		<pattr name = "multislider[2]" value = "0 50 100 150 200 250 300 350" />
+		<pattr name = "number" value = "8" />
+	</slot>
+	<slot number = "5">
+		<pattr name = "multislider" value = "0 166 0 200 32 163 57 98" />
+		<pattr name = "multislider[1]" value = "86 189 0 155 31 115 52 88" />
+		<pattr name = "multislider[2]" value = "400 297 111 13 307 118 97 0" />
+		<pattr name = "number" value = "8" />
+	</slot>
+</pattrstorage>
+

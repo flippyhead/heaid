@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<pattrstorage name = "blobTrackingSettings">
+	<slot number = "1">
+		<pattr name = "blobLabelMode" value = "0" />
+		<pattr name = "blobLabelThreshold" value = "155" />
+		<pattr name = "blobSortThreshold" value = "66" />
+	</slot>
+	<slot number = "2">
+		<pattr name = "blobLabelMode" value = "0" />
+		<pattr name = "blobLabelThreshold" value = "39" />
+		<pattr name = "blobSortThreshold" value = "43" />
+	</slot>
+</pattrstorage>
+

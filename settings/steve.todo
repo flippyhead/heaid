@@ -1,0 +1,39 @@
+steve.unibrain to do list
+
+argb compatibility in steve.unibrain
+
+Add IIDC controls
+
+Disable Auto Callibrators and Make Auto Camera Adjuster (hardware)
+
+Replace preset object with Pattr Saver
+
+improve bgsubtraction (see CV pdf)
+movie recorder/player into steve.unibrain
+master off of visualizations
+
+Assign relevant controls to OSC
+
+optimization -
+
+which method is faster cropping on the capture or with an object after?
+
+ Is it faster to do brightness and contrast on hardware or after hardware, or GPU?
+Make controls Pop Up
+
+
+
+steve.unibrain wishlist
+
+Make this external universal so that it adapts by camera type.  (same external should work for icam with a different arguyment)
+
+
+
+Auto Blob Walker for James and Musicians
+
+
+Steve Idea List
+
+Timer light strands
+
+Displays : 2 and one long once across bottome (one for each eye) - remember the pretty projector eye bleed?  Take advantage of that.

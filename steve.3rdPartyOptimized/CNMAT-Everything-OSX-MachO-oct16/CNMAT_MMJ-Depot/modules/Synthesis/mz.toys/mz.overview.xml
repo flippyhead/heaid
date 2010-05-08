@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="yes"?>
+
+<pattrstorage name = "mz.overview">
+	<slot number = "1">
+		<pattr name = "dm.gain" value = "-6." />
+		<pattr name = "dm.pan" value = "0.4" />
+		<pattr name = "dm.preset" value = "2" />
+		<pattr name = "master" value = "1" />
+		<pattr name = "ss.bright" value = "1." />
+		<pattr name = "ss.gain" value = "-12.857142" />
+		<pattr name = "ss.pan" value = "0.6" />
+		<pattr name = "ss.port" value = "0" />
+		<pattr name = "ss.preset" value = "8" />
+		<pattr name = "tempo" value = "120" />
+		<pattr name = "tt.attack" value = "1500" />
+		<pattr name = "tt.gain" value = "0.2" />
+		<pattr name = "tt.pan" value = "82 127" />
+		<pattr name = "tt.release" value = "1500" />
+		<pattr name = "tt.root" value = "74" />
+		<patcher name = "mz.stepsynth">
+			<pattr name = "mz.stepsynth" value = "8" />
+		</patcher>
+		<patcher name = "mz.drummachine">
+			<pattr name = "mz.drums" value = "2" />
+		</patcher>
+	</slot>
+	<slot number = "2">
+		<pattr name = "dm.gain" value = "-6." />
+		<pattr name = "dm.pan" value = "0.4" />
+		<pattr name = "dm.preset" value = "5" />
+		<pattr name = "master" value = "1" />
+		<pattr name = "ss.bright" value = "4." />
+		<pattr name = "ss.gain" value = "-9." />
+		<pattr name = "ss.pan" value = "0.6" />
+		<pattr name = "ss.port" value = "25" />
+		<pattr name = "ss.preset" value = "6" />
+		<pattr name = "tempo" value = "132" />
+		<pattr name = "tt.attack" value = "200" />
+		<pattr name = "tt.gain" value = "0.2" />
+		<pattr name = "tt.pan" value = "11 115" />
+		<pattr name = "tt.release" value = "2000" />
+		<pattr name = "tt.root" value = "57" />
+		<patcher name = "mz.stepsynth">
+			<pattr name = "mz.stepsynth" value = "6" />
+		</patcher>
+		<patcher name = "mz.drummachine">
+			<pattr name = "mz.drums" value = "5" />
+		</patcher>
+	</slot>
+	<slot number = "3">
+		<pattr name = "dm.gain" value = "-6." />
+		<pattr name = "dm.pan" value = "0.4" />
+		<pattr name = "dm.preset" value = "3" />
+		<pattr name = "master" value = "1" />
+		<pattr name = "ss.bright" value = "40." />
+		<pattr name = "ss.gain" value = "-20.204082" />
+		<pattr name = "ss.pan" value = "0.6" />
+		<pattr name = "ss.port" value = "50" />
+		<pattr name = "ss.preset" value = "2" />
+		<pattr name = "tempo" value = "108" />
+		<pattr name = "tt.attack" value = "10" />
+		<pattr name = "tt.gain" value = "0.4" />
+		<pattr name = "tt.pan" value = "34 34" />
+		<pattr name = "tt.release" value = "100" />
+		<pattr name = "tt.root" value = "43" />
+		<patcher name = "mz.stepsynth">
+			<pattr name = "mz.stepsynth" value = "2" />
+		</patcher>
+		<patcher name = "mz.drummachine">
+			<pattr name = "mz.drums" value = "3" />
+		</patcher>
+	</slot>
+</pattrstorage>
+

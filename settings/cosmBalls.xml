@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<pattrstorage name = "cosmBalls">
+	<slot number = "1">
+		<pattr name = "audioDoppler" value = "0.05" />
+		<pattr name = "audioFilter" value = "1." />
+		<pattr name = "audioNear" value = "0.015" />
+		<pattr name = "audioFar" value = "30." />
+		<pattr name = "audioSize" value = "32" />
+		<pattr name = "neighborCollision" value = "1" />
+	</slot>
+	<slot number = "2">
+		<pattr name = "audioDoppler" value = "5." />
+		<pattr name = "audioFilter" value = "1." />
+		<pattr name = "audioNear" value = "1." />
+		<pattr name = "audioFar" value = "24." />
+		<pattr name = "audioSize" value = "32" />
+		<pattr name = "neighborCollision" value = "1" />
+	</slot>
+	<slot number = "3">
+		<pattr name = "audioDoppler" value = "0.2" />
+		<pattr name = "audioFilter" value = "1." />
+		<pattr name = "audioNear" value = "0.01" />
+		<pattr name = "audioFar" value = "64." />
+		<pattr name = "audioSize" value = "32" />
+		<pattr name = "neighborCollision" value = "1" />
+	</slot>
+	<slot number = "4">
+		<pattr name = "audioDoppler" value = "41." />
+		<pattr name = "audioFilter" value = "1." />
+		<pattr name = "audioNear" value = "-0.06" />
+		<pattr name = "audioFar" value = "32." />
+		<pattr name = "audioSize" value = "16" />
+		<pattr name = "neighborCollision" value = "1" />
+	</slot>
+</pattrstorage>
+

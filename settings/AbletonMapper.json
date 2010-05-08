@@ -1,0 +1,18 @@
+{
+	"pattrstorage" : 	{
+		"name" : "AbletonMapper",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"enabler" : [ 1 ],
+					"midiEnable" : [ 1 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

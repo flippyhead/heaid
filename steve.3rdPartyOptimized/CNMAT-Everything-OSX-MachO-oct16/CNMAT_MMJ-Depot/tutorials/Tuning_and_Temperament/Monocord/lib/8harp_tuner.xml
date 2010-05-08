@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<pattrstorage name = "8harp_tuner">
+	<slot number = "1">
+		<pattr name = "numerator1" value = "1" />
+		<pattr name = "denominator1" value = "1" />
+		<pattr name = "numerator2" value = "1" />
+		<pattr name = "denominator2" value = "1" />
+		<pattr name = "numerator3" value = "1" />
+		<pattr name = "denominator3" value = "1" />
+		<pattr name = "numerator4" value = "1" />
+		<pattr name = "denominator4" value = "1" />
+		<pattr name = "numerator5" value = "1" />
+		<pattr name = "denominator5" value = "1" />
+		<pattr name = "numerator6" value = "1" />
+		<pattr name = "denominator6" value = "1" />
+		<pattr name = "numerator7" value = "1" />
+		<pattr name = "denominator7" value = "1" />
+		<pattr name = "numerator8" value = "1" />
+		<pattr name = "denominator8" value = "1" />
+	</slot>
+</pattrstorage>
+

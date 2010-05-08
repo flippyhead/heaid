@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<pattrstorage name = "steve.GLeyesSettings">
+	<slot number = "1">
+		<pattr name = "flonum" value = "1." />
+		<pattr name = "flonum[1]" value = "1." />
+		<pattr name = "flonum[6]" value = "0.5" />
+		<pattr name = "flonum[7]" value = "0.5" />
+		<pattr name = "number" value = "8" />
+		<pattr name = "number[12]" value = "8" />
+		<pattr name = "number[13]" value = "8" />
+		<pattr name = "number[1]" value = "7" />
+		<pattr name = "number[2]" value = "8" />
+		<pattr name = "number[3]" value = "4" />
+		<pattr name = "number[4]" value = "7" />
+		<pattr name = "number[5]" value = "8" />
+		<pattr name = "toggle[1]" value = "1" />
+		<pattr name = "toggle[2]" value = "1" />
+		<pattr name = "toggle[3]" value = "1" />
+		<pattr name = "toggle[4]" value = "0" />
+		<pattr name = "toggle[5]" value = "1" />
+		<pattr name = "umenu[1]" value = "radialMapVidtex1" />
+		<pattr name = "umenu[2]" value = "presenceVidtex1" />
+		<pattr name = "umenu[3]" value = "radialMapVidtex1" />
+		<pattr name = "umenu[4]" value = "videotex2" />
+	</slot>
+	<slot number = "2">
+		<pattr name = "flonum" value = "1." />
+		<pattr name = "flonum[1]" value = "0." />
+		<pattr name = "flonum[6]" value = "0.5" />
+		<pattr name = "flonum[7]" value = "0.5" />
+		<pattr name = "number" value = "8" />
+		<pattr name = "number[12]" value = "8" />
+		<pattr name = "number[13]" value = "8" />
+		<pattr name = "number[1]" value = "7" />
+		<pattr name = "number[2]" value = "8" />
+		<pattr name = "number[3]" value = "8" />
+		<pattr name = "number[4]" value = "8" />
+		<pattr name = "number[5]" value = "6" />
+		<pattr name = "toggle[1]" value = "1" />
+		<pattr name = "toggle[2]" value = "1" />
+		<pattr name = "toggle[3]" value = "1" />
+		<pattr name = "toggle[4]" value = "" />
+		<pattr name = "toggle[5]" value = "1" />
+		<pattr name = "umenu[1]" value = "radialMapVidtex1" />
+		<pattr name = "umenu[2]" value = "&quot;radialMapVidtex1 blobsVidtex1&quot;" />
+		<pattr name = "umenu[3]" value = "&quot;radialMapVidtex1 blobsVidtex1&quot;" />
+		<pattr name = "umenu[4]" value = "radialMapVidtex1" />
+	</slot>
+	<slot number = "3">
+		<pattr name = "flonum" value = "1." />
+		<pattr name = "flonum[1]" value = "0.129" />
+		<pattr name = "flonum[6]" value = "0.5" />
+		<pattr name = "flonum[7]" value = "0.5" />
+		<pattr name = "number" value = "8" />
+		<pattr name = "number[12]" value = "8" />
+		<pattr name = "number[13]" value = "8" />
+		<pattr name = "number[1]" value = "7" />
+		<pattr name = "number[2]" value = "8" />
+		<pattr name = "number[3]" value = "8" />
+		<pattr name = "number[4]" value = "8" />
+		<pattr name = "number[5]" value = "7" />
+		<pattr name = "toggle[1]" value = "1" />
+		<pattr name = "toggle[2]" value = "1" />
+		<pattr name = "toggle[3]" value = "1" />
+		<pattr name = "toggle[4]" value = "" />
+		<pattr name = "toggle[5]" value = "1" />
+		<pattr name = "umenu[1]" value = "centroidsVidtex1" />
+		<pattr name = "umenu[2]" value = "presenceVidtex1" />
+		<pattr name = "umenu[3]" value = "&quot;radialMapVidtex1 blobsVidtex1&quot;" />
+		<pattr name = "umenu[4]" value = "radialMapVidtex1" />
+	</slot>
+	<slot number = "4">
+		<pattr name = "flonum" value = "1." />
+		<pattr name = "flonum[1]" value = "1." />
+		<pattr name = "flonum[6]" value = "0.5" />
+		<pattr name = "flonum[7]" value = "0.5" />
+		<pattr name = "number" value = "8" />
+		<pattr name = "number[12]" value = "8" />
+		<pattr name = "number[13]" value = "8" />
+		<pattr name = "number[1]" value = "7" />
+		<pattr name = "number[2]" value = "8" />
+		<pattr name = "number[3]" value = "8" />
+		<pattr name = "number[4]" value = "8" />
+		<pattr name = "number[5]" value = "10" />
+		<pattr name = "toggle[1]" value = "1" />
+		<pattr name = "toggle[2]" value = "0" />
+		<pattr name = "toggle[3]" value = "1" />
+		<pattr name = "toggle[4]" value = "" />
+		<pattr name = "toggle[5]" value = "1" />
+		<pattr name = "umenu[1]" value = "radialMapVidtex1" />
+		<pattr name = "umenu[2]" value = "presenceVidtex1" />
+		<pattr name = "umenu[3]" value = "&quot;radialMapVidtex1 blobsVidtex1&quot;" />
+		<pattr name = "umenu[4]" value = "&quot;radialMapVidtex1 blobsVidtex1&quot;" />
+	</slot>
+	<slot number = "5">
+		<pattr name = "flonum" value = "1." />
+		<pattr name = "flonum[1]" value = "0.81" />
+		<pattr name = "flonum[6]" value = "0.5" />
+		<pattr name = "flonum[7]" value = "0.5" />
+		<pattr name = "number" value = "8" />
+		<pattr name = "number[12]" value = "8" />
+		<pattr name = "number[13]" value = "7" />
+		<pattr name = "number[1]" value = "7" />
+		<pattr name = "number[2]" value = "8" />
+		<pattr name = "number[3]" value = "6" />
+		<pattr name = "number[4]" value = "3" />
+		<pattr name = "number[5]" value = "7" />
+		<pattr name = "toggle[1]" value = "1" />
+		<pattr name = "toggle[2]" value = "1" />
+		<pattr name = "toggle[3]" value = "1" />
+		<pattr name = "toggle[4]" value = "" />
+		<pattr name = "toggle[5]" value = "1" />
+		<pattr name = "umenu[1]" value = "radialMapVidtex1" />
+		<pattr name = "umenu[2]" value = "presenceVidtex1" />
+		<pattr name = "umenu[3]" value = "centroidsVidtex1" />
+		<pattr name = "umenu[4]" value = "radialMapVidtex1" />
+	</slot>
+	<slot number = "6">
+		<pattr name = "flonum" value = "1." />
+		<pattr name = "flonum[1]" value = "0.81" />
+		<pattr name = "flonum[6]" value = "0.5" />
+		<pattr name = "flonum[7]" value = "0.5" />
+		<pattr name = "number" value = "8" />
+		<pattr name = "number[12]" value = "8" />
+		<pattr name = "number[13]" value = "7" />
+		<pattr name = "number[1]" value = "7" />
+		<pattr name = "number[2]" value = "8" />
+		<pattr name = "number[3]" value = "6" />
+		<pattr name = "number[4]" value = "3" />
+		<pattr name = "number[5]" value = "7" />
+		<pattr name = "toggle[1]" value = "1" />
+		<pattr name = "toggle[2]" value = "0" />
+		<pattr name = "toggle[3]" value = "1" />
+		<pattr name = "toggle[4]" value = "" />
+		<pattr name = "toggle[5]" value = "1" />
+		<pattr name = "umenu[1]" value = "radialMapVidtex1" />
+		<pattr name = "umenu[2]" value = "presenceVidtex1" />
+		<pattr name = "umenu[3]" value = "centroidsVidtex1" />
+		<pattr name = "umenu[4]" value = "radialMapVidtex1" />
+	</slot>
+	<slot number = "8">
+		<pattr name = "flonum" value = "1." />
+		<pattr name = "flonum[1]" value = "1." />
+		<pattr name = "flonum[6]" value = "0.5" />
+		<pattr name = "flonum[7]" value = "0.5" />
+		<pattr name = "number" value = "8" />
+		<pattr name = "number[12]" value = "6" />
+		<pattr name = "number[13]" value = "8" />
+		<pattr name = "number[1]" value = "7" />
+		<pattr name = "number[2]" value = "5" />
+		<pattr name = "number[3]" value = "9" />
+		<pattr name = "number[4]" value = "8" />
+		<pattr name = "number[5]" value = "7" />
+		<pattr name = "toggle[1]" value = "1" />
+		<pattr name = "toggle[2]" value = "1" />
+		<pattr name = "toggle[3]" value = "0" />
+		<pattr name = "toggle[4]" value = "" />
+		<pattr name = "toggle[5]" value = "1" />
+		<pattr name = "umenu[1]" value = "prepedvideotex1" />
+		<pattr name = "umenu[2]" value = "presenceVidtex1" />
+		<pattr name = "umenu[3]" value = "videotex2" />
+		<pattr name = "umenu[4]" value = "videotex2" />
+	</slot>
+	<slot number = "9">
+		<pattr name = "flonum" value = "1." />
+		<pattr name = "flonum[1]" value = "1." />
+		<pattr name = "flonum[6]" value = "0.5" />
+		<pattr name = "flonum[7]" value = "0.5" />
+		<pattr name = "number" value = "3" />
+		<pattr name = "number[12]" value = "7" />
+		<pattr name = "number[13]" value = "8" />
+		<pattr name = "number[1]" value = "7" />
+		<pattr name = "number[2]" value = "7" />
+		<pattr name = "number[3]" value = "8" />
+		<pattr name = "number[4]" value = "7" />
+		<pattr name = "number[5]" value = "8" />
+		<pattr name = "toggle[1]" value = "1" />
+		<pattr name = "toggle[2]" value = "1" />
+		<pattr name = "toggle[3]" value = "1" />
+		<pattr name = "toggle[4]" value = "" />
+		<pattr name = "toggle[5]" value = "1" />
+		<pattr name = "umenu[1]" value = "radialMapVidtex1" />
+		<pattr name = "umenu[2]" value = "centroidsVidtex1" />
+		<pattr name = "umenu[3]" value = "radialMapVidtex1" />
+		<pattr name = "umenu[4]" value = "rawvideotex1" />
+	</slot>
+</pattrstorage>
+

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<pattrstorage name = "SteveMaster">
+	<slot number = "1">
+		<patcher name = "Map2AbletonSamples">
+			<pattr name = "AbletonMapper" value = "1" />
+		</patcher>
+	</slot>
+</pattrstorage>
+

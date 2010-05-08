@@ -1,0 +1,116 @@
+Starting...
+Tracking keywords: {:track=>["#heaid"]}
+[#heaid]  hello I am alive
+[#heaid]  pancakes!
+[#heaid]  I love lasers
+[#heaid]  I can speak!
+[#heaid]  says hello people!
+[#heaid]  You can make me say stuff by sending a tweet to  h e a i d
+[#heaid] HEAID hello jeremy
+[#heaid]  dorkbot loves you!
+[#heaid]  hello Betsy and Chris.
+[#heaid]  hello brady I am steve
+Starting...
+Tracking keywords: {:track=>["#heaid"]}
+[#heaid]  shit fuck man
+[#heaid]  hello I'm sticking around
+[#heaid]  dog
+[#heaid]  whatever phish head!
+[#heaid]  am I still on?
+[#heaid]  hello there mang
+[#heaid] web2e  chris call jeremy w2e
+[#heaid]  how bout now?
+Starting...
+Tracking keywords: {:track=>["#w2e #heaid"]}
+[#w2e #heaid]  Good morning!
+Starting...
+Tracking keywords: {:track=>["#w2e #heaid"]}
+Starting...
+Tracking keywords: {:track=>["#heaid"]}
+[#heaid]  w2e please come dance with me now
+[#heaid] w2e  you can make the interactive musical instrument talk by tweeting to the hash tag heaid
+[#heaid] w2e  what's up web expo!
+Starting...
+Tracking keywords: {:track=>["#heaid", "#w2e"]}
+[#w2e] Food time at   http://twitgoo.com/ulvg2
+[#w2e] Come on  booth monkeys!  What attention grabbing stunt do you have for the lunch crowd?  opportunity gorillamarketing
+Error: exit
+Starting...
+Tracking keywords: {:track=>["#heaid"]}
+[#w2e] RT mikiane: The mobile strategy should be THE strategy! Think mobile first (it's what Google does)   /via anguenot
+[#w2e] It IS getting annoying. randfish: At  Google's dying. No one's going to use it in a few years. Facebook is the future!
+[#heaid]  Peter your fly is open
+[#w2e] sramji great talk at . It gave an API provider food for some much needed focus on our offering.
+[#w2e] Apparently i was mad at that sammich  lol RT danorley: http://twitpic.com/1l0vlx rorycarlyle mel1026 enjoying lunch 
+[#w2e] Our CEO isaacgarcia giving demos of new CD for Office at Web 2.0  Stop by our booth in the Longtail Pavilion! http://ow.ly/i/1oc0 
+[#w2e] RT jnogrady: Adobe showing flash and Air on android phones and tablets. 
+[#w2e]  is going great! The response to codeforamerica couldn't be better! I just had someone shoot video of the elevator pitch
+Error: exit
+Starting...
+Tracking keywords: {:track=>["#heaid"]}
+[#heaid]  come play with lasers at web 2 expo w2e
+[#heaid] web2e  will strong body weak w2e
+[#heaid]  who wants to have a star wars fight? w2e
+[#heaid]  Betsy thanks for all the books
+[#heaid] web2e  star wars time
+[#heaid]  take that you nasty nasty nasty storm trooper
+[#heaid]  way to go Suzanne!
+[#heaid]  sometimes I like to boogy. Somtimes I like to boogywoogy.
+[#heaid] w2e send message with  tag to speak out loud in web 2.0 expo hall
+[#heaid]  ...a bicycle made for two...
+[#heaid]  yeah I like to boogy. I like to boogy woogy.
+[#heaid] rww Glad you had fun! By the way you can get the project to speak if you tweet with the hashtag 
+[#heaid] I'm sorry Dave. I'm afraid I can't do that. 
+[#heaid]  chris come to keynote on 3rd floor
+Starting...
+Tracking keywords: {:track=>["#heaid"]}
+[#heaid]  good morning web 2 expo!
+[#heaid]  hey you there come dance with me w2e
+Starting...
+Tracking keywords: {:track=>["#heaid"]}
+/Library/Ruby/Gems/1.8/gems/eventmachine-0.12.10/lib/eventmachine.rb:714:in `connect_server': unable to resolve server address (EventMachine::ConnectionError)
+	from /Library/Ruby/Gems/1.8/gems/eventmachine-0.12.10/lib/eventmachine.rb:714:in `bind_connect'
+	from /Library/Ruby/Gems/1.8/gems/eventmachine-0.12.10/lib/eventmachine.rb:692:in `connect'
+	from /Library/Ruby/Gems/1.8/gems/twitter-stream-0.1.4/lib/twitter/json_stream.rb:40:in `connect'
+	from /Library/Ruby/Gems/1.8/gems/tweetstream-1.0.4/lib/tweetstream/client.rb:188:in `start'
+	from /Library/Ruby/Gems/1.8/gems/eventmachine-0.12.10/lib/eventmachine.rb:256:in `call'
+	from /Library/Ruby/Gems/1.8/gems/eventmachine-0.12.10/lib/eventmachine.rb:256:in `run_machine'
+	from /Library/Ruby/Gems/1.8/gems/eventmachine-0.12.10/lib/eventmachine.rb:256:in `run'
+	from /Library/Ruby/Gems/1.8/gems/tweetstream-1.0.4/lib/tweetstream/client.rb:187:in `start'
+	 ... 14 levels...
+	from /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/daemons-1.0.9/lib/daemons/cmdline.rb:105:in `catch_exceptions'
+	from /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/daemons-1.0.9/lib/daemons.rb:184:in `run_proc'
+	from talk.rb:36:in `start'
+	from talk.rb:73
+Starting...
+Tracking keywords: {:track=>["#heaid"]}
+/Library/Ruby/Gems/1.8/gems/eventmachine-0.12.10/lib/eventmachine.rb:714:in `connect_server': unable to resolve server address (EventMachine::ConnectionError)
+	from /Library/Ruby/Gems/1.8/gems/eventmachine-0.12.10/lib/eventmachine.rb:714:in `bind_connect'
+	from /Library/Ruby/Gems/1.8/gems/eventmachine-0.12.10/lib/eventmachine.rb:692:in `connect'
+	from /Library/Ruby/Gems/1.8/gems/twitter-stream-0.1.4/lib/twitter/json_stream.rb:40:in `connect'
+	from /Library/Ruby/Gems/1.8/gems/tweetstream-1.0.4/lib/tweetstream/client.rb:188:in `start'
+	from /Library/Ruby/Gems/1.8/gems/eventmachine-0.12.10/lib/eventmachine.rb:256:in `call'
+	from /Library/Ruby/Gems/1.8/gems/eventmachine-0.12.10/lib/eventmachine.rb:256:in `run_machine'
+	from /Library/Ruby/Gems/1.8/gems/eventmachine-0.12.10/lib/eventmachine.rb:256:in `run'
+	from /Library/Ruby/Gems/1.8/gems/tweetstream-1.0.4/lib/tweetstream/client.rb:187:in `start'
+	 ... 14 levels...
+	from /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/daemons-1.0.9/lib/daemons/cmdline.rb:105:in `catch_exceptions'
+	from /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/daemons-1.0.9/lib/daemons.rb:184:in `run_proc'
+	from talk.rb:36:in `start'
+	from talk.rb:73
+Starting...
+Tracking keywords: {:track=>["#heaid"]}
+[#heaid]  I am head
+[#heaid] Dancing with the human energized artificial intelligence device at w2e HTTP:// heaid.com  (via timoreilly)
+[#heaid]  please come dance with me it's really fun
+[#heaid] make me talk with the heaid hash tag 
+[#heaid] RT: timoreilly Dancing with the human energized artificial intelligence device at w2e http://heaid.com 
+[#heaid] RT doublejosh: RT: timoreilly Dancing with the human energized artificial intelligence device at w2e http://heaid.com 
+[#heaid] RT brady:  Betsy thanks for all the books
+[#heaid]  love your red hair
+[#heaid]  dance stefan
+[#heaid]  I love web two dot oh
+[#heaid] No one is at the   wheel.
+[#heaid]  you can dance if you want to.
+[#heaid]  you can tweet if you want to.
+[#heaid]  sitting heaid

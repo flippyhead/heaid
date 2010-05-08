@@ -1,0 +1,904 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="yes"?>
+
+<pattrstorage name = "xample.xml">
+	<slot number = "1">
+		<pattr name = "algorithm" value = "0 0 1 0 1 0 0 2 0 0 3 0 0 4 0 0 5 0 0 6 0 1 0 1 1 1 0 1 2 0 1 3 0 1 4 0 1 5 0 1 6 0 2 0 1 2 1 0 2 2 0 2 3 0 2 4 0 2 5 0 2 6 0 3 0 1 3 1 0 3 2 0 3 3 0 3 4 0 3 5 0 3 6 0 4 0 1 4 1 0 4 2 0 4 3 0 4 4 0 4 5 0 4 6 0 5 0 1 5 1 0 5 2 0 5 3 0 5 4 0 5 5 0 5 6 0 6 0 0 6 1 0 6 2 0 6 3 0 6 4 0 6 5 0 6 6 0" />
+		<pattr name = "op1-fix" value = "0" />
+		<pattr name = "op1-freq" value = "1." />
+		<pattr name = "op1-gain" value = "99" />
+		<pattr name = "op1-mode" value = "1" />
+		<pattr name = "op2-feedback" value = "0." />
+		<pattr name = "op2-fix" value = "0" />
+		<pattr name = "op2-freq" value = "3." />
+		<pattr name = "op2-gain" value = "87" />
+		<pattr name = "op2-mode" value = "1" />
+		<pattr name = "op3-fix" value = "0" />
+		<pattr name = "op3-freq" value = "5." />
+		<pattr name = "op3-gain" value = "79" />
+		<pattr name = "op3-mode" value = "1" />
+		<pattr name = "op4-fix" value = "0" />
+		<pattr name = "op4-freq" value = "7." />
+		<pattr name = "op4-gain" value = "75" />
+		<pattr name = "op4-mode" value = "1" />
+		<pattr name = "op5-fix" value = "0" />
+		<pattr name = "op5-freq" value = "9." />
+		<pattr name = "op5-gain" value = "72" />
+		<pattr name = "op5-mode" value = "1" />
+		<pattr name = "op6-feedback" value = "0." />
+		<pattr name = "op6-fix" value = "0" />
+		<pattr name = "op6-freq" value = "11." />
+		<pattr name = "op6-gain" value = "71" />
+		<pattr name = "op6-mode" value = "1" />
+	</slot>
+	<slot number = "2">
+		<pattr name = "algorithm" value = "0 0 1 0 1 0 0 2 0 0 3 0 0 4 0 0 5 0 0 6 0 1 0 0 1 1 1 1 2 0 1 3 0 1 4 0 1 5 0 1 6 0 2 0 0 2 1 0 2 2 0 2 3 0 2 4 0 2 5 0 2 6 0 3 0 0 3 1 0 3 2 0 3 3 0 3 4 0 3 5 0 3 6 0 4 0 0 4 1 0 4 2 0 4 3 0 4 4 0 4 5 0 4 6 0 5 0 0 5 1 0 5 2 0 5 3 0 5 4 0 5 5 0 5 6 0 6 0 0 6 1 0 6 2 0 6 3 0 6 4 0 6 5 0 6 6 0" />
+		<pattr name = "op1-fix" value = "0" />
+		<pattr name = "op1-freq" value = "1." />
+		<pattr name = "op1-gain" value = "99" />
+		<pattr name = "op1-mode" value = "" />
+		<pattr name = "op2-feedback" value = "0." />
+		<pattr name = "op2-fix" value = "0" />
+		<pattr name = "op2-freq" value = "1." />
+		<pattr name = "op2-gain" value = "99" />
+		<pattr name = "op2-mode" value = "2" />
+		<pattr name = "op3-fix" value = "0" />
+		<pattr name = "op3-freq" value = "1." />
+		<pattr name = "op3-gain" value = "0" />
+		<pattr name = "op3-mode" value = "0" />
+		<pattr name = "op4-fix" value = "0" />
+		<pattr name = "op4-freq" value = "7." />
+		<pattr name = "op4-gain" value = "0" />
+		<pattr name = "op4-mode" value = "0" />
+		<pattr name = "op5-fix" value = "0" />
+		<pattr name = "op5-freq" value = "9." />
+		<pattr name = "op5-gain" value = "0" />
+		<pattr name = "op5-mode" value = "0" />
+		<pattr name = "op6-feedback" value = "0." />
+		<pattr name = "op6-fix" value = "0" />
+		<pattr name = "op6-freq" value = "11." />
+		<pattr name = "op6-gain" value = "0" />
+		<pattr name = "op6-mode" value = "0" />
+	</slot>
+	<slot number = "3">
+		<pattr name = "algorithm" value = "0 0 1 0 1 0 0 2 0 0 3 0 0 4 0 0 5 0 0 6 0 1 0 1 1 1 0 1 2 0 1 3 0 1 4 0 1 5 0 1 6 0 2 0 1 2 1 0 2 2 0 2 3 0 2 4 0 2 5 0 2 6 0 3 0 1 3 1 0 3 2 0 3 3 0 3 4 0 3 5 0 3 6 0 4 0 1 4 1 0 4 2 0 4 3 0 4 4 0 4 5 0 4 6 0 5 0 1 5 1 0 5 2 0 5 3 0 5 4 0 5 5 0 5 6 0 6 0 0 6 1 0 6 2 0 6 3 0 6 4 0 6 5 0 6 6 0" />
+		<pattr name = "op1-fix" value = "0" />
+		<pattr name = "op1-freq" value = "1." />
+		<pattr name = "op1-gain" value = "99" />
+		<pattr name = "op1-mode" value = "" />
+		<pattr name = "op2-feedback" value = "0." />
+		<pattr name = "op2-fix" value = "0" />
+		<pattr name = "op2-freq" value = "3." />
+		<pattr name = "op2-gain" value = "87" />
+		<pattr name = "op2-mode" value = "1" />
+		<pattr name = "op3-fix" value = "0" />
+		<pattr name = "op3-freq" value = "5." />
+		<pattr name = "op3-gain" value = "79" />
+		<pattr name = "op3-mode" value = "1" />
+		<pattr name = "op4-fix" value = "0" />
+		<pattr name = "op4-freq" value = "7." />
+		<pattr name = "op4-gain" value = "75" />
+		<pattr name = "op4-mode" value = "1" />
+		<pattr name = "op5-fix" value = "0" />
+		<pattr name = "op5-freq" value = "9." />
+		<pattr name = "op5-gain" value = "72" />
+		<pattr name = "op5-mode" value = "1" />
+		<pattr name = "op6-feedback" value = "0." />
+		<pattr name = "op6-fix" value = "0" />
+		<pattr name = "op6-freq" value = "11." />
+		<pattr name = "op6-gain" value = "71" />
+		<pattr name = "op6-mode" value = "1" />
+	</slot>
+	<slot number = "4">
+		<pattr name = "algorithm" value = "0 0 1 0 1 0 0 2 0 0 3 0 0 4 0 0 5 0 0 6 0 1 0 0 1 1 1 1 2 0 1 3 0 1 4 0 1 5 0 1 6 0 2 0 0 2 1 0 2 2 1 2 3 0 2 4 0 2 5 0 2 6 0 3 0 0 3 1 0 3 2 0 3 3 0 3 4 0 3 5 0 3 6 0 4 0 0 4 1 0 4 2 0 4 3 0 4 4 0 4 5 0 4 6 0 5 0 0 5 1 0 5 2 0 5 3 0 5 4 0 5 5 0 5 6 0 6 0 0 6 1 0 6 2 0 6 3 0 6 4 0 6 5 0 6 6 0" />
+		<pattr name = "op1-fix" value = "0" />
+		<pattr name = "op1-freq" value = "1." />
+		<pattr name = "op1-gain" value = "99" />
+		<pattr name = "op1-mode" value = "" />
+		<pattr name = "op2-feedback" value = "0." />
+		<pattr name = "op2-fix" value = "0" />
+		<pattr name = "op2-freq" value = "2." />
+		<pattr name = "op2-gain" value = "95" />
+		<pattr name = "op2-mode" value = "2" />
+		<pattr name = "op3-fix" value = "0" />
+		<pattr name = "op3-freq" value = "4." />
+		<pattr name = "op3-gain" value = "90" />
+		<pattr name = "op3-mode" value = "2" />
+		<pattr name = "op4-fix" value = "0" />
+		<pattr name = "op4-freq" value = "7." />
+		<pattr name = "op4-gain" value = "0" />
+		<pattr name = "op4-mode" value = "0" />
+		<pattr name = "op5-fix" value = "0" />
+		<pattr name = "op5-freq" value = "9." />
+		<pattr name = "op5-gain" value = "0" />
+		<pattr name = "op5-mode" value = "0" />
+		<pattr name = "op6-feedback" value = "0." />
+		<pattr name = "op6-fix" value = "0" />
+		<pattr name = "op6-freq" value = "11." />
+		<pattr name = "op6-gain" value = "0" />
+		<pattr name = "op6-mode" value = "0" />
+	</slot>
+	<slot number = "5">
+		<pattr name = "algorithm" value = "0 0 1 0 1 0 0 2 0 0 3 0 0 4 0 0 5 0 0 6 0 1 0 1 1 1 0 1 2 0 1 3 0 1 4 0 1 5 0 1 6 0 2 0 1 2 1 0 2 2 0 2 3 0 2 4 0 2 5 0 2 6 0 3 0 1 3 1 0 3 2 0 3 3 0 3 4 0 3 5 0 3 6 0 4 0 1 4 1 0 4 2 0 4 3 0 4 4 0 4 5 0 4 6 0 5 0 1 5 1 0 5 2 0 5 3 0 5 4 0 5 5 0 5 6 0 6 0 0 6 1 0 6 2 0 6 3 0 6 4 0 6 5 0 6 6 0" />
+		<pattr name = "op1-fix" value = "0" />
+		<pattr name = "op1-freq" value = "1." />
+		<pattr name = "op1-gain" value = "99" />
+		<pattr name = "op1-mode" value = "1" />
+		<pattr name = "op2-feedback" value = "0." />
+		<pattr name = "op2-fix" value = "0" />
+		<pattr name = "op2-freq" value = "2." />
+		<pattr name = "op2-gain" value = "99" />
+		<pattr name = "op2-mode" value = "1" />
+		<pattr name = "op3-fix" value = "0" />
+		<pattr name = "op3-freq" value = "3." />
+		<pattr name = "op3-gain" value = "99" />
+		<pattr name = "op3-mode" value = "1" />
+		<pattr name = "op4-fix" value = "0" />
+		<pattr name = "op4-freq" value = "4." />
+		<pattr name = "op4-gain" value = "99" />
+		<pattr name = "op4-mode" value = "1" />
+		<pattr name = "op5-fix" value = "0" />
+		<pattr name = "op5-freq" value = "5." />
+		<pattr name = "op5-gain" value = "99" />
+		<pattr name = "op5-mode" value = "1" />
+		<pattr name = "op6-feedback" value = "0." />
+		<pattr name = "op6-fix" value = "0" />
+		<pattr name = "op6-freq" value = "6." />
+		<pattr name = "op6-gain" value = "99" />
+		<pattr name = "op6-mode" value = "1" />
+	</slot>
+	<slot number = "6">
+		<pattr name = "algorithm" value = "0 0 1 0 1 0 0 2 0 0 3 0 0 4 0 0 5 0 0 6 0 1 0 0 1 1 1 1 2 0 1 3 0 1 4 0 1 5 0 1 6 0 2 0 0 2 1 0 2 2 0 2 3 0 2 4 0 2 5 0 2 6 0 3 0 0 3 1 0 3 2 0 3 3 0 3 4 0 3 5 0 3 6 0 4 0 0 4 1 0 4 2 0 4 3 0 4 4 0 4 5 0 4 6 0 5 0 0 5 1 0 5 2 0 5 3 0 5 4 0 5 5 0 5 6 0 6 0 0 6 1 0 6 2 0 6 3 0 6 4 0 6 5 0 6 6 0" />
+		<pattr name = "op1-fix" value = "0" />
+		<pattr name = "op1-freq" value = "1." />
+		<pattr name = "op1-gain" value = "99" />
+		<pattr name = "op1-mode" value = "" />
+		<pattr name = "op2-feedback" value = "0." />
+		<pattr name = "op2-fix" value = "0" />
+		<pattr name = "op2-freq" value = "5." />
+		<pattr name = "op2-gain" value = "99" />
+		<pattr name = "op2-mode" value = "2" />
+		<pattr name = "op3-fix" value = "0" />
+		<pattr name = "op3-freq" value = "3." />
+		<pattr name = "op3-gain" value = "0" />
+		<pattr name = "op3-mode" value = "0" />
+		<pattr name = "op4-fix" value = "0" />
+		<pattr name = "op4-freq" value = "4." />
+		<pattr name = "op4-gain" value = "0" />
+		<pattr name = "op4-mode" value = "0" />
+		<pattr name = "op5-fix" value = "0" />
+		<pattr name = "op5-freq" value = "5." />
+		<pattr name = "op5-gain" value = "0" />
+		<pattr name = "op5-mode" value = "0" />
+		<pattr name = "op6-feedback" value = "0." />
+		<pattr name = "op6-fix" value = "0" />
+		<pattr name = "op6-freq" value = "6." />
+		<pattr name = "op6-gain" value = "0" />
+		<pattr name = "op6-mode" value = "0" />
+	</slot>
+	<slot number = "7">
+		<pattr name = "algorithm" value = "0 0 1 0 1 0 0 2 0 0 3 0 0 4 0 0 5 0 0 6 0 1 0 0 1 1 1 1 2 0 1 3 0 1 4 0 1 5 0 1 6 0 2 0 0 2 1 0 2 2 0 2 3 0 2 4 0 2 5 0 2 6 0 3 0 0 3 1 0 3 2 0 3 3 0 3 4 0 3 5 0 3 6 0 4 0 0 4 1 0 4 2 0 4 3 0 4 4 0 4 5 0 4 6 0 5 0 0 5 1 0 5 2 0 5 3 0 5 4 0 5 5 0 5 6 0 6 0 0 6 1 0 6 2 0 6 3 0 6 4 0 6 5 0 6 6 0" />
+		<pattr name = "op1-fix" value = "0" />
+		<pattr name = "op1-freq" value = "1." />
+		<pattr name = "op1-gain" value = "99" />
+		<pattr name = "op1-mode" value = "" />
+		<pattr name = "op2-feedback" value = "0." />
+		<pattr name = "op2-fix" value = "0" />
+		<pattr name = "op2-freq" value = "2." />
+		<pattr name = "op2-gain" value = "90" />
+		<pattr name = "op2-mode" value = "" />
+		<pattr name = "op3-fix" value = "0" />
+		<pattr name = "op3-freq" value = "3." />
+		<pattr name = "op3-gain" value = "0" />
+		<pattr name = "op3-mode" value = "" />
+		<pattr name = "op4-fix" value = "0" />
+		<pattr name = "op4-freq" value = "4." />
+		<pattr name = "op4-gain" value = "0" />
+		<pattr name = "op4-mode" value = "" />
+		<pattr name = "op5-fix" value = "0" />
+		<pattr name = "op5-freq" value = "5." />
+		<pattr name = "op5-gain" value = "0" />
+		<pattr name = "op5-mode" value = "" />
+		<pattr name = "op6-feedback" value = "0." />
+		<pattr name = "op6-fix" value = "0" />
+		<pattr name = "op6-freq" value = "6." />
+		<pattr name = "op6-gain" value = "0" />
+		<pattr name = "op6-mode" value = "" />
+	</slot>
+	<slot number = "8">
+		<pattr name = "algorithm" value = "0 0 1 0 1 0 0 2 0 0 3 0 0 4 0 0 5 0 0 6 0 1 0 0 1 1 0 1 2 0 1 3 0 1 4 0 1 5 0 1 6 0 2 0 1 2 1 0 2 2 0 2 3 0 2 4 0 2 5 0 2 6 0 3 0 0 3 1 0 3 2 0 3 3 0 3 4 0 3 5 0 3 6 0 4 0 0 4 1 0 4 2 0 4 3 0 4 4 0 4 5 0 4 6 0 5 0 0 5 1 0 5 2 0 5 3 0 5 4 0 5 5 0 5 6 0 6 0 0 6 1 0 6 2 0 6 3 0 6 4 0 6 5 0 6 6 0" />
+		<pattr name = "op1-fix" value = "0" />
+		<pattr name = "op1-freq" value = "1." />
+		<pattr name = "op1-gain" value = "99" />
+		<pattr name = "op1-mode" value = "" />
+		<pattr name = "op2-feedback" value = "0." />
+		<pattr name = "op2-fix" value = "0" />
+		<pattr name = "op2-freq" value = "2." />
+		<pattr name = "op2-gain" value = "90" />
+		<pattr name = "op2-mode" value = "" />
+		<pattr name = "op3-fix" value = "0" />
+		<pattr name = "op3-freq" value = "1." />
+		<pattr name = "op3-gain" value = "99" />
+		<pattr name = "op3-mode" value = "1" />
+		<pattr name = "op4-fix" value = "0" />
+		<pattr name = "op4-freq" value = "4." />
+		<pattr name = "op4-gain" value = "0" />
+		<pattr name = "op4-mode" value = "" />
+		<pattr name = "op5-fix" value = "0" />
+		<pattr name = "op5-freq" value = "5." />
+		<pattr name = "op5-gain" value = "0" />
+		<pattr name = "op5-mode" value = "" />
+		<pattr name = "op6-feedback" value = "0." />
+		<pattr name = "op6-fix" value = "0" />
+		<pattr name = "op6-freq" value = "6." />
+		<pattr name = "op6-gain" value = "0" />
+		<pattr name = "op6-mode" value = "" />
+	</slot>
+	<slot number = "9">
+		<pattr name = "algorithm" value = "0 0 1 0 1 0 0 2 0 0 3 0 0 4 0 0 5 0 0 6 0 1 0 0 1 1 1 1 2 0 1 3 0 1 4 0 1 5 0 1 6 0 2 0 1 2 1 0 2 2 0 2 3 0 2 4 0 2 5 0 2 6 0 3 0 0 3 1 1 3 2 0 3 3 0 3 4 0 3 5 0 3 6 0 4 0 0 4 1 0 4 2 0 4 3 0 4 4 0 4 5 0 4 6 0 5 0 0 5 1 0 5 2 0 5 3 0 5 4 0 5 5 0 5 6 0 6 0 0 6 1 0 6 2 0 6 3 0 6 4 0 6 5 0 6 6 0" />
+		<pattr name = "op1-fix" value = "0" />
+		<pattr name = "op1-freq" value = "1." />
+		<pattr name = "op1-gain" value = "99" />
+		<pattr name = "op1-mode" value = "" />
+		<pattr name = "op2-feedback" value = "0." />
+		<pattr name = "op2-fix" value = "0" />
+		<pattr name = "op2-freq" value = "2." />
+		<pattr name = "op2-gain" value = "90" />
+		<pattr name = "op2-mode" value = "" />
+		<pattr name = "op3-fix" value = "0" />
+		<pattr name = "op3-freq" value = "1." />
+		<pattr name = "op3-gain" value = "99" />
+		<pattr name = "op3-mode" value = "" />
+		<pattr name = "op4-fix" value = "0" />
+		<pattr name = "op4-freq" value = "4." />
+		<pattr name = "op4-gain" value = "85" />
+		<pattr name = "op4-mode" value = "2" />
+		<pattr name = "op5-fix" value = "0" />
+		<pattr name = "op5-freq" value = "5." />
+		<pattr name = "op5-gain" value = "0" />
+		<pattr name = "op5-mode" value = "0" />
+		<pattr name = "op6-feedback" value = "0." />
+		<pattr name = "op6-fix" value = "0" />
+		<pattr name = "op6-freq" value = "6." />
+		<pattr name = "op6-gain" value = "0" />
+		<pattr name = "op6-mode" value = "0" />
+	</slot>
+	<slot number = "10">
+		<pattr name = "algorithm" value = "0 0 1 0 1 0 0 2 0 0 3 0 0 4 0 0 5 0 0 6 0 1 0 1 1 1 0 1 2 0 1 3 0 1 4 0 1 5 0 1 6 0 2 0 1 2 1 0 2 2 0 2 3 0 2 4 0 2 5 0 2 6 0 3 0 1 3 1 0 3 2 0 3 3 0 3 4 0 3 5 0 3 6 0 4 0 1 4 1 0 4 2 0 4 3 0 4 4 0 4 5 0 4 6 0 5 0 1 5 1 0 5 2 0 5 3 0 5 4 0 5 5 0 5 6 0 6 0 0 6 1 0 6 2 0 6 3 0 6 4 0 6 5 0 6 6 0" />
+		<pattr name = "op1-fix" value = "0" />
+		<pattr name = "op1-freq" value = "1." />
+		<pattr name = "op1-gain" value = "99" />
+		<pattr name = "op1-mode" value = "1" />
+		<pattr name = "op2-feedback" value = "0." />
+		<pattr name = "op2-fix" value = "0" />
+		<pattr name = "op2-freq" value = "2." />
+		<pattr name = "op2-gain" value = "61" />
+		<pattr name = "op2-mode" value = "1" />
+		<pattr name = "op3-fix" value = "0" />
+		<pattr name = "op3-freq" value = "3." />
+		<pattr name = "op3-gain" value = "85" />
+		<pattr name = "op3-mode" value = "" />
+		<pattr name = "op4-fix" value = "0" />
+		<pattr name = "op4-freq" value = "4." />
+		<pattr name = "op4-gain" value = "99" />
+		<pattr name = "op4-mode" value = "1" />
+		<pattr name = "op5-fix" value = "0" />
+		<pattr name = "op5-freq" value = "5." />
+		<pattr name = "op5-gain" value = "86" />
+		<pattr name = "op5-mode" value = "1" />
+		<pattr name = "op6-feedback" value = "0." />
+		<pattr name = "op6-fix" value = "0" />
+		<pattr name = "op6-freq" value = "6." />
+		<pattr name = "op6-gain" value = "63" />
+		<pattr name = "op6-mode" value = "1" />
+	</slot>
+	<slot number = "11">
+		<pattr name = "algorithm" value = "0 0 1 0 1 0 0 2 0 0 3 0 0 4 0 0 5 0 0 6 0 1 0 0 1 1 1 1 2 0 1 3 0 1 4 0 1 5 0 1 6 0 2 0 0 2 1 0 2 2 0 2 3 0 2 4 0 2 5 0 2 6 0 3 0 0 3 1 0 3 2 0 3 3 0 3 4 0 3 5 0 3 6 0 4 0 0 4 1 0 4 2 0 4 3 0 4 4 0 4 5 0 4 6 0 5 0 0 5 1 0 5 2 0 5 3 0 5 4 0 5 5 0 5 6 0 6 0 0 6 1 0 6 2 0 6 3 0 6 4 0 6 5 0 6 6 0" />
+		<pattr name = "op1-fix" value = "0" />
+		<pattr name = "op1-freq" value = "4." />
+		<pattr name = "op1-gain" value = "92" />
+		<pattr name = "op1-mode" value = "" />
+		<pattr name = "op2-feedback" value = "0." />
+		<pattr name = "op2-fix" value = "0" />
+		<pattr name = "op2-freq" value = "1." />
+		<pattr name = "op2-gain" value = "102" />
+		<pattr name = "op2-mode" value = "2" />
+		<pattr name = "op3-fix" value = "0" />
+		<pattr name = "op3-freq" value = "3." />
+		<pattr name = "op3-gain" value = "85" />
+		<pattr name = "op3-mode" value = "0" />
+		<pattr name = "op4-fix" value = "0" />
+		<pattr name = "op4-freq" value = "4." />
+		<pattr name = "op4-gain" value = "99" />
+		<pattr name = "op4-mode" value = "0" />
+		<pattr name = "op5-fix" value = "0" />
+		<pattr name = "op5-freq" value = "5." />
+		<pattr name = "op5-gain" value = "86" />
+		<pattr name = "op5-mode" value = "0" />
+		<pattr name = "op6-feedback" value = "0." />
+		<pattr name = "op6-fix" value = "0" />
+		<pattr name = "op6-freq" value = "6." />
+		<pattr name = "op6-gain" value = "63" />
+		<pattr name = "op6-mode" value = "0" />
+	</slot>
+	<slot number = "12">
+		<pattr name = "algorithm" value = "0 0 1 0 1 0 0 2 0 0 3 0 0 4 0 0 5 0 0 6 0 1 0 0 1 1 1 1 2 0 1 3 0 1 4 0 1 5 0 1 6 0 2 0 0 2 1 0 2 2 0 2 3 0 2 4 0 2 5 0 2 6 0 3 0 0 3 1 0 3 2 0 3 3 0 3 4 0 3 5 0 3 6 0 4 0 0 4 1 0 4 2 0 4 3 0 4 4 0 4 5 0 4 6 0 5 0 0 5 1 0 5 2 0 5 3 0 5 4 0 5 5 0 5 6 0 6 0 0 6 1 0 6 2 0 6 3 0 6 4 0 6 5 0 6 6 0" />
+		<pattr name = "op1-fix" value = "0" />
+		<pattr name = "op1-freq" value = "0.5" />
+		<pattr name = "op1-gain" value = "99" />
+		<pattr name = "op1-mode" value = "" />
+		<pattr name = "op2-feedback" value = "0." />
+		<pattr name = "op2-fix" value = "0" />
+		<pattr name = "op2-freq" value = "0.68" />
+		<pattr name = "op2-gain" value = "99" />
+		<pattr name = "op2-mode" value = "" />
+		<pattr name = "op3-fix" value = "0" />
+		<pattr name = "op3-freq" value = "3." />
+		<pattr name = "op3-gain" value = "85" />
+		<pattr name = "op3-mode" value = "" />
+		<pattr name = "op4-fix" value = "0" />
+		<pattr name = "op4-freq" value = "4." />
+		<pattr name = "op4-gain" value = "99" />
+		<pattr name = "op4-mode" value = "" />
+		<pattr name = "op5-fix" value = "0" />
+		<pattr name = "op5-freq" value = "5." />
+		<pattr name = "op5-gain" value = "86" />
+		<pattr name = "op5-mode" value = "" />
+		<pattr name = "op6-feedback" value = "0." />
+		<pattr name = "op6-fix" value = "0" />
+		<pattr name = "op6-freq" value = "6." />
+		<pattr name = "op6-gain" value = "63" />
+		<pattr name = "op6-mode" value = "" />
+	</slot>
+	<slot number = "13">
+		<pattr name = "algorithm" value = "0 0 1 0 1 0 0 2 0 0 3 0 0 4 0 0 5 0 0 6 0 1 0 0 1 1 1 1 2 0 1 3 0 1 4 0 1 5 0 1 6 0 2 0 0 2 1 0 2 2 0 2 3 0 2 4 0 2 5 0 2 6 0 3 0 0 3 1 0 3 2 0 3 3 0 3 4 0 3 5 0 3 6 0 4 0 0 4 1 0 4 2 0 4 3 0 4 4 0 4 5 0 4 6 0 5 0 0 5 1 0 5 2 0 5 3 0 5 4 0 5 5 0 5 6 0 6 0 0 6 1 0 6 2 0 6 3 0 6 4 0 6 5 0 6 6 0" />
+		<pattr name = "op1-fix" value = "0" />
+		<pattr name = "op1-freq" value = "1." />
+		<pattr name = "op1-gain" value = "99" />
+		<pattr name = "op1-mode" value = "" />
+		<pattr name = "op2-feedback" value = "0.5" />
+		<pattr name = "op2-fix" value = "0" />
+		<pattr name = "op2-freq" value = "1." />
+		<pattr name = "op2-gain" value = "85" />
+		<pattr name = "op2-mode" value = "" />
+		<pattr name = "op3-fix" value = "0" />
+		<pattr name = "op3-freq" value = "3." />
+		<pattr name = "op3-gain" value = "85" />
+		<pattr name = "op3-mode" value = "" />
+		<pattr name = "op4-fix" value = "0" />
+		<pattr name = "op4-freq" value = "4." />
+		<pattr name = "op4-gain" value = "99" />
+		<pattr name = "op4-mode" value = "" />
+		<pattr name = "op5-fix" value = "0" />
+		<pattr name = "op5-freq" value = "5." />
+		<pattr name = "op5-gain" value = "86" />
+		<pattr name = "op5-mode" value = "" />
+		<pattr name = "op6-feedback" value = "0." />
+		<pattr name = "op6-fix" value = "0" />
+		<pattr name = "op6-freq" value = "6." />
+		<pattr name = "op6-gain" value = "63" />
+		<pattr name = "op6-mode" value = "" />
+	</slot>
+	<slot number = "14">
+		<pattr name = "algorithm" value = "0 0 0 0 1 0 0 2 0 0 3 0 0 4 0 0 5 0 0 6 0 1 0 0 1 1 0 1 2 0 1 3 0 1 4 0 1 5 0 1 6 0 2 0 1 2 1 0 2 2 0 2 3 0 2 4 0 2 5 0 2 6 0 3 0 0 3 1 0 3 2 0 3 3 1 3 4 0 3 5 0 3 6 0 4 0 0 4 1 0 4 2 0 4 3 1 4 4 0 4 5 0 4 6 0 5 0 0 5 1 0 5 2 0 5 3 0 5 4 0 5 5 0 5 6 0 6 0 0 6 1 0 6 2 0 6 3 0 6 4 0 6 5 0 6 6 0" />
+		<pattr name = "op1-fix" value = "0" />
+		<pattr name = "op1-freq" value = "1." />
+		<pattr name = "op1-gain" value = "99" />
+		<pattr name = "op1-mode" value = "" />
+		<pattr name = "op2-feedback" value = "0.5" />
+		<pattr name = "op2-fix" value = "0" />
+		<pattr name = "op2-freq" value = "1." />
+		<pattr name = "op2-gain" value = "85" />
+		<pattr name = "op2-mode" value = "" />
+		<pattr name = "op3-fix" value = "0" />
+		<pattr name = "op3-freq" value = "5." />
+		<pattr name = "op3-gain" value = "99" />
+		<pattr name = "op3-mode" value = "" />
+		<pattr name = "op4-fix" value = "0" />
+		<pattr name = "op4-freq" value = "1." />
+		<pattr name = "op4-gain" value = "93" />
+		<pattr name = "op4-mode" value = "" />
+		<pattr name = "op5-fix" value = "0" />
+		<pattr name = "op5-freq" value = "5." />
+		<pattr name = "op5-gain" value = "73" />
+		<pattr name = "op5-mode" value = "" />
+		<pattr name = "op6-feedback" value = "0." />
+		<pattr name = "op6-fix" value = "0" />
+		<pattr name = "op6-freq" value = "1.41" />
+		<pattr name = "op6-gain" value = "45" />
+		<pattr name = "op6-mode" value = "" />
+	</slot>
+	<slot number = "15">
+		<pattr name = "algorithm" value = "0 0 0 0 1 0 0 2 0 0 3 0 0 4 0 0 5 0 0 6 0 1 0 0 1 1 0 1 2 0 1 3 0 1 4 0 1 5 0 1 6 0 2 0 1 2 1 0 2 2 0 2 3 0 2 4 0 2 5 0 2 6 0 3 0 0 3 1 0 3 2 0 3 3 1 3 4 0 3 5 0 3 6 0 4 0 0 4 1 0 4 2 0 4 3 1 4 4 0 4 5 0 4 6 0 5 0 0 5 1 0 5 2 0 5 3 1 5 4 0 5 5 0 5 6 0 6 0 0 6 1 0 6 2 0 6 3 0 6 4 0 6 5 0 6 6 0" />
+		<pattr name = "op1-fix" value = "0" />
+		<pattr name = "op1-freq" value = "1." />
+		<pattr name = "op1-gain" value = "99" />
+		<pattr name = "op1-mode" value = "" />
+		<pattr name = "op2-feedback" value = "0.5" />
+		<pattr name = "op2-fix" value = "0" />
+		<pattr name = "op2-freq" value = "1." />
+		<pattr name = "op2-gain" value = "85" />
+		<pattr name = "op2-mode" value = "" />
+		<pattr name = "op3-fix" value = "0" />
+		<pattr name = "op3-freq" value = "5." />
+		<pattr name = "op3-gain" value = "99" />
+		<pattr name = "op3-mode" value = "" />
+		<pattr name = "op4-fix" value = "0" />
+		<pattr name = "op4-freq" value = "1." />
+		<pattr name = "op4-gain" value = "89" />
+		<pattr name = "op4-mode" value = "" />
+		<pattr name = "op5-fix" value = "0" />
+		<pattr name = "op5-freq" value = "5." />
+		<pattr name = "op5-gain" value = "72" />
+		<pattr name = "op5-mode" value = "" />
+		<pattr name = "op6-feedback" value = "0." />
+		<pattr name = "op6-fix" value = "0" />
+		<pattr name = "op6-freq" value = "1.41" />
+		<pattr name = "op6-gain" value = "71" />
+		<pattr name = "op6-mode" value = "2" />
+	</slot>
+	<slot number = "16">
+		<pattr name = "algorithm" value = "0 0 0 0 1 0 0 2 0 0 3 0 0 4 0 0 5 0 0 6 0 1 0 0 1 1 0 1 2 0 1 3 0 1 4 0 1 5 0 1 6 0 2 0 1 2 1 0 2 2 0 2 3 0 2 4 0 2 5 0 2 6 0 3 0 0 3 1 0 3 2 0 3 3 1 3 4 0 3 5 0 3 6 0 4 0 0 4 1 0 4 2 0 4 3 0 4 4 1 4 5 0 4 6 0 5 0 0 5 1 0 5 2 0 5 3 0 5 4 0 5 5 1 5 6 0 6 0 0 6 1 0 6 2 0 6 3 0 6 4 0 6 5 0 6 6 0" />
+		<pattr name = "op1-fix" value = "0" />
+		<pattr name = "op1-freq" value = "1." />
+		<pattr name = "op1-gain" value = "99" />
+		<pattr name = "op1-mode" value = "" />
+		<pattr name = "op2-feedback" value = "0.5" />
+		<pattr name = "op2-fix" value = "0" />
+		<pattr name = "op2-freq" value = "1." />
+		<pattr name = "op2-gain" value = "85" />
+		<pattr name = "op2-mode" value = "" />
+		<pattr name = "op3-fix" value = "0" />
+		<pattr name = "op3-freq" value = "1." />
+		<pattr name = "op3-gain" value = "99" />
+		<pattr name = "op3-mode" value = "" />
+		<pattr name = "op4-fix" value = "0" />
+		<pattr name = "op4-freq" value = "1." />
+		<pattr name = "op4-gain" value = "90" />
+		<pattr name = "op4-mode" value = "" />
+		<pattr name = "op5-fix" value = "0" />
+		<pattr name = "op5-freq" value = "1." />
+		<pattr name = "op5-gain" value = "90" />
+		<pattr name = "op5-mode" value = "" />
+		<pattr name = "op6-feedback" value = "0." />
+		<pattr name = "op6-fix" value = "0" />
+		<pattr name = "op6-freq" value = "0.5" />
+		<pattr name = "op6-gain" value = "0" />
+		<pattr name = "op6-mode" value = "" />
+	</slot>
+	<slot number = "17">
+		<pattr name = "algorithm" value = "0 0 1 0 1 0 0 2 0 0 3 0 0 4 0 0 5 0 0 6 0 1 0 0 1 1 1 1 2 0 1 3 0 1 4 0 1 5 0 1 6 0 2 0 0 2 1 1 2 2 0 2 3 0 2 4 0 2 5 0 2 6 0 3 0 0 3 1 0 3 2 0 3 3 0 3 4 0 3 5 0 3 6 0 4 0 0 4 1 0 4 2 0 4 3 0 4 4 0 4 5 0 4 6 0 5 0 0 5 1 0 5 2 0 5 3 0 5 4 0 5 5 0 5 6 0 6 0 0 6 1 0 6 2 0 6 3 0 6 4 0 6 5 0 6 6 0" />
+		<pattr name = "op1-fix" value = "0" />
+		<pattr name = "op1-freq" value = "1." />
+		<pattr name = "op1-gain" value = "99" />
+		<pattr name = "op1-mode" value = "" />
+		<pattr name = "op2-feedback" value = "0." />
+		<pattr name = "op2-fix" value = "0" />
+		<pattr name = "op2-freq" value = "2." />
+		<pattr name = "op2-gain" value = "60" />
+		<pattr name = "op2-mode" value = "" />
+		<pattr name = "op3-fix" value = "0" />
+		<pattr name = "op3-freq" value = "2.82" />
+		<pattr name = "op3-gain" value = "75" />
+		<pattr name = "op3-mode" value = "" />
+		<pattr name = "op4-fix" value = "0" />
+		<pattr name = "op4-freq" value = "1." />
+		<pattr name = "op4-gain" value = "70" />
+		<pattr name = "op4-mode" value = "" />
+		<pattr name = "op5-fix" value = "0" />
+		<pattr name = "op5-freq" value = "1." />
+		<pattr name = "op5-gain" value = "63" />
+		<pattr name = "op5-mode" value = "" />
+		<pattr name = "op6-feedback" value = "0." />
+		<pattr name = "op6-fix" value = "0" />
+		<pattr name = "op6-freq" value = "0.5" />
+		<pattr name = "op6-gain" value = "0" />
+		<pattr name = "op6-mode" value = "" />
+	</slot>
+	<slot number = "18">
+		<pattr name = "algorithm" value = "0 0 1 0 1 0 0 2 0 0 3 0 0 4 0 0 5 0 0 6 0 1 0 0 1 1 1 1 2 0 1 3 0 1 4 0 1 5 0 1 6 0 2 0 0 2 1 0 2 2 1 2 3 0 2 4 0 2 5 0 2 6 0 3 0 0 3 1 0 3 2 0 3 3 0 3 4 0 3 5 0 3 6 0 4 0 0 4 1 0 4 2 0 4 3 0 4 4 0 4 5 0 4 6 0 5 0 0 5 1 0 5 2 0 5 3 0 5 4 0 5 5 0 5 6 0 6 0 0 6 1 0 6 2 0 6 3 0 6 4 0 6 5 0 6 6 0" />
+		<pattr name = "op1-fix" value = "0" />
+		<pattr name = "op1-freq" value = "53.63" />
+		<pattr name = "op1-gain" value = "99" />
+		<pattr name = "op1-mode" value = "1" />
+		<pattr name = "op2-feedback" value = "0." />
+		<pattr name = "op2-fix" value = "0" />
+		<pattr name = "op2-freq" value = "0.72" />
+		<pattr name = "op2-gain" value = "72" />
+		<pattr name = "op2-mode" value = "2" />
+		<pattr name = "op3-fix" value = "0" />
+		<pattr name = "op3-freq" value = "0.58" />
+		<pattr name = "op3-gain" value = "90" />
+		<pattr name = "op3-mode" value = "2" />
+		<pattr name = "op4-fix" value = "0" />
+		<pattr name = "op4-freq" value = "1." />
+		<pattr name = "op4-gain" value = "70" />
+		<pattr name = "op4-mode" value = "" />
+		<pattr name = "op5-fix" value = "0" />
+		<pattr name = "op5-freq" value = "1." />
+		<pattr name = "op5-gain" value = "63" />
+		<pattr name = "op5-mode" value = "" />
+		<pattr name = "op6-feedback" value = "0." />
+		<pattr name = "op6-fix" value = "0" />
+		<pattr name = "op6-freq" value = "0.5" />
+		<pattr name = "op6-gain" value = "0" />
+		<pattr name = "op6-mode" value = "" />
+	</slot>
+	<slot number = "19">
+		<pattr name = "algorithm" value = "0 0 1 0 1 0 0 2 0 0 3 0 0 4 0 0 5 0 0 6 0 1 0 0 1 1 1 1 2 0 1 3 0 1 4 0 1 5 0 1 6 0 2 0 0 2 1 0 2 2 0 2 3 0 2 4 0 2 5 0 2 6 0 3 0 0 3 1 0 3 2 0 3 3 0 3 4 0 3 5 0 3 6 0 4 0 0 4 1 0 4 2 0 4 3 0 4 4 0 4 5 0 4 6 0 5 0 0 5 1 0 5 2 0 5 3 0 5 4 0 5 5 0 5 6 0 6 0 0 6 1 0 6 2 0 6 3 0 6 4 0 6 5 0 6 6 0" />
+		<pattr name = "op1-fix" value = "1" />
+		<pattr name = "op1-freq" value = "97.72" />
+		<pattr name = "op1-gain" value = "99" />
+		<pattr name = "op1-mode" value = "" />
+		<pattr name = "op2-feedback" value = "0." />
+		<pattr name = "op2-fix" value = "1" />
+		<pattr name = "op2-freq" value = "1." />
+		<pattr name = "op2-gain" value = "120" />
+		<pattr name = "op2-mode" value = "" />
+		<pattr name = "op3-fix" value = "0" />
+		<pattr name = "op3-freq" value = "0.58" />
+		<pattr name = "op3-gain" value = "90" />
+		<pattr name = "op3-mode" value = "" />
+		<pattr name = "op4-fix" value = "0" />
+		<pattr name = "op4-freq" value = "1." />
+		<pattr name = "op4-gain" value = "70" />
+		<pattr name = "op4-mode" value = "" />
+		<pattr name = "op5-fix" value = "0" />
+		<pattr name = "op5-freq" value = "1." />
+		<pattr name = "op5-gain" value = "63" />
+		<pattr name = "op5-mode" value = "" />
+		<pattr name = "op6-feedback" value = "0." />
+		<pattr name = "op6-fix" value = "0" />
+		<pattr name = "op6-freq" value = "0.5" />
+		<pattr name = "op6-gain" value = "0" />
+		<pattr name = "op6-mode" value = "" />
+	</slot>
+	<slot number = "20">
+		<pattr name = "algorithm" value = "0 0 1 0 1 0 0 2 0 0 3 0 0 4 0 0 5 0 0 6 0 1 0 0 1 1 1 1 2 0 1 3 0 1 4 0 1 5 0 1 6 0 2 0 0 2 1 0 2 2 0 2 3 0 2 4 0 2 5 0 2 6 0 3 0 0 3 1 0 3 2 0 3 3 0 3 4 0 3 5 0 3 6 0 4 0 0 4 1 0 4 2 0 4 3 0 4 4 0 4 5 0 4 6 0 5 0 0 5 1 0 5 2 0 5 3 0 5 4 0 5 5 0 5 6 0 6 0 0 6 1 0 6 2 0 6 3 0 6 4 0 6 5 0 6 6 0" />
+		<pattr name = "op1-fix" value = "1" />
+		<pattr name = "op1-freq" value = "97.72" />
+		<pattr name = "op1-gain" value = "99" />
+		<pattr name = "op1-mode" value = "" />
+		<pattr name = "op2-feedback" value = "0." />
+		<pattr name = "op2-fix" value = "1" />
+		<pattr name = "op2-freq" value = "10." />
+		<pattr name = "op2-gain" value = "120" />
+		<pattr name = "op2-mode" value = "" />
+		<pattr name = "op3-fix" value = "0" />
+		<pattr name = "op3-freq" value = "0.58" />
+		<pattr name = "op3-gain" value = "90" />
+		<pattr name = "op3-mode" value = "" />
+		<pattr name = "op4-fix" value = "0" />
+		<pattr name = "op4-freq" value = "1." />
+		<pattr name = "op4-gain" value = "70" />
+		<pattr name = "op4-mode" value = "" />
+		<pattr name = "op5-fix" value = "0" />
+		<pattr name = "op5-freq" value = "1." />
+		<pattr name = "op5-gain" value = "63" />
+		<pattr name = "op5-mode" value = "" />
+		<pattr name = "op6-feedback" value = "0." />
+		<pattr name = "op6-fix" value = "0" />
+		<pattr name = "op6-freq" value = "0.5" />
+		<pattr name = "op6-gain" value = "0" />
+		<pattr name = "op6-mode" value = "" />
+	</slot>
+	<slot number = "21">
+		<pattr name = "algorithm" value = "0 0 1 0 1 0 0 2 0 0 3 0 0 4 0 0 5 0 0 6 0 1 0 0 1 1 1 1 2 0 1 3 0 1 4 0 1 5 0 1 6 0 2 0 0 2 1 0 2 2 0 2 3 0 2 4 0 2 5 0 2 6 0 3 0 0 3 1 0 3 2 0 3 3 0 3 4 0 3 5 0 3 6 0 4 0 0 4 1 0 4 2 0 4 3 0 4 4 0 4 5 0 4 6 0 5 0 0 5 1 0 5 2 0 5 3 0 5 4 0 5 5 0 5 6 0 6 0 0 6 1 0 6 2 0 6 3 0 6 4 0 6 5 0 6 6 0" />
+		<pattr name = "op1-fix" value = "1" />
+		<pattr name = "op1-freq" value = "48.98" />
+		<pattr name = "op1-gain" value = "99" />
+		<pattr name = "op1-mode" value = "" />
+		<pattr name = "op2-feedback" value = "0." />
+		<pattr name = "op2-fix" value = "1" />
+		<pattr name = "op2-freq" value = "48.98" />
+		<pattr name = "op2-gain" value = "120" />
+		<pattr name = "op2-mode" value = "" />
+		<pattr name = "op3-fix" value = "0" />
+		<pattr name = "op3-freq" value = "0.58" />
+		<pattr name = "op3-gain" value = "90" />
+		<pattr name = "op3-mode" value = "" />
+		<pattr name = "op4-fix" value = "0" />
+		<pattr name = "op4-freq" value = "1." />
+		<pattr name = "op4-gain" value = "70" />
+		<pattr name = "op4-mode" value = "" />
+		<pattr name = "op5-fix" value = "0" />
+		<pattr name = "op5-freq" value = "1." />
+		<pattr name = "op5-gain" value = "63" />
+		<pattr name = "op5-mode" value = "" />
+		<pattr name = "op6-feedback" value = "0." />
+		<pattr name = "op6-fix" value = "0" />
+		<pattr name = "op6-freq" value = "0.5" />
+		<pattr name = "op6-gain" value = "0" />
+		<pattr name = "op6-mode" value = "" />
+	</slot>
+	<slot number = "22">
+		<pattr name = "algorithm" value = "0 0 1 0 1 0 0 2 0 0 3 0 0 4 0 0 5 0 0 6 0 1 0 0 1 1 1 1 2 0 1 3 0 1 4 0 1 5 0 1 6 0 2 0 0 2 1 0 2 2 0 2 3 0 2 4 0 2 5 0 2 6 0 3 0 0 3 1 0 3 2 0 3 3 0 3 4 0 3 5 0 3 6 0 4 0 0 4 1 0 4 2 0 4 3 0 4 4 0 4 5 0 4 6 0 5 0 0 5 1 0 5 2 0 5 3 0 5 4 0 5 5 0 5 6 0 6 0 0 6 1 0 6 2 0 6 3 0 6 4 0 6 5 0 6 6 0" />
+		<pattr name = "op1-fix" value = "1" />
+		<pattr name = "op1-freq" value = "100." />
+		<pattr name = "op1-gain" value = "99" />
+		<pattr name = "op1-mode" value = "" />
+		<pattr name = "op2-feedback" value = "0." />
+		<pattr name = "op2-fix" value = "1" />
+		<pattr name = "op2-freq" value = "100." />
+		<pattr name = "op2-gain" value = "120" />
+		<pattr name = "op2-mode" value = "" />
+		<pattr name = "op3-fix" value = "0" />
+		<pattr name = "op3-freq" value = "0.58" />
+		<pattr name = "op3-gain" value = "90" />
+		<pattr name = "op3-mode" value = "" />
+		<pattr name = "op4-fix" value = "0" />
+		<pattr name = "op4-freq" value = "1." />
+		<pattr name = "op4-gain" value = "70" />
+		<pattr name = "op4-mode" value = "" />
+		<pattr name = "op5-fix" value = "0" />
+		<pattr name = "op5-freq" value = "1." />
+		<pattr name = "op5-gain" value = "63" />
+		<pattr name = "op5-mode" value = "" />
+		<pattr name = "op6-feedback" value = "0." />
+		<pattr name = "op6-fix" value = "0" />
+		<pattr name = "op6-freq" value = "0.5" />
+		<pattr name = "op6-gain" value = "0" />
+		<pattr name = "op6-mode" value = "" />
+	</slot>
+	<slot number = "23">
+		<pattr name = "algorithm" value = "0 0 1 0 1 0 0 2 0 0 3 0 0 4 0 0 5 0 0 6 0 1 0 0 1 1 1 1 2 0 1 3 0 1 4 0 1 5 0 1 6 0 2 0 0 2 1 0 2 2 0 2 3 0 2 4 0 2 5 0 2 6 0 3 0 0 3 1 0 3 2 0 3 3 0 3 4 0 3 5 0 3 6 0 4 0 0 4 1 0 4 2 0 4 3 0 4 4 0 4 5 0 4 6 0 5 0 0 5 1 0 5 2 0 5 3 0 5 4 0 5 5 0 5 6 0 6 0 0 6 1 0 6 2 0 6 3 0 6 4 0 6 5 0 6 6 0" />
+		<pattr name = "op1-fix" value = "0" />
+		<pattr name = "op1-freq" value = "1." />
+		<pattr name = "op1-gain" value = "99" />
+		<pattr name = "op1-mode" value = "" />
+		<pattr name = "op2-feedback" value = "0." />
+		<pattr name = "op2-fix" value = "0" />
+		<pattr name = "op2-freq" value = "1." />
+		<pattr name = "op2-gain" value = "120" />
+		<pattr name = "op2-mode" value = "" />
+		<pattr name = "op3-fix" value = "0" />
+		<pattr name = "op3-freq" value = "0.58" />
+		<pattr name = "op3-gain" value = "90" />
+		<pattr name = "op3-mode" value = "" />
+		<pattr name = "op4-fix" value = "0" />
+		<pattr name = "op4-freq" value = "1." />
+		<pattr name = "op4-gain" value = "70" />
+		<pattr name = "op4-mode" value = "" />
+		<pattr name = "op5-fix" value = "0" />
+		<pattr name = "op5-freq" value = "1." />
+		<pattr name = "op5-gain" value = "63" />
+		<pattr name = "op5-mode" value = "" />
+		<pattr name = "op6-feedback" value = "0." />
+		<pattr name = "op6-fix" value = "0" />
+		<pattr name = "op6-freq" value = "0.5" />
+		<pattr name = "op6-gain" value = "0" />
+		<pattr name = "op6-mode" value = "" />
+	</slot>
+	<slot number = "24">
+		<pattr name = "algorithm" value = "0 0 1 0 1 0 0 2 0 0 3 0 0 4 0 0 5 0 0 6 0 1 0 0 1 1 1 1 2 0 1 3 0 1 4 0 1 5 0 1 6 0 2 0 0 2 1 0 2 2 0 2 3 0 2 4 0 2 5 0 2 6 0 3 0 0 3 1 0 3 2 0 3 3 0 3 4 0 3 5 0 3 6 0 4 0 0 4 1 0 4 2 0 4 3 0 4 4 0 4 5 0 4 6 0 5 0 0 5 1 0 5 2 0 5 3 0 5 4 0 5 5 0 5 6 0 6 0 0 6 1 0 6 2 0 6 3 0 6 4 0 6 5 0 6 6 0" />
+		<pattr name = "op1-fix" value = "1" />
+		<pattr name = "op1-freq" value = "100." />
+		<pattr name = "op1-gain" value = "99" />
+		<pattr name = "op1-mode" value = "" />
+		<pattr name = "op2-feedback" value = "0." />
+		<pattr name = "op2-fix" value = "1" />
+		<pattr name = "op2-freq" value = "141.3" />
+		<pattr name = "op2-gain" value = "120" />
+		<pattr name = "op2-mode" value = "" />
+		<pattr name = "op3-fix" value = "0" />
+		<pattr name = "op3-freq" value = "0.58" />
+		<pattr name = "op3-gain" value = "90" />
+		<pattr name = "op3-mode" value = "" />
+		<pattr name = "op4-fix" value = "0" />
+		<pattr name = "op4-freq" value = "1." />
+		<pattr name = "op4-gain" value = "70" />
+		<pattr name = "op4-mode" value = "" />
+		<pattr name = "op5-fix" value = "0" />
+		<pattr name = "op5-freq" value = "1." />
+		<pattr name = "op5-gain" value = "63" />
+		<pattr name = "op5-mode" value = "" />
+		<pattr name = "op6-feedback" value = "0." />
+		<pattr name = "op6-fix" value = "0" />
+		<pattr name = "op6-freq" value = "0.5" />
+		<pattr name = "op6-gain" value = "0" />
+		<pattr name = "op6-mode" value = "" />
+	</slot>
+	<slot number = "25">
+		<pattr name = "algorithm" value = "0 0 1 0 1 0 0 2 0 0 3 0 0 4 0 0 5 0 0 6 0 1 0 0 1 1 1 1 2 0 1 3 0 1 4 0 1 5 0 1 6 0 2 0 0 2 1 0 2 2 0 2 3 0 2 4 0 2 5 0 2 6 0 3 0 0 3 1 0 3 2 0 3 3 0 3 4 0 3 5 0 3 6 0 4 0 0 4 1 0 4 2 0 4 3 0 4 4 0 4 5 0 4 6 0 5 0 0 5 1 0 5 2 0 5 3 0 5 4 0 5 5 0 5 6 0 6 0 0 6 1 0 6 2 0 6 3 0 6 4 0 6 5 0 6 6 0" />
+		<pattr name = "op1-fix" value = "0" />
+		<pattr name = "op1-freq" value = "1." />
+		<pattr name = "op1-gain" value = "99" />
+		<pattr name = "op1-mode" value = "" />
+		<pattr name = "op2-feedback" value = "0." />
+		<pattr name = "op2-fix" value = "0" />
+		<pattr name = "op2-freq" value = "1.41" />
+		<pattr name = "op2-gain" value = "120" />
+		<pattr name = "op2-mode" value = "" />
+		<pattr name = "op3-fix" value = "0" />
+		<pattr name = "op3-freq" value = "0.58" />
+		<pattr name = "op3-gain" value = "90" />
+		<pattr name = "op3-mode" value = "" />
+		<pattr name = "op4-fix" value = "0" />
+		<pattr name = "op4-freq" value = "1." />
+		<pattr name = "op4-gain" value = "70" />
+		<pattr name = "op4-mode" value = "" />
+		<pattr name = "op5-fix" value = "0" />
+		<pattr name = "op5-freq" value = "1." />
+		<pattr name = "op5-gain" value = "63" />
+		<pattr name = "op5-mode" value = "" />
+		<pattr name = "op6-feedback" value = "0." />
+		<pattr name = "op6-fix" value = "0" />
+		<pattr name = "op6-freq" value = "0.5" />
+		<pattr name = "op6-gain" value = "0" />
+		<pattr name = "op6-mode" value = "" />
+	</slot>
+	<slot number = "26">
+		<pattr name = "algorithm" value = "0 0 1 0 1 0 0 2 0 0 3 0 0 4 0 0 5 0 0 6 0 1 0 0 1 1 1 1 2 0 1 3 0 1 4 0 1 5 0 1 6 0 2 0 0 2 1 0 2 2 0 2 3 0 2 4 0 2 5 0 2 6 0 3 0 0 3 1 0 3 2 0 3 3 0 3 4 0 3 5 0 3 6 0 4 0 0 4 1 0 4 2 0 4 3 0 4 4 0 4 5 0 4 6 0 5 0 0 5 1 0 5 2 0 5 3 0 5 4 0 5 5 0 5 6 0 6 0 0 6 1 0 6 2 0 6 3 0 6 4 0 6 5 0 6 6 0" />
+		<pattr name = "op1-fix" value = "1" />
+		<pattr name = "op1-freq" value = "1000." />
+		<pattr name = "op1-gain" value = "99" />
+		<pattr name = "op1-mode" value = "" />
+		<pattr name = "op2-feedback" value = "0." />
+		<pattr name = "op2-fix" value = "1" />
+		<pattr name = "op2-freq" value = "100." />
+		<pattr name = "op2-gain" value = "120" />
+		<pattr name = "op2-mode" value = "2" />
+		<pattr name = "op3-fix" value = "0" />
+		<pattr name = "op3-freq" value = "100." />
+		<pattr name = "op3-gain" value = "99" />
+		<pattr name = "op3-mode" value = "" />
+		<pattr name = "op4-fix" value = "0" />
+		<pattr name = "op4-freq" value = "1." />
+		<pattr name = "op4-gain" value = "70" />
+		<pattr name = "op4-mode" value = "" />
+		<pattr name = "op5-fix" value = "0" />
+		<pattr name = "op5-freq" value = "1." />
+		<pattr name = "op5-gain" value = "63" />
+		<pattr name = "op5-mode" value = "" />
+		<pattr name = "op6-feedback" value = "0." />
+		<pattr name = "op6-fix" value = "0" />
+		<pattr name = "op6-freq" value = "0.5" />
+		<pattr name = "op6-gain" value = "0" />
+		<pattr name = "op6-mode" value = "" />
+	</slot>
+	<slot number = "27">
+		<pattr name = "algorithm" value = "0 0 1 0 1 0 0 2 0 0 3 0 0 4 0 0 5 0 0 6 0 1 0 0 1 1 1 1 2 0 1 3 0 1 4 0 1 5 0 1 6 0 2 0 0 2 1 0 2 2 0 2 3 0 2 4 0 2 5 0 2 6 0 3 0 0 3 1 0 3 2 0 3 3 0 3 4 0 3 5 0 3 6 0 4 0 0 4 1 0 4 2 0 4 3 0 4 4 0 4 5 0 4 6 0 5 0 0 5 1 0 5 2 0 5 3 0 5 4 0 5 5 0 5 6 0 6 0 0 6 1 0 6 2 0 6 3 0 6 4 0 6 5 0 6 6 0" />
+		<pattr name = "op1-fix" value = "0" />
+		<pattr name = "op1-freq" value = "1." />
+		<pattr name = "op1-gain" value = "99" />
+		<pattr name = "op1-mode" value = "" />
+		<pattr name = "op2-feedback" value = "0." />
+		<pattr name = "op2-fix" value = "0" />
+		<pattr name = "op2-freq" value = "1." />
+		<pattr name = "op2-gain" value = "74" />
+		<pattr name = "op2-mode" value = "2" />
+		<pattr name = "op3-fix" value = "0" />
+		<pattr name = "op3-freq" value = "1." />
+		<pattr name = "op3-gain" value = "99" />
+		<pattr name = "op3-mode" value = "" />
+		<pattr name = "op4-fix" value = "0" />
+		<pattr name = "op4-freq" value = "4." />
+		<pattr name = "op4-gain" value = "85" />
+		<pattr name = "op4-mode" value = "2" />
+		<pattr name = "op5-fix" value = "0" />
+		<pattr name = "op5-freq" value = "5." />
+		<pattr name = "op5-gain" value = "0" />
+		<pattr name = "op5-mode" value = "0" />
+		<pattr name = "op6-feedback" value = "0." />
+		<pattr name = "op6-fix" value = "0" />
+		<pattr name = "op6-freq" value = "6." />
+		<pattr name = "op6-gain" value = "0" />
+		<pattr name = "op6-mode" value = "0" />
+	</slot>
+	<slot number = "28">
+		<pattr name = "algorithm" value = "0 0 1 0 1 0 0 2 0 0 3 0 0 4 0 0 5 0 0 6 0 1 0 0 1 1 1 1 2 0 1 3 0 1 4 0 1 5 0 1 6 0 2 0 0 2 1 0 2 2 0 2 3 0 2 4 0 2 5 0 2 6 0 3 0 0 3 1 0 3 2 0 3 3 0 3 4 0 3 5 0 3 6 0 4 0 0 4 1 0 4 2 0 4 3 0 4 4 0 4 5 0 4 6 0 5 0 0 5 1 0 5 2 0 5 3 0 5 4 0 5 5 0 5 6 0 6 0 0 6 1 0 6 2 0 6 3 0 6 4 0 6 5 0 6 6 0" />
+		<pattr name = "op1-fix" value = "1" />
+		<pattr name = "op1-freq" value = "1." />
+		<pattr name = "op1-gain" value = "92" />
+		<pattr name = "op1-mode" value = "" />
+		<pattr name = "op2-feedback" value = "0." />
+		<pattr name = "op2-fix" value = "0" />
+		<pattr name = "op2-freq" value = "1." />
+		<pattr name = "op2-gain" value = "100" />
+		<pattr name = "op2-mode" value = "2" />
+		<pattr name = "op3-fix" value = "0" />
+		<pattr name = "op3-freq" value = "3." />
+		<pattr name = "op3-gain" value = "85" />
+		<pattr name = "op3-mode" value = "0" />
+		<pattr name = "op4-fix" value = "0" />
+		<pattr name = "op4-freq" value = "4." />
+		<pattr name = "op4-gain" value = "99" />
+		<pattr name = "op4-mode" value = "0" />
+		<pattr name = "op5-fix" value = "0" />
+		<pattr name = "op5-freq" value = "5." />
+		<pattr name = "op5-gain" value = "86" />
+		<pattr name = "op5-mode" value = "0" />
+		<pattr name = "op6-feedback" value = "0." />
+		<pattr name = "op6-fix" value = "0" />
+		<pattr name = "op6-freq" value = "6." />
+		<pattr name = "op6-gain" value = "63" />
+		<pattr name = "op6-mode" value = "0" />
+	</slot>
+	<slot number = "29">
+		<pattr name = "algorithm" value = "0 0 1 0 1 0 0 2 0 0 3 0 0 4 0 0 5 0 0 6 0 1 0 0 1 1 1 1 2 0 1 3 0 1 4 0 1 5 0 1 6 0 2 0 1 2 1 0 2 2 0 2 3 0 2 4 0 2 5 0 2 6 0 3 0 0 3 1 1 3 2 0 3 3 0 3 4 0 3 5 0 3 6 0 4 0 1 4 1 0 4 2 0 4 3 0 4 4 0 4 5 0 4 6 0 5 0 0 5 1 1 5 2 0 5 3 0 5 4 0 5 5 0 5 6 0 6 0 0 6 1 0 6 2 0 6 3 0 6 4 0 6 5 0 6 6 0" />
+		<pattr name = "op1-fix" value = "1" />
+		<pattr name = "op1-freq" value = "1." />
+		<pattr name = "op1-gain" value = "99" />
+		<pattr name = "op1-mode" value = "" />
+		<pattr name = "op2-feedback" value = "0." />
+		<pattr name = "op2-fix" value = "0" />
+		<pattr name = "op2-freq" value = "1." />
+		<pattr name = "op2-gain" value = "100" />
+		<pattr name = "op2-mode" value = "2" />
+		<pattr name = "op3-fix" value = "1" />
+		<pattr name = "op3-freq" value = "1.288" />
+		<pattr name = "op3-gain" value = "99" />
+		<pattr name = "op3-mode" value = "1" />
+		<pattr name = "op4-fix" value = "0" />
+		<pattr name = "op4-freq" value = "2." />
+		<pattr name = "op4-gain" value = "100" />
+		<pattr name = "op4-mode" value = "2" />
+		<pattr name = "op5-fix" value = "1" />
+		<pattr name = "op5-freq" value = "2.042" />
+		<pattr name = "op5-gain" value = "99" />
+		<pattr name = "op5-mode" value = "1" />
+		<pattr name = "op6-feedback" value = "0." />
+		<pattr name = "op6-fix" value = "0" />
+		<pattr name = "op6-freq" value = "3." />
+		<pattr name = "op6-gain" value = "100" />
+		<pattr name = "op6-mode" value = "2" />
+	</slot>
+	<slot number = "30">
+		<pattr name = "algorithm" value = "0 0 0 0 1 0 0 2 0 0 3 0 0 4 0 0 5 0 0 6 0 1 0 0 1 1 0 1 2 0 1 3 0 1 4 0 1 5 0 1 6 0 2 0 1 2 1 0 2 2 0 2 3 0 2 4 0 2 5 0 2 6 0 3 0 0 3 1 0 3 2 0 3 3 1 3 4 0 3 5 0 3 6 0 4 0 0 4 1 0 4 2 0 4 3 1 4 4 0 4 5 0 4 6 0 5 0 0 5 1 0 5 2 0 5 3 0 5 4 0 5 5 0 5 6 0 6 0 0 6 1 0 6 2 0 6 3 0 6 4 0 6 5 0 6 6 0" />
+		<pattr name = "op1-fix" value = "0" />
+		<pattr name = "op1-freq" value = "1." />
+		<pattr name = "op1-gain" value = "99" />
+		<pattr name = "op1-mode" value = "0" />
+		<pattr name = "op2-feedback" value = "0.5" />
+		<pattr name = "op2-fix" value = "0" />
+		<pattr name = "op2-freq" value = "1." />
+		<pattr name = "op2-gain" value = "85" />
+		<pattr name = "op2-mode" value = "0" />
+		<pattr name = "op3-fix" value = "1" />
+		<pattr name = "op3-freq" value = "501.2" />
+		<pattr name = "op3-gain" value = "99" />
+		<pattr name = "op3-mode" value = "1" />
+		<pattr name = "op4-fix" value = "1" />
+		<pattr name = "op4-freq" value = "100." />
+		<pattr name = "op4-gain" value = "99" />
+		<pattr name = "op4-mode" value = "2" />
+		<pattr name = "op5-fix" value = "1" />
+		<pattr name = "op5-freq" value = "10." />
+		<pattr name = "op5-gain" value = "100" />
+		<pattr name = "op5-mode" value = "2" />
+		<pattr name = "op6-feedback" value = "0." />
+		<pattr name = "op6-fix" value = "0" />
+		<pattr name = "op6-freq" value = "1.41" />
+		<pattr name = "op6-gain" value = "45" />
+		<pattr name = "op6-mode" value = "0" />
+	</slot>
+	<slot number = "31">
+		<pattr name = "algorithm" value = "0 0 0 0 1 0 0 2 0 0 3 0 0 4 0 0 5 0 0 6 0 1 0 0 1 1 0 1 2 0 1 3 0 1 4 0 1 5 0 1 6 0 2 0 0 2 1 0 2 2 0 2 3 0 2 4 0 2 5 0 2 6 0 3 0 0 3 1 0 3 2 0 3 3 0 3 4 0 3 5 0 3 6 0 4 0 1 4 1 0 4 2 0 4 3 0 4 4 0 4 5 0 4 6 0 5 0 0 5 1 0 5 2 0 5 3 0 5 4 0 5 5 1 5 6 0 6 0 0 6 1 0 6 2 0 6 3 0 6 4 0 6 5 0 6 6 0" />
+		<pattr name = "op1-fix" value = "0" />
+		<pattr name = "op1-freq" value = "1." />
+		<pattr name = "op1-gain" value = "99" />
+		<pattr name = "op1-mode" value = "" />
+		<pattr name = "op2-feedback" value = "0.5" />
+		<pattr name = "op2-fix" value = "0" />
+		<pattr name = "op2-freq" value = "1." />
+		<pattr name = "op2-gain" value = "85" />
+		<pattr name = "op2-mode" value = "" />
+		<pattr name = "op3-fix" value = "0" />
+		<pattr name = "op3-freq" value = "1." />
+		<pattr name = "op3-gain" value = "99" />
+		<pattr name = "op3-mode" value = "0" />
+		<pattr name = "op4-fix" value = "0" />
+		<pattr name = "op4-freq" value = "1." />
+		<pattr name = "op4-gain" value = "90" />
+		<pattr name = "op4-mode" value = "0" />
+		<pattr name = "op5-fix" value = "0" />
+		<pattr name = "op5-freq" value = "1." />
+		<pattr name = "op5-gain" value = "99" />
+		<pattr name = "op5-mode" value = "1" />
+		<pattr name = "op6-feedback" value = "0." />
+		<pattr name = "op6-fix" value = "0" />
+		<pattr name = "op6-freq" value = "1." />
+		<pattr name = "op6-gain" value = "99" />
+		<pattr name = "op6-mode" value = "" />
+	</slot>
+</pattrstorage>
+

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="yes"?>
+
+<pattrstorage name = "ali.weight-interp.xml">
+	<slot number = "1">
+		<pattr name = "hslider" value = "90" />
+		<pattr name = "hslider2" value = "4" />
+		<pattr name = "hslider[1]" value = "104" />
+		<pattr name = "hslider[3]" value = "19" />
+		<pattr name = "hslider[4]" value = "74" />
+		<pattr name = "theListMS" value = "0. 0. 0." />
+		<pattr name = "theListMS[1]" value = "0." />
+	</slot>
+	<slot number = "2">
+		<pattr name = "hslider" value = "17" />
+		<pattr name = "hslider2" value = "63" />
+		<pattr name = "hslider[1]" value = "50" />
+		<pattr name = "hslider[3]" value = "75" />
+		<pattr name = "hslider[4]" value = "38" />
+		<pattr name = "theListMS" value = "59.481014 30.544304 0." />
+		<pattr name = "theListMS[1]" value = "0." />
+	</slot>
+	<slot number = "3">
+		<pattr name = "hslider" value = "94" />
+		<pattr name = "hslider2" value = "127" />
+		<pattr name = "hslider[1]" value = "0" />
+		<pattr name = "hslider[3]" value = "0" />
+		<pattr name = "hslider[4]" value = "116" />
+		<pattr name = "theListMS" value = "106.101265 54.658226 16.075949" />
+		<pattr name = "theListMS[1]" value = "0." />
+	</slot>
+	<slot number = "4">
+		<pattr name = "hslider" value = "21" />
+		<pattr name = "hslider2" value = "30" />
+		<pattr name = "hslider[1]" value = "89" />
+		<pattr name = "hslider[3]" value = "47" />
+		<pattr name = "hslider[4]" value = "7" />
+		<pattr name = "theListMS" value = "93.240509 127. 40.189873" />
+		<pattr name = "theListMS[1]" value = "0." />
+	</slot>
+	<slot number = "5">
+		<pattr name = "hslider" value = "127" />
+		<pattr name = "hslider2" value = "127" />
+		<pattr name = "hslider[1]" value = "127" />
+		<pattr name = "hslider[3]" value = "127" />
+		<pattr name = "hslider[4]" value = "127" />
+		<pattr name = "theListMS" value = "127. 127. 127." />
+		<pattr name = "theListMS[1]" value = "0." />
+	</slot>
+</pattrstorage>
+

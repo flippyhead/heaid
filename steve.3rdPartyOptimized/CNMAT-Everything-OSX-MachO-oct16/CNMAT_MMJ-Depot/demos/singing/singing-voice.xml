@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="yes"?>
+
+<pattrstorage name = "singing-voice">
+	<slot number = "1">
+		<pattr name = "babbler" value = "0" />
+		<pattr name = "babblerate" value = "304.827576" />
+		<pattr name = "gruffness" value = "-0.793103" />
+		<pattr name = "midinote" value = "50" />
+		<pattr name = "noise" value = "0." />
+		<pattr name = "range" value = "3" />
+		<pattr name = "roundness" value = "0." />
+		<pattr name = "sharpness" value = "1." />
+		<pattr name = "smoothness" value = "2." />
+		<pattr name = "vibrato" value = "1" />
+		<pattr name = "vibratorate" value = "4.513793" />
+		<pattr name = "vowel" value = "0" />
+		<pattr name = "glottis" value = "1." />
+		<pattr name = "vibratodepth" value = "1.006896" />
+	</slot>
+</pattrstorage>
+

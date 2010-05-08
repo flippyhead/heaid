@@ -1,0 +1,40 @@
+<jittershader name="plurb">
+    <description>animated normals</description>
+    <param name="offset" type="vec2" default="0. 0." />
+    <param name="tex0" type="int" default="0" />
+    <language name="glsl" version="1.0">
+		<bind param="offset" program="fp" />
+		<bind param="tex0" program="fp" />
+        <program name="vp" type="vertex">
+<![CDATA[
+
+varying vec2 texcoord0;
+
+void main (void)
+
+{
+    gl_Position = ftransform();
+	texcoord0 = vec2(gl_TextureMatrix[0] * gl_MultiTexCoord0);
+
+}
+]]>
+        </program>
+        <program name="fp" type="fragment">
+<![CDATA[
+
+uniform vec2 offset;
+uniform float falloff;
+
+varying vec2 texcoord0;
+uniform sampler2DRect tex0;
+
+void main (void)
+{
+	vec4 a = texture2DRect(tex0,texcoord0+offset);
+	gl_FragColor = a;
+	//gl_FragColor = vec4(1., 0., 0., 1.);
+}
+]]>
+        </program>
+    </language>
+</jittershader>

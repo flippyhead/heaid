@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="yes"?>
+
+<pattrstorage name = "u518000001">
+	<slot number = "1">
+		<patcher name = "voi1">
+			<pattr name = "del" value = "0" />
+			<pattr name = "fade" value = "5" />
+			<pattr name = "gain" value = "0.05" />
+			<pattr name = "go" value = "1" />
+			<pattr name = "oscamp" value = "0" />
+			<pattr name = "probe" value = "0" />
+			<pattr name = "target" value = "myprofile" />
+			<pattr name = "tinterval" value = "0" />
+			<pattr name = "var" value = "0" />
+			<pattr name = "wave" value = "wavebuf" />
+		</patcher>
+		<patcher name = "voi2">
+			<pattr name = "del" value = "0" />
+			<pattr name = "fade" value = "5" />
+			<pattr name = "gain" value = "0.05" />
+			<pattr name = "go" value = "1" />
+			<pattr name = "oscamp" value = "0" />
+			<pattr name = "probe" value = "0" />
+			<pattr name = "target" value = "myprofile" />
+			<pattr name = "tinterval" value = "0" />
+			<pattr name = "var" value = "0" />
+			<pattr name = "wave" value = "wavebuf" />
+		</patcher>
+	</slot>
+	<slot number = "2">
+		<patcher name = "voi1">
+			<pattr name = "del" value = "0" />
+			<pattr name = "fade" value = "5" />
+			<pattr name = "gain" value = "0.049973" />
+			<pattr name = "go" value = "1" />
+			<pattr name = "oscamp" value = "0" />
+			<pattr name = "probe" value = "0" />
+			<pattr name = "target" value = "harmseries" />
+			<pattr name = "tinterval" value = "0" />
+			<pattr name = "var" value = "0" />
+			<pattr name = "wave" value = "sine" />
+		</patcher>
+		<patcher name = "voi2">
+			<pattr name = "del" value = "0" />
+			<pattr name = "fade" value = "5" />
+			<pattr name = "gain" value = "0.049837" />
+			<pattr name = "go" value = "1" />
+			<pattr name = "oscamp" value = "0" />
+			<pattr name = "probe" value = "0" />
+			<pattr name = "target" value = "harmseries" />
+			<pattr name = "tinterval" value = "0" />
+			<pattr name = "var" value = "0" />
+			<pattr name = "wave" value = "sine" />
+		</patcher>
+	</slot>
+	<slot number = "3">
+		<patcher name = "voi1">
+			<pattr name = "del" value = "0" />
+			<pattr name = "fade" value = "5" />
+			<pattr name = "gain" value = "0.05" />
+			<pattr name = "go" value = "1" />
+			<pattr name = "oscamp" value = "0" />
+			<pattr name = "probe" value = "0" />
+			<pattr name = "target" value = "fiboseries" />
+			<pattr name = "tinterval" value = "0" />
+			<pattr name = "var" value = "0" />
+			<pattr name = "wave" value = "sine" />
+		</patcher>
+		<patcher name = "voi2">
+			<pattr name = "del" value = "0" />
+			<pattr name = "fade" value = "5" />
+			<pattr name = "gain" value = "0.05" />
+			<pattr name = "go" value = "1" />
+			<pattr name = "oscamp" value = "0" />
+			<pattr name = "probe" value = "0" />
+			<pattr name = "target" value = "fiboseries" />
+			<pattr name = "tinterval" value = "0" />
+			<pattr name = "var" value = "0" />
+			<pattr name = "wave" value = "sine" />
+		</patcher>
+	</slot>
+	<slot number = "4">
+		<patcher name = "voi1">
+			<pattr name = "del" value = "0" />
+			<pattr name = "fade" value = "7000" />
+			<pattr name = "gain" value = "0." />
+			<pattr name = "go" value = "1" />
+			<pattr name = "oscamp" value = "0" />
+			<pattr name = "probe" value = "0" />
+			<pattr name = "target" value = "myprofile" />
+			<pattr name = "tinterval" value = "0" />
+			<pattr name = "var" value = "0" />
+			<pattr name = "wave" value = "wavebuf" />
+		</patcher>
+		<patcher name = "voi2">
+			<pattr name = "del" value = "0" />
+			<pattr name = "fade" value = "7000" />
+			<pattr name = "gain" value = "0." />
+			<pattr name = "go" value = "1" />
+			<pattr name = "oscamp" value = "0" />
+			<pattr name = "probe" value = "0" />
+			<pattr name = "target" value = "myprofile" />
+			<pattr name = "tinterval" value = "0" />
+			<pattr name = "var" value = "0" />
+			<pattr name = "wave" value = "wavebuf" />
+		</patcher>
+	</slot>
+</pattrstorage>
+

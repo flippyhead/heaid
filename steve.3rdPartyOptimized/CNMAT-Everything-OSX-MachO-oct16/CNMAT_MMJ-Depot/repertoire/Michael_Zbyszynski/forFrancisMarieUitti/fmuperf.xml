@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="yes"?>
+
+<pattrstorage name = "fmuperf">
+	<slot number = "1">
+		<pattr name = "ad-gain" value = "0.5" />
+		<pattr name = "ad-switch" value = "1" />
+		<pattr name = "cp-gain" value = "0.94" />
+		<pattr name = "cp-switch" value = "1" />
+		<pattr name = "cpu_monitor" value = "1" />
+		<pattr name = "dap-gain" value = "0.2" />
+		<pattr name = "dap-pitch" value = "31" />
+		<pattr name = "dap-switch" value = "1" />
+		<pattr name = "do-fuzz" value = "1.27" />
+		<pattr name = "do-gain" value = "1.5" />
+		<pattr name = "do-switch" value = "1" />
+		<pattr name = "do-vowel" value = "0.556839" />
+		<pattr name = "ds-gain" value = "0." />
+		<pattr name = "ds-switch" value = "1" />
+		<pattr name = "ht-depth" value = "5.568395" />
+		<pattr name = "ht-gain" value = "0." />
+		<pattr name = "ht-switch" value = "1" />
+		<pattr name = "nc-dry" value = "0.32" />
+		<pattr name = "nc-filtermenu" value = "1" />
+		<pattr name = "nc-gain" value = "4." />
+		<pattr name = "nc-switch" value = "1" />
+		<pattr name = "nc-wet" value = "8.81" />
+		<pattr name = "qg-gain" value = "0." />
+		<pattr name = "qg-switch" value = "1" />
+		<pattr name = "red" value = "0" />
+		<pattr name = "res-ingain" value = "100." />
+		<pattr name = "res-outgain" value = "14." />
+		<pattr name = "res-switch" value = "1" />
+		<pattr name = "sense-rate" value = "25" />
+		<pattr name = "ve-gain" value = "6." />
+		<pattr name = "ve-switch" value = "1" />
+		<pattr name = "ve-vib_rate" value = "0." />
+	</slot>
+</pattrstorage>
+

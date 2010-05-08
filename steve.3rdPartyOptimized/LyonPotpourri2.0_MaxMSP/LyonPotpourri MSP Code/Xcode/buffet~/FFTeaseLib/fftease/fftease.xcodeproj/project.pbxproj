@@ -1,0 +1,255 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 42;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		0799932E0ADD6DB900DCFF66 /* bloscbank.c in Sources */ = {isa = PBXBuildFile; fileRef = 079993250ADD6DB900DCFF66 /* bloscbank.c */; };
+		0799932F0ADD6DB900DCFF66 /* convert.c in Sources */ = {isa = PBXBuildFile; fileRef = 079993260ADD6DB900DCFF66 /* convert.c */; };
+		079993300ADD6DB900DCFF66 /* fft.c in Sources */ = {isa = PBXBuildFile; fileRef = 079993270ADD6DB900DCFF66 /* fft.c */; };
+		079993310ADD6DB900DCFF66 /* fft4.c in Sources */ = {isa = PBXBuildFile; fileRef = 079993280ADD6DB900DCFF66 /* fft4.c */; };
+		079993330ADD6DB900DCFF66 /* fftease.h in Headers */ = {isa = PBXBuildFile; fileRef = 0799932A0ADD6DB900DCFF66 /* fftease.h */; };
+		079993340ADD6DB900DCFF66 /* fold.c in Sources */ = {isa = PBXBuildFile; fileRef = 0799932B0ADD6DB900DCFF66 /* fold.c */; };
+		079993350ADD6DB900DCFF66 /* leanconvert.c in Sources */ = {isa = PBXBuildFile; fileRef = 0799932C0ADD6DB900DCFF66 /* leanconvert.c */; };
+		079993360ADD6DB900DCFF66 /* leanunconvert.c in Sources */ = {isa = PBXBuildFile; fileRef = 0799932D0ADD6DB900DCFF66 /* leanunconvert.c */; };
+		079993400ADD6DC100DCFF66 /* makewindows.c in Sources */ = {isa = PBXBuildFile; fileRef = 079993370ADD6DC100DCFF66 /* makewindows.c */; };
+		079993410ADD6DC100DCFF66 /* overlapadd.c in Sources */ = {isa = PBXBuildFile; fileRef = 079993380ADD6DC100DCFF66 /* overlapadd.c */; };
+		079993420ADD6DC100DCFF66 /* PenroseOscil.c in Sources */ = {isa = PBXBuildFile; fileRef = 079993390ADD6DC100DCFF66 /* PenroseOscil.c */; };
+		079993430ADD6DC100DCFF66 /* PenroseOscil.h in Headers */ = {isa = PBXBuildFile; fileRef = 0799933A0ADD6DC100DCFF66 /* PenroseOscil.h */; };
+		079993440ADD6DC100DCFF66 /* PenroseRand.c in Sources */ = {isa = PBXBuildFile; fileRef = 0799933B0ADD6DC100DCFF66 /* PenroseRand.c */; };
+		079993450ADD6DC100DCFF66 /* PenroseRand.h in Headers */ = {isa = PBXBuildFile; fileRef = 0799933C0ADD6DC100DCFF66 /* PenroseRand.h */; };
+		079993460ADD6DC100DCFF66 /* power_of_two.c in Sources */ = {isa = PBXBuildFile; fileRef = 0799933D0ADD6DC100DCFF66 /* power_of_two.c */; };
+		079993470ADD6DC100DCFF66 /* qsortE.c in Sources */ = {isa = PBXBuildFile; fileRef = 0799933E0ADD6DC100DCFF66 /* qsortE.c */; };
+		079993480ADD6DC100DCFF66 /* unconvert.c in Sources */ = {isa = PBXBuildFile; fileRef = 0799933F0ADD6DC100DCFF66 /* unconvert.c */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		079993250ADD6DB900DCFF66 /* bloscbank.c */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.c; name = bloscbank.c; path = "../../../../../../Pd-Stuff/Lyon Pd Materials/pdcode/FFTease/lib/darwin/bloscbank.c"; sourceTree = SOURCE_ROOT; };
+		079993260ADD6DB900DCFF66 /* convert.c */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.c; name = convert.c; path = "../../../../../../Pd-Stuff/Lyon Pd Materials/pdcode/FFTease/lib/darwin/convert.c"; sourceTree = SOURCE_ROOT; };
+		079993270ADD6DB900DCFF66 /* fft.c */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.c; name = fft.c; path = "../../../../../../Pd-Stuff/Lyon Pd Materials/pdcode/FFTease/lib/darwin/fft.c"; sourceTree = SOURCE_ROOT; };
+		079993280ADD6DB900DCFF66 /* fft4.c */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.c; name = fft4.c; path = "../../../../../../Pd-Stuff/Lyon Pd Materials/pdcode/FFTease/lib/darwin/fft4.c"; sourceTree = SOURCE_ROOT; };
+		0799932A0ADD6DB900DCFF66 /* fftease.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = fftease.h; path = "../../../../../../Pd-Stuff/Lyon Pd Materials/pdcode/FFTease/lib/darwin/fftease.h"; sourceTree = SOURCE_ROOT; };
+		0799932B0ADD6DB900DCFF66 /* fold.c */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.c; name = fold.c; path = "../../../../../../Pd-Stuff/Lyon Pd Materials/pdcode/FFTease/lib/darwin/fold.c"; sourceTree = SOURCE_ROOT; };
+		0799932C0ADD6DB900DCFF66 /* leanconvert.c */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.c; name = leanconvert.c; path = "../../../../../../Pd-Stuff/Lyon Pd Materials/pdcode/FFTease/lib/darwin/leanconvert.c"; sourceTree = SOURCE_ROOT; };
+		0799932D0ADD6DB900DCFF66 /* leanunconvert.c */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.c; name = leanunconvert.c; path = "../../../../../../Pd-Stuff/Lyon Pd Materials/pdcode/FFTease/lib/darwin/leanunconvert.c"; sourceTree = SOURCE_ROOT; };
+		079993370ADD6DC100DCFF66 /* makewindows.c */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.c; name = makewindows.c; path = "../../../../../../Pd-Stuff/Lyon Pd Materials/pdcode/FFTease/lib/darwin/makewindows.c"; sourceTree = SOURCE_ROOT; };
+		079993380ADD6DC100DCFF66 /* overlapadd.c */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.c; name = overlapadd.c; path = "../../../../../../Pd-Stuff/Lyon Pd Materials/pdcode/FFTease/lib/darwin/overlapadd.c"; sourceTree = SOURCE_ROOT; };
+		079993390ADD6DC100DCFF66 /* PenroseOscil.c */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.c; name = PenroseOscil.c; path = "../../../../../../Pd-Stuff/Lyon Pd Materials/pdcode/FFTease/lib/darwin/PenroseOscil.c"; sourceTree = SOURCE_ROOT; };
+		0799933A0ADD6DC100DCFF66 /* PenroseOscil.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = PenroseOscil.h; path = "../../../../../../Pd-Stuff/Lyon Pd Materials/pdcode/FFTease/lib/darwin/PenroseOscil.h"; sourceTree = SOURCE_ROOT; };
+		0799933B0ADD6DC100DCFF66 /* PenroseRand.c */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.c; name = PenroseRand.c; path = "../../../../../../Pd-Stuff/Lyon Pd Materials/pdcode/FFTease/lib/darwin/PenroseRand.c"; sourceTree = SOURCE_ROOT; };
+		0799933C0ADD6DC100DCFF66 /* PenroseRand.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = PenroseRand.h; path = "../../../../../../Pd-Stuff/Lyon Pd Materials/pdcode/FFTease/lib/darwin/PenroseRand.h"; sourceTree = SOURCE_ROOT; };
+		0799933D0ADD6DC100DCFF66 /* power_of_two.c */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.c; name = power_of_two.c; path = "../../../../../../Pd-Stuff/Lyon Pd Materials/pdcode/FFTease/lib/darwin/power_of_two.c"; sourceTree = SOURCE_ROOT; };
+		0799933E0ADD6DC100DCFF66 /* qsortE.c */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.c; name = qsortE.c; path = "../../../../../../Pd-Stuff/Lyon Pd Materials/pdcode/FFTease/lib/darwin/qsortE.c"; sourceTree = SOURCE_ROOT; };
+		0799933F0ADD6DC100DCFF66 /* unconvert.c */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.c; name = unconvert.c; path = "../../../../../../Pd-Stuff/Lyon Pd Materials/pdcode/FFTease/lib/darwin/unconvert.c"; sourceTree = SOURCE_ROOT; };
+		D2AAC046055464E500DB518D /* libfftease.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libfftease.a; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		D289987405E68DCB004EDB86 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		08FB7794FE84155DC02AAC07 /* fftease */ = {
+			isa = PBXGroup;
+			children = (
+				08FB7795FE84155DC02AAC07 /* Source */,
+				C6A0FF2B0290797F04C91782 /* Documentation */,
+				1AB674ADFE9D54B511CA2CBB /* Products */,
+			);
+			name = fftease;
+			sourceTree = "<group>";
+		};
+		08FB7795FE84155DC02AAC07 /* Source */ = {
+			isa = PBXGroup;
+			children = (
+				079993250ADD6DB900DCFF66 /* bloscbank.c */,
+				079993260ADD6DB900DCFF66 /* convert.c */,
+				079993270ADD6DB900DCFF66 /* fft.c */,
+				079993280ADD6DB900DCFF66 /* fft4.c */,
+				0799932A0ADD6DB900DCFF66 /* fftease.h */,
+				0799932B0ADD6DB900DCFF66 /* fold.c */,
+				0799932C0ADD6DB900DCFF66 /* leanconvert.c */,
+				0799932D0ADD6DB900DCFF66 /* leanunconvert.c */,
+				079993370ADD6DC100DCFF66 /* makewindows.c */,
+				079993380ADD6DC100DCFF66 /* overlapadd.c */,
+				079993390ADD6DC100DCFF66 /* PenroseOscil.c */,
+				0799933A0ADD6DC100DCFF66 /* PenroseOscil.h */,
+				0799933B0ADD6DC100DCFF66 /* PenroseRand.c */,
+				0799933C0ADD6DC100DCFF66 /* PenroseRand.h */,
+				0799933D0ADD6DC100DCFF66 /* power_of_two.c */,
+				0799933E0ADD6DC100DCFF66 /* qsortE.c */,
+				0799933F0ADD6DC100DCFF66 /* unconvert.c */,
+			);
+			name = Source;
+			sourceTree = "<group>";
+		};
+		1AB674ADFE9D54B511CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				D2AAC046055464E500DB518D /* libfftease.a */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		C6A0FF2B0290797F04C91782 /* Documentation */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Documentation;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		D2AAC043055464E500DB518D /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				079993330ADD6DB900DCFF66 /* fftease.h in Headers */,
+				079993430ADD6DC100DCFF66 /* PenroseOscil.h in Headers */,
+				079993450ADD6DC100DCFF66 /* PenroseRand.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
+/* Begin PBXNativeTarget section */
+		D2AAC045055464E500DB518D /* fftease */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1DEB91EB08733DB70010E9CD /* Build configuration list for PBXNativeTarget "fftease" */;
+			buildPhases = (
+				D2AAC043055464E500DB518D /* Headers */,
+				D2AAC044055464E500DB518D /* Sources */,
+				D289987405E68DCB004EDB86 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = fftease;
+			productName = fftease;
+			productReference = D2AAC046055464E500DB518D /* libfftease.a */;
+			productType = "com.apple.product-type.library.static";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		08FB7793FE84155DC02AAC07 /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = 1DEB91EF08733DB70010E9CD /* Build configuration list for PBXProject "fftease" */;
+			hasScannedForEncodings = 1;
+			mainGroup = 08FB7794FE84155DC02AAC07 /* fftease */;
+			projectDirPath = "";
+			targets = (
+				D2AAC045055464E500DB518D /* fftease */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		D2AAC044055464E500DB518D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0799932E0ADD6DB900DCFF66 /* bloscbank.c in Sources */,
+				0799932F0ADD6DB900DCFF66 /* convert.c in Sources */,
+				079993300ADD6DB900DCFF66 /* fft.c in Sources */,
+				079993310ADD6DB900DCFF66 /* fft4.c in Sources */,
+				079993340ADD6DB900DCFF66 /* fold.c in Sources */,
+				079993350ADD6DB900DCFF66 /* leanconvert.c in Sources */,
+				079993360ADD6DB900DCFF66 /* leanunconvert.c in Sources */,
+				079993400ADD6DC100DCFF66 /* makewindows.c in Sources */,
+				079993410ADD6DC100DCFF66 /* overlapadd.c in Sources */,
+				079993420ADD6DC100DCFF66 /* PenroseOscil.c in Sources */,
+				079993440ADD6DC100DCFF66 /* PenroseRand.c in Sources */,
+				079993460ADD6DC100DCFF66 /* power_of_two.c in Sources */,
+				079993470ADD6DC100DCFF66 /* qsortE.c in Sources */,
+				079993480ADD6DC100DCFF66 /* unconvert.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		1DEB91EC08733DB70010E9CD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_FIX_AND_CONTINUE = YES;
+				GCC_MODEL_TUNING = G5;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				INSTALL_PATH = /usr/local/lib;
+				PRODUCT_NAME = fftease;
+				ZERO_LINK = YES;
+			};
+			name = Debug;
+		};
+		1DEB91ED08733DB70010E9CD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = (
+					ppc,
+					i386,
+				);
+				GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+				GCC_MODEL_TUNING = G5;
+				INSTALL_PATH = /usr/local/lib;
+				PRODUCT_NAME = fftease;
+			};
+			name = Release;
+		};
+		1DEB91F008733DB70010E9CD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PREBINDING = NO;
+				SDKROOT = /Developer/SDKs/MacOSX10.4u.sdk;
+			};
+			name = Debug;
+		};
+		1DEB91F108733DB70010E9CD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PREBINDING = NO;
+				SDKROOT = /Developer/SDKs/MacOSX10.4u.sdk;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1DEB91EB08733DB70010E9CD /* Build configuration list for PBXNativeTarget "fftease" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1DEB91EC08733DB70010E9CD /* Debug */,
+				1DEB91ED08733DB70010E9CD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		1DEB91EF08733DB70010E9CD /* Build configuration list for PBXProject "fftease" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1DEB91F008733DB70010E9CD /* Debug */,
+				1DEB91F108733DB70010E9CD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 08FB7793FE84155DC02AAC07 /* Project object */;
+}

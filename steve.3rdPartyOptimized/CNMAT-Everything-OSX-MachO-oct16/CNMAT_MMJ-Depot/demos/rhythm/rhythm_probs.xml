@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<pattrstorage name = "rhythm_probs">
+	<slot number = "1">
+		<pattr name = "rhythm" value = "100. 0. 100. 0. 100. 0." />
+	</slot>
+	<slot number = "2">
+		<pattr name = "rhythm" value = "100. 0. 27.848101 100. 0. 29.113924" />
+	</slot>
+</pattrstorage>
+

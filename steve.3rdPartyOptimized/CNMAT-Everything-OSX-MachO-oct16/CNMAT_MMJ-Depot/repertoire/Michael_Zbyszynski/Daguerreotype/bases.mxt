@@ -1,0 +1,1 @@
+G, frequency-base 392.;F, frequency-base 171.5;Db, frequency-base 274.399994;C, frequency-base 261.299988;67, frequency-base 392.;53, frequency-base 171.5;61, frequency-base 274.399994;60, frequency-base 261.299988;74, frequency-base 588.;

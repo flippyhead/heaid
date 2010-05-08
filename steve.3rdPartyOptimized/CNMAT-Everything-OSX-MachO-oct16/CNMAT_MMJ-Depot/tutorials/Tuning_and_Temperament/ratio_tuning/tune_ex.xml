@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="yes"?>
+
+<pattrstorage name = "tune_ex">
+	<slot number = "1">
+		<patcher name = "right_tuna">
+			<pattr name = "fold" value = "1" />
+			<pattr name = "fundamental" value = "261.62558" />
+			<pattr name = "gain~" value = "100" />
+			<pattr name = "interval" value = "6" />
+			<pattr name = "key" value = "q" />
+			<pattr name = "keyboard" value = "60" />
+			<pattr name = "step" value = "1" />
+			<pattr name = "u117000002" value = "-1" />
+		</patcher>
+		<patcher name = "left_tuna">
+			<pattr name = "fold" value = "1" />
+			<pattr name = "fundamental" value = "261.62558" />
+			<pattr name = "gain~" value = "100" />
+			<pattr name = "interval" value = "6" />
+			<pattr name = "key" value = "q" />
+			<pattr name = "keyboard" value = "60" />
+			<pattr name = "step" value = "1" />
+			<pattr name = "u918000001" value = "-1" />
+		</patcher>
+	</slot>
+</pattrstorage>
+

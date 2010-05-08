@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<pattrstorage name = "AbletonMapper">
+	<slot number = "1">
+		<pattr name = "tempoSlideDown" value = "111." />
+		<pattr name = "tempoSlideUp" value = "111." />
+	</slot>
+</pattrstorage>
+

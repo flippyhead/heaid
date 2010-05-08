@@ -1,0 +1,632 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="yes"?>
+
+<pattrstorage name = "St.PresetAidPresets">
+	<slot number = "1" name = "glowing ocean">
+		<pattr name = "dial" value = "76" />
+		<pattr name = "number" value = "39" />
+		<pattr name = "toggle" value = "0" />
+		<pattr name = "uslider" value = "80" />
+		<pattr name = "uslider[1]" value = "45" />
+		<pattr name = "uslider[2]" value = "80" />
+		<pattr name = "uslider[3]" value = "62" />
+		<patcher name = "St.PresetAid.poly.sub.1">
+			<pattr name = "gain~L" value = "20" />
+			<pattr name = "gain~R" value = "99" />
+			<pattr name = "numL" value = "3" />
+			<pattr name = "numR" value = "3" />
+		</patcher>
+		<patcher name = "St.PresetAid.poly.sub.2">
+			<pattr name = "gain~L" value = "129" />
+			<pattr name = "gain~R" value = "70" />
+			<pattr name = "numL" value = "-4" />
+			<pattr name = "numR" value = "-4" />
+		</patcher>
+		<patcher name = "St.PresetAid.poly.sub.3">
+			<pattr name = "gain~L" value = "83" />
+			<pattr name = "gain~R" value = "73" />
+			<pattr name = "numL" value = "-78" />
+			<pattr name = "numR" value = "82" />
+		</patcher>
+		<patcher name = "St.PresetAid.poly.sub.4">
+			<pattr name = "gain~L" value = "54" />
+			<pattr name = "gain~R" value = "127" />
+			<pattr name = "numL" value = "82" />
+			<pattr name = "numR" value = "28" />
+		</patcher>
+		<patcher name = "St.PresetAid.poly.sub.5">
+			<pattr name = "gain~L" value = "157" />
+			<pattr name = "gain~R" value = "128" />
+			<pattr name = "numL" value = "2" />
+			<pattr name = "numR" value = "-6" />
+		</patcher>
+		<patcher name = "St.PresetAid.help.sub">
+			<pattr name = "dial[0]" value = "36" />
+			<pattr name = "dial[1]" value = "63" />
+			<pattr name = "dial[2]" value = "85" />
+			<pattr name = "uslider" value = "21" />
+		</patcher>
+		<patcher name = "St.PresetAid.help.sub[1]">
+			<pattr name = "dial[0]" value = "100" />
+			<pattr name = "dial[1]" value = "61" />
+			<pattr name = "dial[2]" value = "19" />
+			<pattr name = "uslider" value = "51" />
+		</patcher>
+		<patcher name = "St.PresetAid.help.sub[2]">
+			<pattr name = "dial[0]" value = "68" />
+			<pattr name = "dial[1]" value = "32" />
+			<pattr name = "dial[2]" value = "97" />
+			<pattr name = "uslider" value = "77" />
+		</patcher>
+	</slot>
+	<slot number = "2" name = "sliding ruins">
+		<pattr name = "dial" value = "35" />
+		<pattr name = "number" value = "169" />
+		<pattr name = "toggle" value = "1" />
+		<pattr name = "uslider" value = "14" />
+		<pattr name = "uslider[1]" value = "112" />
+		<pattr name = "uslider[2]" value = "36" />
+		<pattr name = "uslider[3]" value = "17" />
+		<patcher name = "St.PresetAid.poly.sub.1">
+			<pattr name = "gain~L" value = "56" />
+			<pattr name = "gain~R" value = "57" />
+			<pattr name = "numL" value = "-1" />
+			<pattr name = "numR" value = "6" />
+		</patcher>
+		<patcher name = "St.PresetAid.poly.sub.2">
+			<pattr name = "gain~L" value = "84" />
+			<pattr name = "gain~R" value = "135" />
+			<pattr name = "numL" value = "1" />
+			<pattr name = "numR" value = "-8" />
+		</patcher>
+		<patcher name = "St.PresetAid.poly.sub.3">
+			<pattr name = "gain~L" value = "108" />
+			<pattr name = "gain~R" value = "31" />
+			<pattr name = "numL" value = "-56" />
+			<pattr name = "numR" value = "71" />
+		</patcher>
+		<patcher name = "St.PresetAid.poly.sub.4">
+			<pattr name = "gain~L" value = "120" />
+			<pattr name = "gain~R" value = "42" />
+			<pattr name = "numL" value = "72" />
+			<pattr name = "numR" value = "16" />
+		</patcher>
+		<patcher name = "St.PresetAid.poly.sub.5">
+			<pattr name = "gain~L" value = "47" />
+			<pattr name = "gain~R" value = "77" />
+			<pattr name = "numL" value = "4" />
+			<pattr name = "numR" value = "-11" />
+		</patcher>
+		<patcher name = "St.PresetAid.help.sub">
+			<pattr name = "dial[0]" value = "119" />
+			<pattr name = "dial[1]" value = "83" />
+			<pattr name = "dial[2]" value = "44" />
+			<pattr name = "uslider" value = "43" />
+		</patcher>
+		<patcher name = "St.PresetAid.help.sub[1]">
+			<pattr name = "dial[0]" value = "40" />
+			<pattr name = "dial[1]" value = "51" />
+			<pattr name = "dial[2]" value = "93" />
+			<pattr name = "uslider" value = "37" />
+		</patcher>
+		<patcher name = "St.PresetAid.help.sub[2]">
+			<pattr name = "dial[0]" value = "125" />
+			<pattr name = "dial[1]" value = "61" />
+			<pattr name = "dial[2]" value = "55" />
+			<pattr name = "uslider" value = "59" />
+		</patcher>
+	</slot>
+	<slot number = "3" name = "brown blobs">
+		<pattr name = "dial" value = "127" />
+		<pattr name = "number" value = "4" />
+		<pattr name = "toggle" value = "0" />
+		<pattr name = "uslider" value = "122" />
+		<pattr name = "uslider[1]" value = "30" />
+		<pattr name = "uslider[2]" value = "98" />
+		<pattr name = "uslider[3]" value = "57" />
+		<patcher name = "St.PresetAid.poly.sub.1">
+			<pattr name = "gain~L" value = "102" />
+			<pattr name = "gain~R" value = "49" />
+			<pattr name = "numL" value = "46" />
+			<pattr name = "numR" value = "89" />
+		</patcher>
+		<patcher name = "St.PresetAid.poly.sub.2">
+			<pattr name = "gain~L" value = "92" />
+			<pattr name = "gain~R" value = "35" />
+			<pattr name = "numL" value = "94" />
+			<pattr name = "numR" value = "9" />
+		</patcher>
+		<patcher name = "St.PresetAid.poly.sub.3">
+			<pattr name = "gain~L" value = "100" />
+			<pattr name = "gain~R" value = "54" />
+			<pattr name = "numL" value = "3" />
+			<pattr name = "numR" value = "47" />
+		</patcher>
+		<patcher name = "St.PresetAid.poly.sub.4">
+			<pattr name = "gain~L" value = "127" />
+			<pattr name = "gain~R" value = "106" />
+			<pattr name = "numL" value = "107" />
+			<pattr name = "numR" value = "116" />
+		</patcher>
+		<patcher name = "St.PresetAid.poly.sub.5">
+			<pattr name = "gain~L" value = "16" />
+			<pattr name = "gain~R" value = "114" />
+			<pattr name = "numL" value = "68" />
+			<pattr name = "numR" value = "121" />
+		</patcher>
+		<patcher name = "St.PresetAid.help.sub">
+			<pattr name = "dial[0]" value = "34" />
+			<pattr name = "dial[1]" value = "127" />
+			<pattr name = "dial[2]" value = "0" />
+			<pattr name = "uslider" value = "115" />
+		</patcher>
+		<patcher name = "St.PresetAid.help.sub[1]">
+			<pattr name = "dial[0]" value = "81" />
+			<pattr name = "dial[1]" value = "85" />
+			<pattr name = "dial[2]" value = "127" />
+			<pattr name = "uslider" value = "88" />
+		</patcher>
+		<patcher name = "St.PresetAid.help.sub[2]">
+			<pattr name = "dial[0]" value = "37" />
+			<pattr name = "dial[1]" value = "106" />
+			<pattr name = "dial[2]" value = "30" />
+			<pattr name = "uslider" value = "31" />
+		</patcher>
+	</slot>
+	<slot number = "4" name = "phobic monster">
+		<pattr name = "dial" value = "0" />
+		<pattr name = "number" value = "71" />
+		<pattr name = "toggle" value = "1" />
+		<pattr name = "uslider" value = "125" />
+		<pattr name = "uslider[1]" value = "71" />
+		<pattr name = "uslider[2]" value = "24" />
+		<pattr name = "uslider[3]" value = "12" />
+		<patcher name = "St.PresetAid.poly.sub.1">
+			<pattr name = "gain~L" value = "84" />
+			<pattr name = "gain~R" value = "55" />
+			<pattr name = "numL" value = "111" />
+			<pattr name = "numR" value = "116" />
+		</patcher>
+		<patcher name = "St.PresetAid.poly.sub.2">
+			<pattr name = "gain~L" value = "56" />
+			<pattr name = "gain~R" value = "14" />
+			<pattr name = "numL" value = "11" />
+			<pattr name = "numR" value = "3" />
+		</patcher>
+		<patcher name = "St.PresetAid.poly.sub.3">
+			<pattr name = "gain~L" value = "49" />
+			<pattr name = "gain~R" value = "76" />
+			<pattr name = "numL" value = "55" />
+			<pattr name = "numR" value = "40" />
+		</patcher>
+		<patcher name = "St.PresetAid.poly.sub.4">
+			<pattr name = "gain~L" value = "90" />
+			<pattr name = "gain~R" value = "91" />
+			<pattr name = "numL" value = "96" />
+			<pattr name = "numR" value = "81" />
+		</patcher>
+		<patcher name = "St.PresetAid.poly.sub.5">
+			<pattr name = "gain~L" value = "42" />
+			<pattr name = "gain~R" value = "56" />
+			<pattr name = "numL" value = "74" />
+			<pattr name = "numR" value = "59" />
+		</patcher>
+		<patcher name = "St.PresetAid.help.sub">
+			<pattr name = "dial[0]" value = "0" />
+			<pattr name = "dial[1]" value = "0" />
+			<pattr name = "dial[2]" value = "127" />
+			<pattr name = "uslider" value = "0" />
+		</patcher>
+		<patcher name = "St.PresetAid.help.sub[1]">
+			<pattr name = "dial[0]" value = "0" />
+			<pattr name = "dial[1]" value = "127" />
+			<pattr name = "dial[2]" value = "0" />
+			<pattr name = "uslider" value = "127" />
+		</patcher>
+		<patcher name = "St.PresetAid.help.sub[2]">
+			<pattr name = "dial[0]" value = "0" />
+			<pattr name = "dial[1]" value = "127" />
+			<pattr name = "dial[2]" value = "63" />
+			<pattr name = "uslider" value = "64" />
+		</patcher>
+	</slot>
+	<slot number = "5" name = "odd wail">
+		<pattr name = "dial" value = "34" />
+		<pattr name = "number" value = "57" />
+		<pattr name = "toggle" value = "0" />
+		<pattr name = "uslider" value = "50" />
+		<pattr name = "uslider[1]" value = "71" />
+		<pattr name = "uslider[2]" value = "93" />
+		<pattr name = "uslider[3]" value = "102" />
+		<patcher name = "St.PresetAid.poly.sub.1">
+			<pattr name = "gain~L" value = "31" />
+			<pattr name = "gain~R" value = "55" />
+			<pattr name = "numL" value = "34" />
+			<pattr name = "numR" value = "27" />
+		</patcher>
+		<patcher name = "St.PresetAid.poly.sub.2">
+			<pattr name = "gain~L" value = "25" />
+			<pattr name = "gain~R" value = "60" />
+			<pattr name = "numL" value = "111" />
+			<pattr name = "numR" value = "34" />
+		</patcher>
+		<patcher name = "St.PresetAid.poly.sub.3">
+			<pattr name = "gain~L" value = "50" />
+			<pattr name = "gain~R" value = "66" />
+			<pattr name = "numL" value = "20" />
+			<pattr name = "numR" value = "33" />
+		</patcher>
+		<patcher name = "St.PresetAid.poly.sub.4">
+			<pattr name = "gain~L" value = "63" />
+			<pattr name = "gain~R" value = "76" />
+			<pattr name = "numL" value = "107" />
+			<pattr name = "numR" value = "46" />
+		</patcher>
+		<patcher name = "St.PresetAid.poly.sub.5">
+			<pattr name = "gain~L" value = "118" />
+			<pattr name = "gain~R" value = "70" />
+			<pattr name = "numL" value = "38" />
+			<pattr name = "numR" value = "107" />
+		</patcher>
+		<patcher name = "St.PresetAid.help.sub">
+			<pattr name = "dial[0]" value = "100" />
+			<pattr name = "dial[1]" value = "37" />
+			<pattr name = "dial[2]" value = "72" />
+			<pattr name = "uslider" value = "22" />
+		</patcher>
+		<patcher name = "St.PresetAid.help.sub[1]">
+			<pattr name = "dial[0]" value = "35" />
+			<pattr name = "dial[1]" value = "64" />
+			<pattr name = "dial[2]" value = "37" />
+			<pattr name = "uslider" value = "75" />
+		</patcher>
+		<patcher name = "St.PresetAid.help.sub[2]">
+			<pattr name = "dial[0]" value = "47" />
+			<pattr name = "dial[1]" value = "56" />
+			<pattr name = "dial[2]" value = "110" />
+			<pattr name = "uslider" value = "127" />
+		</patcher>
+	</slot>
+	<slot number = "6" name = "bleeding glass">
+		<pattr name = "dial" value = "34" />
+		<pattr name = "number" value = "57" />
+		<pattr name = "toggle" value = "0" />
+		<pattr name = "uslider" value = "67" />
+		<pattr name = "uslider[1]" value = "64" />
+		<pattr name = "uslider[2]" value = "70" />
+		<pattr name = "uslider[3]" value = "69" />
+		<patcher name = "St.PresetAid.poly.sub.1">
+			<pattr name = "gain~L" value = "54" />
+			<pattr name = "gain~R" value = "129" />
+			<pattr name = "numL" value = "885" />
+			<pattr name = "numR" value = "804" />
+		</patcher>
+		<patcher name = "St.PresetAid.poly.sub.2">
+			<pattr name = "gain~L" value = "133" />
+			<pattr name = "gain~R" value = "146" />
+			<pattr name = "numL" value = "314" />
+			<pattr name = "numR" value = "796" />
+		</patcher>
+		<patcher name = "St.PresetAid.poly.sub.3">
+			<pattr name = "gain~L" value = "157" />
+			<pattr name = "gain~R" value = "11" />
+			<pattr name = "numL" value = "189" />
+			<pattr name = "numR" value = "286" />
+		</patcher>
+		<patcher name = "St.PresetAid.poly.sub.4">
+			<pattr name = "gain~L" value = "14" />
+			<pattr name = "gain~R" value = "131" />
+			<pattr name = "numL" value = "951" />
+			<pattr name = "numR" value = "580" />
+		</patcher>
+		<patcher name = "St.PresetAid.poly.sub.5">
+			<pattr name = "gain~L" value = "86" />
+			<pattr name = "gain~R" value = "73" />
+			<pattr name = "numL" value = "948" />
+			<pattr name = "numR" value = "938" />
+		</patcher>
+		<patcher name = "St.PresetAid.help.sub">
+			<pattr name = "dial[0]" value = "78" />
+			<pattr name = "dial[1]" value = "67" />
+			<pattr name = "dial[2]" value = "60" />
+			<pattr name = "uslider" value = "52" />
+		</patcher>
+		<patcher name = "St.PresetAid.help.sub[1]">
+			<pattr name = "dial[0]" value = "56" />
+			<pattr name = "dial[1]" value = "64" />
+			<pattr name = "dial[2]" value = "80" />
+			<pattr name = "uslider" value = "14" />
+		</patcher>
+		<patcher name = "St.PresetAid.help.sub[2]">
+			<pattr name = "dial[0]" value = "63" />
+			<pattr name = "dial[1]" value = "62" />
+			<pattr name = "dial[2]" value = "74" />
+			<pattr name = "uslider" value = "105" />
+		</patcher>
+	</slot>
+	<slot number = "10" name = "violant drops">
+		<pattr name = "dial" value = "29" />
+		<pattr name = "number" value = "71" />
+		<pattr name = "toggle" value = "0" />
+		<pattr name = "uslider" value = "30" />
+		<pattr name = "uslider[1]" value = "71" />
+		<pattr name = "uslider[2]" value = "46" />
+		<pattr name = "uslider[3]" value = "92" />
+		<patcher name = "St.PresetAid.poly.sub.1">
+			<pattr name = "gain~L" value = "112" />
+			<pattr name = "gain~R" value = "126" />
+			<pattr name = "numL" value = "111" />
+			<pattr name = "numR" value = "116" />
+		</patcher>
+		<patcher name = "St.PresetAid.poly.sub.2">
+			<pattr name = "gain~L" value = "157" />
+			<pattr name = "gain~R" value = "157" />
+			<pattr name = "numL" value = "11" />
+			<pattr name = "numR" value = "3" />
+		</patcher>
+		<patcher name = "St.PresetAid.poly.sub.3">
+			<pattr name = "gain~L" value = "136" />
+			<pattr name = "gain~R" value = "130" />
+			<pattr name = "numL" value = "55" />
+			<pattr name = "numR" value = "40" />
+		</patcher>
+		<patcher name = "St.PresetAid.poly.sub.4">
+			<pattr name = "gain~L" value = "124" />
+			<pattr name = "gain~R" value = "127" />
+			<pattr name = "numL" value = "96" />
+			<pattr name = "numR" value = "81" />
+		</patcher>
+		<patcher name = "St.PresetAid.poly.sub.5">
+			<pattr name = "gain~L" value = "113" />
+			<pattr name = "gain~R" value = "125" />
+			<pattr name = "numL" value = "74" />
+			<pattr name = "numR" value = "59" />
+		</patcher>
+		<patcher name = "St.PresetAid.help.sub">
+			<pattr name = "dial[0]" value = "0" />
+			<pattr name = "dial[1]" value = "0" />
+			<pattr name = "dial[2]" value = "127" />
+			<pattr name = "uslider" value = "55" />
+		</patcher>
+		<patcher name = "St.PresetAid.help.sub[1]">
+			<pattr name = "dial[0]" value = "91" />
+			<pattr name = "dial[1]" value = "108" />
+			<pattr name = "dial[2]" value = "39" />
+			<pattr name = "uslider" value = "55" />
+		</patcher>
+		<patcher name = "St.PresetAid.help.sub[2]">
+			<pattr name = "dial[0]" value = "88" />
+			<pattr name = "dial[1]" value = "69" />
+			<pattr name = "dial[2]" value = "115" />
+			<pattr name = "uslider" value = "127" />
+		</patcher>
+	</slot>
+	<slot number = "21" name = "liquid sheets">
+		<pattr name = "dial" value = "50" />
+		<pattr name = "number" value = "13" />
+		<pattr name = "toggle" value = "1" />
+		<pattr name = "uslider" value = "97" />
+		<pattr name = "uslider[1]" value = "84" />
+		<pattr name = "uslider[2]" value = "76" />
+		<pattr name = "uslider[3]" value = "87" />
+		<patcher name = "St.PresetAid.poly.sub.1">
+			<pattr name = "gain~L" value = "87" />
+			<pattr name = "gain~R" value = "24" />
+			<pattr name = "numL" value = "120" />
+			<pattr name = "numR" value = "29" />
+		</patcher>
+		<patcher name = "St.PresetAid.poly.sub.2">
+			<pattr name = "gain~L" value = "72" />
+			<pattr name = "gain~R" value = "14" />
+			<pattr name = "numL" value = "110" />
+			<pattr name = "numR" value = "98" />
+		</patcher>
+		<patcher name = "St.PresetAid.poly.sub.3">
+			<pattr name = "gain~L" value = "32" />
+			<pattr name = "gain~R" value = "50" />
+			<pattr name = "numL" value = "15" />
+			<pattr name = "numR" value = "121" />
+		</patcher>
+		<patcher name = "St.PresetAid.poly.sub.4">
+			<pattr name = "gain~L" value = "45" />
+			<pattr name = "gain~R" value = "29" />
+			<pattr name = "numL" value = "28" />
+			<pattr name = "numR" value = "6" />
+		</patcher>
+		<patcher name = "St.PresetAid.poly.sub.5">
+			<pattr name = "gain~L" value = "72" />
+			<pattr name = "gain~R" value = "103" />
+			<pattr name = "numL" value = "104" />
+			<pattr name = "numR" value = "39" />
+		</patcher>
+		<patcher name = "St.PresetAid.help.sub">
+			<pattr name = "dial[0]" value = "10" />
+			<pattr name = "dial[1]" value = "21" />
+			<pattr name = "dial[2]" value = "41" />
+			<pattr name = "uslider" value = "57" />
+		</patcher>
+		<patcher name = "St.PresetAid.help.sub[1]">
+			<pattr name = "dial[0]" value = "105" />
+			<pattr name = "dial[1]" value = "79" />
+			<pattr name = "dial[2]" value = "63" />
+			<pattr name = "uslider" value = "44" />
+		</patcher>
+		<patcher name = "St.PresetAid.help.sub[2]">
+			<pattr name = "dial[0]" value = "121" />
+			<pattr name = "dial[1]" value = "0" />
+			<pattr name = "dial[2]" value = "127" />
+			<pattr name = "uslider" value = "61" />
+		</patcher>
+	</slot>
+	<slot number = "40" name = "all on">
+		<pattr name = "dial" value = "127" />
+		<pattr name = "number" value = "1" />
+		<pattr name = "toggle" value = "1" />
+		<pattr name = "uslider" value = "127" />
+		<pattr name = "uslider[1]" value = "127" />
+		<pattr name = "uslider[2]" value = "127" />
+		<pattr name = "uslider[3]" value = "127" />
+		<patcher name = "St.PresetAid.poly.sub.1">
+			<pattr name = "gain~L" value = "127" />
+			<pattr name = "gain~R" value = "127" />
+			<pattr name = "numL" value = "1" />
+			<pattr name = "numR" value = "1" />
+		</patcher>
+		<patcher name = "St.PresetAid.poly.sub.2">
+			<pattr name = "gain~L" value = "127" />
+			<pattr name = "gain~R" value = "127" />
+			<pattr name = "numL" value = "1" />
+			<pattr name = "numR" value = "1" />
+		</patcher>
+		<patcher name = "St.PresetAid.poly.sub.3">
+			<pattr name = "gain~L" value = "127" />
+			<pattr name = "gain~R" value = "127" />
+			<pattr name = "numL" value = "1" />
+			<pattr name = "numR" value = "1" />
+		</patcher>
+		<patcher name = "St.PresetAid.poly.sub.4">
+			<pattr name = "gain~L" value = "127" />
+			<pattr name = "gain~R" value = "127" />
+			<pattr name = "numL" value = "1" />
+			<pattr name = "numR" value = "1" />
+		</patcher>
+		<patcher name = "St.PresetAid.poly.sub.5">
+			<pattr name = "gain~L" value = "127" />
+			<pattr name = "gain~R" value = "127" />
+			<pattr name = "numL" value = "1" />
+			<pattr name = "numR" value = "1" />
+		</patcher>
+		<patcher name = "St.PresetAid.help.sub">
+			<pattr name = "dial[0]" value = "127" />
+			<pattr name = "dial[1]" value = "127" />
+			<pattr name = "dial[2]" value = "127" />
+			<pattr name = "uslider" value = "127" />
+		</patcher>
+		<patcher name = "St.PresetAid.help.sub[1]">
+			<pattr name = "dial[0]" value = "127" />
+			<pattr name = "dial[1]" value = "127" />
+			<pattr name = "dial[2]" value = "125" />
+			<pattr name = "uslider" value = "127" />
+		</patcher>
+		<patcher name = "St.PresetAid.help.sub[2]">
+			<pattr name = "dial[0]" value = "127" />
+			<pattr name = "dial[1]" value = "127" />
+			<pattr name = "dial[2]" value = "127" />
+			<pattr name = "uslider" value = "127" />
+		</patcher>
+	</slot>
+	<slot number = "50" name = "all zero">
+		<pattr name = "dial" value = "0" />
+		<pattr name = "number" value = "0" />
+		<pattr name = "toggle" value = "0" />
+		<pattr name = "uslider" value = "0" />
+		<pattr name = "uslider[1]" value = "0" />
+		<pattr name = "uslider[2]" value = "0" />
+		<pattr name = "uslider[3]" value = "0" />
+		<patcher name = "St.PresetAid.poly.sub.1">
+			<pattr name = "gain~L" value = "0" />
+			<pattr name = "gain~R" value = "0" />
+			<pattr name = "numL" value = "0" />
+			<pattr name = "numR" value = "0" />
+		</patcher>
+		<patcher name = "St.PresetAid.poly.sub.2">
+			<pattr name = "gain~L" value = "0" />
+			<pattr name = "gain~R" value = "0" />
+			<pattr name = "numL" value = "0" />
+			<pattr name = "numR" value = "0" />
+		</patcher>
+		<patcher name = "St.PresetAid.poly.sub.3">
+			<pattr name = "gain~L" value = "0" />
+			<pattr name = "gain~R" value = "0" />
+			<pattr name = "numL" value = "0" />
+			<pattr name = "numR" value = "0" />
+		</patcher>
+		<patcher name = "St.PresetAid.poly.sub.4">
+			<pattr name = "gain~L" value = "0" />
+			<pattr name = "gain~R" value = "0" />
+			<pattr name = "numL" value = "0" />
+			<pattr name = "numR" value = "0" />
+		</patcher>
+		<patcher name = "St.PresetAid.poly.sub.5">
+			<pattr name = "gain~L" value = "0" />
+			<pattr name = "gain~R" value = "0" />
+			<pattr name = "numL" value = "0" />
+			<pattr name = "numR" value = "0" />
+		</patcher>
+		<patcher name = "St.PresetAid.help.sub">
+			<pattr name = "dial[0]" value = "0" />
+			<pattr name = "dial[1]" value = "0" />
+			<pattr name = "dial[2]" value = "0" />
+			<pattr name = "uslider" value = "0" />
+		</patcher>
+		<patcher name = "St.PresetAid.help.sub[1]">
+			<pattr name = "dial[0]" value = "0" />
+			<pattr name = "dial[1]" value = "0" />
+			<pattr name = "dial[2]" value = "0" />
+			<pattr name = "uslider" value = "0" />
+		</patcher>
+		<patcher name = "St.PresetAid.help.sub[2]">
+			<pattr name = "dial[0]" value = "0" />
+			<pattr name = "dial[1]" value = "0" />
+			<pattr name = "dial[2]" value = "0" />
+			<pattr name = "uslider" value = "0" />
+		</patcher>
+	</slot>
+	<slot number = "51" name = " ">
+		<pattr name = "dial" value = "50" />
+		<pattr name = "number" value = "13" />
+		<pattr name = "toggle" value = "1" />
+		<pattr name = "uslider" value = "97" />
+		<pattr name = "uslider[1]" value = "84" />
+		<pattr name = "uslider[2]" value = "76" />
+		<pattr name = "uslider[3]" value = "87" />
+		<patcher name = "St.PresetAid.poly.sub.1">
+			<pattr name = "gain~L" value = "0" />
+			<pattr name = "gain~R" value = "0" />
+			<pattr name = "numL" value = "0" />
+			<pattr name = "numR" value = "0" />
+		</patcher>
+		<patcher name = "St.PresetAid.poly.sub.2">
+			<pattr name = "gain~L" value = "0" />
+			<pattr name = "gain~R" value = "0" />
+			<pattr name = "numL" value = "0" />
+			<pattr name = "numR" value = "0" />
+		</patcher>
+		<patcher name = "St.PresetAid.poly.sub.3">
+			<pattr name = "gain~L" value = "0" />
+			<pattr name = "gain~R" value = "0" />
+			<pattr name = "numL" value = "0" />
+			<pattr name = "numR" value = "0" />
+		</patcher>
+		<patcher name = "St.PresetAid.poly.sub.4">
+			<pattr name = "gain~L" value = "0" />
+			<pattr name = "gain~R" value = "0" />
+			<pattr name = "numL" value = "0" />
+			<pattr name = "numR" value = "0" />
+		</patcher>
+		<patcher name = "St.PresetAid.poly.sub.5">
+			<pattr name = "gain~L" value = "0" />
+			<pattr name = "gain~R" value = "0" />
+			<pattr name = "numL" value = "0" />
+			<pattr name = "numR" value = "0" />
+		</patcher>
+		<patcher name = "St.PresetAid.help.sub">
+			<pattr name = "dial[0]" value = "0" />
+			<pattr name = "dial[1]" value = "0" />
+			<pattr name = "dial[2]" value = "0" />
+			<pattr name = "uslider" value = "0" />
+		</patcher>
+		<patcher name = "St.PresetAid.help.sub[1]">
+			<pattr name = "dial[0]" value = "0" />
+			<pattr name = "dial[1]" value = "0" />
+			<pattr name = "dial[2]" value = "0" />
+			<pattr name = "uslider" value = "0" />
+		</patcher>
+		<patcher name = "St.PresetAid.help.sub[2]">
+			<pattr name = "dial[0]" value = "0" />
+			<pattr name = "dial[1]" value = "0" />
+			<pattr name = "dial[2]" value = "0" />
+			<pattr name = "uslider" value = "0" />
+		</patcher>
+	</slot>
+</pattrstorage>
+

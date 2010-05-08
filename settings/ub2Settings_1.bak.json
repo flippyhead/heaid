@@ -1,0 +1,25 @@
+{
+	"pattrstorage" : 	{
+		"name" : "ub2Settings",
+		"slots" : 		{
+			"10" : 			{
+				"id" : 10,
+				"data" : 				{
+					"codecquality" : [ 5 ],
+					"gamma" : [ 0 ],
+					"iidc_brightness" : [ 0.5 ],
+					"iidc_exposure" : [ 0.499022 ],
+					"iidc_gain" : [ 1.0 ],
+					"iidc_sharpness" : [ 0.0 ],
+					"iidc_shutter" : [ 1.0 ],
+					"metrospeed" : [ 33.0 ],
+					"vmode" : [ 2 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

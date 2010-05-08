@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<pattrstorage name = "steve.GLsettings">
+	<slot number = "1">
+		<pattr name = "renderFreq" value = "40" />
+		<pattr name = "toggle[10]" value = "1" />
+		<pattr name = "toggle[3]" value = "1" />
+		<pattr name = "toggle[4]" value = "1" />
+		<pattr name = "toggle[8]" value = "1" />
+		<pattr name = "toggle[9]" value = "1" />
+		<patcher name = "glShapes">
+			<pattr name = "steve.GLeyesSettings" value = "" />
+		</patcher>
+	</slot>
+	<slot number = "2">
+		<pattr name = "renderFreq" value = "40" />
+		<pattr name = "toggle[10]" value = "1" />
+		<pattr name = "toggle[3]" value = "0" />
+		<pattr name = "toggle[4]" value = "0" />
+		<pattr name = "toggle[8]" value = "1" />
+		<pattr name = "toggle[9]" value = "1" />
+		<patcher name = "glShapes">
+			<pattr name = "steve.GLeyesSettings" value = "8" />
+		</patcher>
+	</slot>
+</pattrstorage>
+

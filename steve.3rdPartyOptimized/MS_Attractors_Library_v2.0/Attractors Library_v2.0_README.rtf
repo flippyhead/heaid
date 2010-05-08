@@ -1,0 +1,133 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf250
+{\fonttbl\f0\fswiss\fcharset0 ArialMT;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue255;}
+{\*\listtable{\list\listtemplateid1\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid1\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid1}}
+{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}}
+\paperw11900\paperh16840\margl1440\margr1440\vieww14540\viewh15680\viewkind0
+\deftab720
+\pard\tx565\tx1133\tx1700\tx2266\tx2832\tx3401\tx3967\tx4535\tx5102\tx5669\tx6235\tx6802\pardeftab720\ri380\ql\qnatural
+
+\f0\b\fs26 \cf0 Attractors Library (version 2.0)                                  
+\b0 Date : 01/02/2010\
+& 
+\i\fs24 Attractors \'96 Mapping Examples
+\b \
+
+\i0\b0\fs26 \
+\pard\pardeftab720\ri380\qj
+
+\i\b\fs24 \cf0 Attractors Library
+\i0\b0  is a collection of modules \'96 MAX/MSP/Jitter and Max externals \'96 based on iterative mathematical equations representing nonlinear dynamic systems whose evolution is unpredictable on a long run. It is accompanied by a collection of 
+\i\b Attractors \'96 Mapping Examples 
+\i0\b0 showing how certain attractors-generating equations can be used for mapping one set of parameters into another.\
+\pard\tx565\tx1133\tx1700\tx2266\tx2832\tx3401\tx3967\tx4535\tx5102\tx5669\tx6235\tx6802\pardeftab720\ri380\ql\qnatural
+
+\fs22 \cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\ri380\ql\qnatural
+\cf0 \
+Attractors Library is free software distributed under 
+\i GNU General Public License (GPL) 
+\i0 and intended for use on  OS X running computers (Widows version will follow soon). \
+This distribution is tested on Mac OS X 10.5 (Leopard) using Max 5.1;\
+\
+\
+\
+\
+\pard\pardeftab720\ri380\qj
+\cf0 Copyright \'a9 2009-2010 Miroslav Spasov. 
+\i\b \
+\pard\pardeftab720\ri380\ql\qnatural
+
+\i0\b0 \cf0 *****************************************\
+Miroslav Spasov\
+KEELE UNIVERSITY\
+School of Humanities/MUSIC\
+Keele - Staffordshire - ST5 5BG\
+United Kingdom\
+Tel: + 44 (0) 1782 733395\
+E-mail:\'a0 {\field{\*\fldinst{HYPERLINK "mailto:m.spasov@mus.keele.ac.uk"}}{\fldrslt \cf2 \ul \ulc2 m.spasov@mus.keele.ac.uk}}\
+******************************************\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\ri380\ql\qnatural
+\cf0          \
+For software updates and additional information: \
+\pard\pardeftab720\ri380\qj
+
+\b \cf0 \
+http://www.keele.ac.uk/depts/mu/staff/miroslav.htm\
+\pard\tx565\tx1133\tx1700\tx2266\tx2832\tx3401\tx3967\tx4535\tx5102\tx5669\tx6235\tx6802\pardeftab720\ri380\ql\qnatural
+\cf0 \
+\pard\tx565\tx1133\tx1700\tx2266\tx2832\tx3401\tx3967\tx4535\tx5102\tx5669\tx6235\tx6802\pardeftab720\ri380\ql\qnatural
+
+\b0 \cf0 \
+\pard\tx565\tx1133\tx1700\tx2266\tx2832\tx3401\tx3967\tx4535\tx5102\tx5669\tx6235\tx6802\pardeftab720\ri380\ql\qnatural
+
+\b \cf0 \
+\
+Credits\
+\
+\pard\tx565\tx1133\tx1700\tx2266\tx2832\tx3401\tx3967\tx4535\tx5102\tx5669\tx6235\tx6802\pardeftab720\ri380\qj
+
+\b0 \cf0 I would like to thank IRCAM\'92s imtr - team for developing the great MnM (IRCAM) library and making it available for further use free of charge. 
+\i fmat and mnm.matmap
+\i0  objects/abstractions which are part of the FTM-based MnM Library were used with slight modification in conjunction with 
+\i Attractor\'92s Library 
+\i0  and the 
+\i Mapping
+\i0  
+\i Examples
+\i0 ;\
+\pard\tx565\tx925\tx1133\tx1700\tx2266\tx2832\tx3401\tx3967\tx4535\tx5102\tx5669\tx6235\tx6802\pardeftab720\li925\fi-360\ri380\qj
+\ls1\ilvl0\cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\ri380\ql\qnatural
+\ls1\ilvl0\cf0 FTM\'92s MnM Library is a trademark of IRCAM, Paris.  \
+\pard\tx565\tx1133\tx1700\tx2266\tx2832\tx3401\tx3967\tx4535\tx5102\tx5669\tx6235\tx6802\pardeftab720\ri380\ql\qnatural
+\cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\ri380\ql\qnatural
+
+\b \cf0 Installation
+\b0  \
+\pard\pardeftab720\ri380\qj
+\cf0 \
+Place the Attractors Library folder anywhere on file search paths.
+\i\b \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\ri380\ql\qnatural
+
+\i0 \cf0 \
+\pard\pardeftab720\ri380\qj
+
+\i\fs24 \cf0 ****************************************************************************************************************************************************************************\
+RELEASE NOTES\
+\
+\
+\pard\tx565\tx1133\tx1700\tx2266\tx2832\tx3401\tx3967\tx4535\tx5102\tx5669\tx6235\tx6802\pardeftab720\ri380\ql\qnatural
+
+\i0\fs26 \cf0 Attractors Library (version 1.0)                                  
+\b0 Date : 01/07/2009\
+& 
+\i\fs24 Attractors \'96 Mapping Examples\
+\
+based on:\
+\
+Max 5 
+\i0 and Max Javascript objects\
+\
+**************************************************************************************
+\i \
+\
+
+\i0\b\fs26 Attractors Library (version 2.0)                                  
+\b0 Date : 01/02/2010\
+& 
+\i\fs24 Attractors \'96 Mapping Examples\
+\
+based on:\
+\
+Max 5 
+\i0 and Max externals\
+\
+The objects and Mapping Examples should work faster then the Javascript-based equivalents in v1.0\
+*************************************************************************************
+\i \
+
+\b \
+}

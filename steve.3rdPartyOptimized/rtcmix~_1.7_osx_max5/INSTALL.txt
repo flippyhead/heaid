@@ -1,0 +1,18 @@
+1.  Move the "RTcmix/" folder somewhere on the Max5 search path
+       (generally in "/Applications/Max5/Cycling '74/" or a subfolder
+       of that folder)
+
+2. Move the "RTcmix-help/ folder into one of the help folders on the Max5
+       search path (suggestion: "/Applications/Max5/Cycling '74/msp-help/")
+
+NOTE:  Be sure to move both folders intact -- do NOT take the rtcmix~.mxo
+object or rtcmix~.maxhelp patch files out of the folders!
+
+That's all there is!
+
+visit: http://rtcmix.org/ for more information
+
+Brad Garton
+garton - at - columbia.edu
+http://music.columbia.edu/~brad
+January, 2009

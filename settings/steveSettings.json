@@ -1,0 +1,119 @@
+{
+	"pattrstorage" : 	{
+		"name" : "steveSettings",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					">threshold" : [  ],
+					"BGpassThresh" : [  ],
+					"SrcDimEndx" : [ 560 ],
+					"SrcDimEndy" : [ 480 ],
+					"SrcDimStartX" : [ 80 ],
+					"SrcDimStartY" : [ 0 ],
+					"gamma" : [ 1 ],
+					"iidc_brightness" : [ 0.5 ],
+					"iidc_exposure" : [ 1.0 ],
+					"iidc_gain" : [ 0.9 ],
+					"iidc_sharpness" : [ 0.0 ],
+					"labelThreshold" : [ 88 ],
+					"sortThreshold" : [ 20 ],
+					"steveblobPreps_blobssource" : [ "presence" ],
+					"steveblobPreps_blobtype" : [ "filledgrey" ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					">threshold" : [  ],
+					"BGpassThresh" : [  ],
+					"SrcDimEndx" : [ 562 ],
+					"SrcDimEndy" : [ 480 ],
+					"SrcDimStartX" : [ 82 ],
+					"SrcDimStartY" : [ 0 ],
+					"gamma" : [ 1 ],
+					"iidc_brightness" : [ 0.576 ],
+					"iidc_exposure" : [ 1.0 ],
+					"iidc_gain" : [ 0.81 ],
+					"iidc_sharpness" : [ 0.0 ],
+					"labelThreshold" : [ 31 ],
+					"sortThreshold" : [ 20 ],
+					"steveblobPreps_blobssource" : [ "justMasked" ],
+					"steveblobPreps_blobtype" : [ "binedges" ]
+				}
+
+			}
+,
+			"3" : 			{
+				"id" : 3,
+				"data" : 				{
+					">threshold" : [  ],
+					"BGpassThresh" : [  ],
+					"SrcDimEndx" : [ 640 ],
+					"SrcDimEndy" : [ 480 ],
+					"SrcDimStartX" : [ 0 ],
+					"SrcDimStartY" : [ 0 ],
+					"gamma" : [ 1 ],
+					"iidc_brightness" : [ 0.5 ],
+					"iidc_exposure" : [ 0.873 ],
+					"iidc_gain" : [ 0.5 ],
+					"iidc_sharpness" : [ 0.11 ],
+					"labelThreshold" : [ 26 ],
+					"sortThreshold" : [ 32 ],
+					"steveblobPreps_blobssource" : [ "presence" ],
+					"steveblobPreps_blobtype" : [ "filledgrey" ]
+				}
+
+			}
+,
+			"4" : 			{
+				"id" : 4,
+				"data" : 				{
+					">threshold" : [  ],
+					"BGpassThresh" : [  ],
+					"SrcDimEndx" : [ 475 ],
+					"SrcDimEndy" : [ 420 ],
+					"SrcDimStartX" : [ 165 ],
+					"SrcDimStartY" : [ 160 ],
+					"gamma" : [ 1 ],
+					"iidc_brightness" : [ 0.116751 ],
+					"iidc_exposure" : [ 0.847716 ],
+					"iidc_gain" : [ 0.639594 ],
+					"iidc_sharpness" : [ 0.11 ],
+					"labelThreshold" : [ 26 ],
+					"sortThreshold" : [ 32 ],
+					"steveblobPreps_blobssource" : [ "presence" ],
+					"steveblobPreps_blobtype" : [ "filledgrey" ]
+				}
+
+			}
+,
+			"10" : 			{
+				"id" : 10,
+				"data" : 				{
+					">threshold" : [ 0.02 ],
+					"BGpassThresh" : [ 0.104 ],
+					"SrcDimEndx" : [ 580 ],
+					"SrcDimEndy" : [ 480 ],
+					"SrcDimStartX" : [ 80 ],
+					"SrcDimStartY" : [ 0 ],
+					"gamma" : [ 1 ],
+					"iidc_brightness" : [ 0.5 ],
+					"iidc_exposure" : [ 0.7 ],
+					"iidc_gain" : [ 0.6 ],
+					"iidc_sharpness" : [ 0.2 ],
+					"labelThreshold" : [ 25 ],
+					"sortThreshold" : [ 18 ],
+					"steveblobPreps_blobssource" : [ "presence" ],
+					"steveblobPreps_blobtype" : [ "binedges" ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
